@@ -41,13 +41,13 @@
      inkscape:window-height="709"
      id="namedview88"
      showgrid="false"
-     inkscape:zoom="0.5"
-     inkscape:cx="-293.21289"
-     inkscape:cy="-209.96492"
+     inkscape:zoom="1"
+     inkscape:cx="109.78711"
+     inkscape:cy="-9.96492"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="toggle-panning"
+     inkscape:current-layer="layer12"
      showborder="false"
      inkscape:snap-nodes="false"
      inkscape:snap-bbox="true"
@@ -1286,7 +1286,7 @@
        style="display:inline"
        id="format-justify-right"
        inkscape:label="format-justify-right"
-       transform="translate(121.00038,-341.36221)">
+       transform="translate(193.00038,-341.36221)">
       <rect
          transform="translate(-144,220.36202)"
          y="280.00018"
@@ -1336,7 +1336,7 @@
        style="display:inline"
        id="format-justify-center"
        inkscape:label="format-justify-center"
-       transform="translate(133.00039,-341.36221)">
+       transform="translate(205.00039,-341.36221)">
       <rect
          style="color:#555753;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible"
          id="rect17450"
@@ -1382,7 +1382,7 @@
        style="display:inline"
        id="format-justify-left"
        inkscape:label="format-justify-left"
-       transform="translate(145.0004,-341.36221)">
+       transform="translate(217.0004,-341.36221)">
       <rect
          inkscape:label="a"
          y="514.36212"
@@ -1428,7 +1428,7 @@
        style="display:inline"
        id="lc_decrementindent"
        inkscape:label="lc_decrementindent"
-       transform="translate(-58.999908,-341.36221)">
+       transform="translate(-58.999908,-305.3622)">
       <rect
          transform="scale(-1,1)"
          inkscape:label="a"
@@ -1484,7 +1484,7 @@
        style="display:inline"
        id="lc_incrementindent"
        inkscape:label="lc_incrementindent"
-       transform="translate(-70.999614,-341.36221)">
+       transform="translate(-70.999614,-305.3622)">
       <rect
          transform="translate(-144,220.36202)"
          y="280.00018"
@@ -1536,7 +1536,7 @@
        style="display:inline"
        id="list-unordered"
        inkscape:label="list-unordered"
-       transform="translate(1.00038,-341.36221)">
+       transform="translate(73.00038,-341.36221)">
       <rect
          transform="translate(-144,220.36202)"
          y="280.00018"
@@ -1622,7 +1622,7 @@
        style="display:inline"
        id="list-ordered"
        inkscape:label="list-ordered"
-       transform="translate(-82.99962,-341.36221)">
+       transform="translate(-10.99962,-341.36221)">
       <rect
          inkscape:label="a"
          y="514.36224"
@@ -2038,7 +2038,7 @@
          style="opacity:0.35;fill:#bebebe;fill-opacity:1;stroke:none" />
     </g>
     <g
-       transform="matrix(1.5,0,0,1.5,-581.4996,-1059.5433)"
+       transform="matrix(1.5,0,0,1.5,-581.4996,-1095.5433)"
        id="format-text-superscript"
        inkscape:label="format-text-superscript">
       <rect
@@ -2062,7 +2062,7 @@
          id="path11643-3-2-8-2-2" />
     </g>
     <g
-       transform="matrix(1.5,0,0,1.5,-590.49961,-1059.5433)"
+       transform="matrix(1.5,0,0,1.5,-590.49961,-1095.5433)"
        id="format-text-subscript"
        inkscape:label="#g15901">
       <rect
