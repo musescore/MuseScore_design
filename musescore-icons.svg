@@ -43,12 +43,12 @@
      id="namedview88"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="62.583715"
-     inkscape:cy="25.071163"
+     inkscape:cx="63.583715"
+     inkscape:cy="65.071163"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g6252"
+     inkscape:current-layer="layer12"
      showborder="false"
      inkscape:snap-nodes="false"
      inkscape:snap-bbox="true"
@@ -2181,8 +2181,8 @@
     </g>
     <g
        style="display:inline"
-       id="g6252"
-       inkscape:label="emblem-music"
+       id="insert-notes"
+       inkscape:label="insert-notes"
        transform="matrix(1.5,0,0,1.5,-579.99962,-377.99997)">
       <g
          transform="translate(235.8093,-581.17812)"
