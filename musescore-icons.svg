@@ -43,12 +43,12 @@
      id="namedview88"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="-77.284772"
-     inkscape:cy="-28.557101"
+     inkscape:cx="29.091638"
+     inkscape:cy="-20.241851"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g7303"
+     inkscape:current-layer="layer12"
      showborder="false"
      inkscape:snap-nodes="false"
      inkscape:snap-bbox="true"
@@ -2505,5 +2505,41 @@
        inkscape:label="insert-notes"
        id="g7587"
        style="display:inline" />
+    <g
+       style="display:inline"
+       id="g7644"
+       inkscape:label="insert-notes"
+       transform="matrix(1.5,0,0,1.5,-651.99961,-341.99997)">
+      <g
+         transform="translate(235.8093,-581.17812)"
+         id="g7646"
+         inkscape:label="emblem-important"
+         style="fill:#333333">
+        <rect
+           y="963.1781"
+           x="346.1907"
+           height="16"
+           width="16"
+           id="rect7648"
+           style="color:#bebebe;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      </g>
+      <path
+         transform="matrix(0.96856164,0,0,0.95933761,254.21458,227.91124)"
+         d="m 348.42686,174.17094 a 2.4306796,2.1065886 0 1 1 -4.86135,0 2.4306796,2.1065886 0 1 1 4.86135,0 z"
+         sodipodi:ry="2.1065886"
+         sodipodi:rx="2.4306796"
+         sodipodi:cy="174.17094"
+         sodipodi:cx="345.99619"
+         id="path7650"
+         style="color:#000000;fill:#bebebe;fill-opacity:1;stroke:#bebebe;stroke-width:0.64818168;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+         sodipodi:type="arc" />
+      <rect
+         y="382.66638"
+         x="590.6665"
+         height="12.182679"
+         width="1.3333334"
+         id="rect7652"
+         style="color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.50800002;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
+    </g>
   </g>
 </svg>
