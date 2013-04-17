@@ -43,8 +43,8 @@
      id="namedview88"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="128.46091"
-     inkscape:cy="-14.525789"
+     inkscape:cx="259.22183"
+     inkscape:cy="-38.512942"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -3026,7 +3026,7 @@
       <g
          style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#eeeeec;fill-opacity:1;stroke:none;display:inline;font-family:MScore1;-inkscape-font-specification:MScore1"
          id="g10220-4"
-         transform="matrix(0.93274453,0.03314787,-0.03314787,0.93274453,582.29237,379.12517)">
+         transform="matrix(0.93274453,0.03314787,-0.03314787,0.93274453,582.54237,379.26384)">
         <path
            style="fill:#bebebe;fill-opacity:1;stroke:none"
            d="m 11.962859,11.085134 c -0.818886,0.0291 -2.1161345,0.78994 -2.1161345,0.78994 l 0.050737,1.42767 c 0,0 0.6746805,-0.721884 1.4022995,-0.764571 0.727619,-0.04269 1.014689,0.212602 1.043915,1.035006 0.02923,0.822404 -2.344742,2.584905 -2.344742,2.584905 l 0.050734,1.427669 c 0,0 3.827954,-3.071372 3.767541,-4.600991 -0.06041,-1.529619 -1.035464,-1.92873 -1.85435,-1.899628 z"
@@ -3038,10 +3038,10 @@
          sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
          id="path19779-6-7"
-         d="m 589.74988,383.86131 0,12 1.33334,0 0,-12 z"
+         d="m 589.99988,383.99998 0,12 1.33334,0 0,-12 z"
          style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
       <g
-         transform="matrix(0.93274453,0.03314787,-0.03314787,0.93274453,578.29238,379.12517)"
+         transform="matrix(0.93274453,0.03314787,-0.03314787,0.93274453,578.54238,379.26384)"
          id="g19962"
          style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#eeeeec;fill-opacity:1;stroke:none;display:inline;font-family:MScore1;-inkscape-font-specification:MScore1">
         <path
@@ -3053,7 +3053,7 @@
       </g>
       <path
          style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline"
-         d="m 585.74989,383.86131 0,12 1.33334,0 0,-12 z"
+         d="m 585.99989,383.99998 0,12 1.33334,0 0,-12 z"
          id="path19966"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccc" />
