@@ -43,12 +43,12 @@
      id="namedview88"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="110.23057"
-     inkscape:cy="84.036744"
+     inkscape:cx="110.40092"
+     inkscape:cy="56.482298"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="list-ordered"
+     inkscape:current-layer="format-justify-right"
      showborder="false"
      inkscape:snap-nodes="false"
      inkscape:snap-bbox="true"
@@ -1317,7 +1317,7 @@
       <rect
          style="color:#555753;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible"
          id="rect5992-3"
-         width="8"
+         width="4"
          height="1.9999999"
          x="-230.00003"
          y="519.36224"
@@ -1358,9 +1358,9 @@
       <rect
          style="color:#555753;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible"
          id="rect17452"
-         width="8.000001"
+         width="4"
          height="1.9999133"
-         x="168"
+         x="170"
          y="519.3623"
          inkscape:label="a" />
       <rect
@@ -1406,7 +1406,7 @@
          y="519.3623"
          x="114"
          height="1.9999388"
-         width="8"
+         width="4"
          id="rect17404"
          style="color:#555753;fill:#bebebe;fill-opacity:0.97698077;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible" />
       <rect
