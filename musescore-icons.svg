@@ -43,8 +43,8 @@
      id="namedview88"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="33.609671"
-     inkscape:cy="-22.157958"
+     inkscape:cx="134.54606"
+     inkscape:cy="22.943723"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -2540,11 +2540,6 @@
        inkscape:label="insert-notes"
        id="g3385"
        style="display:inline">
-      <path
-         style="color:#000000;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:0.64818168;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
-         d="M 27 30 C 24.790861 30 23 31.567003 23 33.5 C 23 35.432997 24.790861 37 27 37 C 29.209139 37 31 35.432997 31 33.5 C 31 31.567003 29.209139 30 27 30 z M 27 32 C 28.104553 32 29 32.671573 29 33.5 C 29 34.328427 28.104553 35 27 35 C 25.895447 35 25 34.328427 25 33.5 C 25 32.671573 25.895447 32 27 32 z "
-         transform="matrix(0.66666667,0,0,0.66666667,571.33321,372.66665)"
-         id="path4165-4-8" />
       <g
          style="fill:#333333"
          inkscape:label="emblem-important"
@@ -2562,9 +2557,14 @@
          style="color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.50800002;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
          id="rect3393"
          width="1.3333334"
-         height="12.182679"
+         height="12"
          x="590.6665"
-         y="382.66638" />
+         y="382.66666" />
+      <path
+         style="fill:#bebebe;fill-opacity:1;stroke:none"
+         d="M 27 29 C 24.790861 29 23 30.790861 23 33 C 23 35.209138 24.790861 37 27 37 C 29.209139 37 31 35.209138 31 33 C 31 30.790861 29.209139 29 27 29 z M 27 31 C 28.10457 31 29 31.89543 29 33 C 29 34.104568 28.10457 35 27 35 C 25.89543 35 25 34.104568 25 33 C 25 31.89543 25.89543 31 27 31 z "
+         transform="matrix(0.66666667,0,0,0.66666667,571.33321,372.66665)"
+         id="path4296" />
     </g>
   </g>
 </svg>
