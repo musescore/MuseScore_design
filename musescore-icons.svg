@@ -43,8 +43,8 @@
      id="namedview88"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="203.30403"
-     inkscape:cy="-31.795616"
+     inkscape:cx="166.4297"
+     inkscape:cy="-44.091289"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -3163,10 +3163,14 @@
          sodipodi:nodetypes="ccsssscccc" />
       <path
          style="color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.50800002;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
-         d="m 588.66656,397.33331 0,-5.64584 c 0.39139,0.19738 0.84914,0.3125 1.33333,0.3125 1.47276,0 2.66667,-1.04468 2.66667,-2.33333 0,-1.28867 -1.19391,-2.33334 -2.66667,-2.33334 -1.47275,0 -2.66666,1.04467 -2.66666,2.33334 0,0.0491 0.0174,0.0975 0.0208,0.14583 l -0.0208,0 0,7.52084 z"
-         id="path20293"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccsssscccc" />
+         d="M 276 61.71875 L 276 73 L 278 73 L 278 64.53125 C 276.86939 63.96109 276.1164 62.923823 276.03125 61.71875 L 276 61.71875 z "
+         transform="matrix(0.66666667,0,0,0.66666667,403.33322,348.66665)"
+         id="path20301" />
+      <path
+         style="color:#000000;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:0.64818168;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+         d="M 279.1875 58.0625 C 278.85488 58.122056 278.54696 58.248084 278.25 58.375 L 283.34375 63.4375 C 283.56319 63.14593 283.70007 62.812362 283.8125 62.46875 L 279.375 58.0625 C 279.31433 58.070837 279.24724 58.051804 279.1875 58.0625 z M 280.8125 58.0625 L 283.96875 61.25 C 283.8415 59.670944 282.54473 58.372656 280.8125 58.0625 z M 277.375 58.875 C 276.79954 59.312948 276.40317 59.87214 276.1875 60.53125 L 280.625 64.9375 C 281.38272 64.833382 282.07152 64.54622 282.625 64.125 L 277.375 58.875 z M 276.03125 61.75 C 276.1585 63.329056 277.45527 64.627344 279.1875 64.9375 L 276.03125 61.75 z "
+         transform="matrix(0.66666667,0,0,0.66666667,403.33322,348.66665)"
+         id="path4165-4-5" />
     </g>
   </g>
 </svg>
