@@ -43,7 +43,7 @@
      id="namedview88"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="187.40092"
+     inkscape:cx="67.400917"
      inkscape:cy="136.4823"
      inkscape:window-x="0"
      inkscape:window-y="27"
@@ -783,7 +783,7 @@
          y="111.94501"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:Raleway">actions</tspan></text>
     <g
-       transform="matrix(1.5,0,0,1.5,17.000402,-607.50002)"
+       transform="matrix(1.5,0,0,1.5,17.000402,-499.5)"
        inkscape:label="media-playback-start"
        id="media-playback-start"
        style="display:inline">
@@ -803,7 +803,7 @@
          sodipodi:nodetypes="ccccccsccccc" />
     </g>
     <g
-       transform="matrix(1.5,0,0,1.5,-66.9996,-607.50002)"
+       transform="matrix(1.5,0,0,1.5,-66.9996,-499.5)"
        inkscape:label="media-playback-pause"
        id="media-playback-pause"
        style="display:inline">
@@ -832,7 +832,7 @@
     </g>
     <g
        id="media-skip-backward"
-       transform="matrix(1.5,0,0,1.5,-203.50019,-864.00002)"
+       transform="matrix(1.5,0,0,1.5,-203.50019,-756)"
        inkscape:label="media-skip-backward">
       <rect
          style="color:#bebebe;fill:none;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible"
@@ -866,7 +866,7 @@
       </g>
     </g>
     <g
-       transform="matrix(1.5,0,0,1.5,-90.9996,-607.50002)"
+       transform="matrix(1.5,0,0,1.5,-90.9996,-499.5)"
        inkscape:label="media-record"
        id="media-record"
        style="display:inline">
@@ -885,28 +885,7 @@
          style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0pt;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;text-anchor:start;color:#bebebe;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78125;marker:none;visibility:visible;display:inline;overflow:visible;font-family:Andale Mono" />
     </g>
     <g
-       id="object-select"
-       inkscape:label="object-select"
-       transform="matrix(1.5,0,0,1.5,93.500102,-1057.5)">
-      <path
-         sodipodi:nodetypes="ccc"
-         inkscape:connector-curvature="0"
-         inkscape:original-d="m 64.333883,794.33031 2.999913,2.99886 5.999826,-5.99773"
-         inkscape:path-effect="#path-effect8915-0-8-2-7-4-4-8"
-         id="path8913-6-7-1-5"
-         d="m 64.333883,794.33031 2.999913,2.99886 5.999826,-5.99773"
-         style="fill:none;stroke:#bebebe;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      <rect
-         inkscape:label="a"
-         y="787"
-         x="61.000198"
-         height="16"
-         width="16"
-         id="rect8856-7"
-         style="color:#bebebe;fill:none;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible" />
-    </g>
-    <g
-       transform="matrix(1.4999984,0,0,1.4999984,-134.52349,-1574.0415)"
+       transform="matrix(1.4999984,0,0,1.4999984,-386.52349,-1574.0415)"
        id="document-new"
        inkscape:label="document-new">
       <rect
@@ -933,7 +912,7 @@
          style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.99999988;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
     </g>
     <g
-       transform="matrix(1.5,0,0,1.5,-158.49962,-1574.0433)"
+       transform="matrix(1.5,0,0,1.5,-410.49962,-1574.0433)"
        id="document-save"
        inkscape:label="document-save">
       <path
@@ -978,7 +957,7 @@
     </g>
     <g
        id="document-open"
-       transform="matrix(1.5,0,0,1.5,-98.50277,-1574.0433)"
+       transform="matrix(1.5,0,0,1.5,-350.50277,-1574.0433)"
        inkscape:label="document-open">
       <path
          sodipodi:nodetypes="sssssccsccssccscssccs"
@@ -997,7 +976,7 @@
     <g
        inkscape:label="document-save-as"
        id="document-save-as"
-       transform="matrix(1.5,0,0,1.5,-122.49962,-1574.0433)">
+       transform="matrix(1.5,0,0,1.5,-374.49962,-1574.0433)">
       <path
          style="color:#000000;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          d="m 352.99988,1135.3556 0.625,0.6666 6.77083,0 0.60417,-0.6666 -8,0 z m 1.22916,1.3333 2.79167,3 2.75,-3 -5.54167,0 z"
@@ -1041,7 +1020,7 @@
     </g>
     <g
        style="display:inline"
-       transform="matrix(1.5,0,0,1.5,376.50008,-382.50002)"
+       transform="matrix(1.5,0,0,1.5,160.50009,-382.50002)"
        inkscape:label="panel-community"
        id="panel-community">
       <path
@@ -1080,7 +1059,7 @@
          sodipodi:nodetypes="ccccccsc" />
       <path
          transform="matrix(1.0666667,0,0,1.0666667,-4.4664674,-21.666678)"
-         d="m 52,342.5 a 2.5,2.5 0 1 1 -5,0 2.5,2.5 0 1 1 5,0 z"
+         d="m 52,342.5 c 0,1.38071 -1.119288,2.5 -2.5,2.5 -1.380712,0 -2.5,-1.11929 -2.5,-2.5 0,-1.38071 1.119288,-2.5 2.5,-2.5 1.380712,0 2.5,1.11929 2.5,2.5 z"
          sodipodi:ry="2.5"
          sodipodi:rx="2.5"
          sodipodi:cy="342.5"
@@ -1093,7 +1072,7 @@
        style="display:inline"
        inkscape:label="document-print"
        id="document-print"
-       transform="matrix(1.5000001,0,0,1.4993893,401.00038,-473.75207)">
+       transform="matrix(1.5000001,0,0,1.4993893,113.00039,-473.75207)">
       <g
          id="g4365"
          inkscape:label="accessories-calculator">
@@ -1691,9 +1670,47 @@
          inkscape:label="a" />
     </g>
     <g
+       inkscape:label="toggle-photo-mode"
+       transform="matrix(1.5,0,0,1.5,299.00039,-202.5)"
+       id="toggle-photo-mode"
+       style="display:inline">
+      <rect
+         inkscape:label="audio-volume-high"
+         y="217"
+         x="20"
+         height="16"
+         width="16"
+         id="rect5914"
+         style="color:#bebebe;fill:none;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible" />
+      <rect
+         style="color:#bebebe;fill:none;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible"
+         id="rect5916"
+         width="16"
+         height="16"
+         x="20"
+         y="217"
+         inkscape:label="audio-volume-high" />
+      <path
+         style="fill:#bebebe;fill-opacity:1;stroke:none"
+         d="M -74,-18.09375 -74,-17 -88.9375,-17 C -90.088228,-17 -91,-16.088228 -91,-14.9375 l 0,10.875 C -91,-2.9117721 -90.088228,-2 -88.9375,-2 l 17.875,0 C -69.911772,-2 -69,-2.9117721 -69,-4.0625 l 0,-10.875 c 0,-1.128729 -0.879936,-2.028008 -2,-2.0625 l 0,-1.09375 -3,0 z M -87,-14 l 3,0 0,2 -3,0 0,-2 z m 10,0 c 2.761424,0 5,2.238576 5,5 0,2.7614237 -2.238576,5 -5,5 -2.761424,0 -5,-2.2385763 -5,-5 0,-2.761424 2.238576,-5 5,-5 z"
+         id="rect5957"
+         transform="matrix(0.66666667,0,0,0.66666667,81.3332,231.67319)"
+         inkscape:connector-curvature="0" />
+      <path
+         transform="matrix(0.47761194,0,0,0.47761194,67.253598,230.24035)"
+         d="m -73.8125,-9.5625 c 0,2.3126924 -1.874808,4.1875 -4.1875,4.1875 -2.312692,0 -4.1875,-1.8748076 -4.1875,-4.1875 0,-2.312692 1.874808,-4.1875 4.1875,-4.1875 2.312692,0 4.1875,1.874808 4.1875,4.1875 z"
+         sodipodi:ry="4.1875"
+         sodipodi:rx="4.1875"
+         sodipodi:cy="-9.5625"
+         sodipodi:cx="-78"
+         id="path5970"
+         style="fill:#bebebe;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+    </g>
+    <g
        style="display:inline"
        id="toggle-volume"
-       transform="matrix(1.5,0,0,1.5,11.000405,-94.5)"
+       transform="matrix(1.5,0,0,1.5,155.0004,-94.5)"
        inkscape:label="toggle-volume">
       <path
          sodipodi:end="7.0685835"
@@ -1762,7 +1779,7 @@
     </g>
     <g
        inkscape:label="toggle-midi"
-       transform="matrix(1.5,0,0,1.5,47.000402,-94.5)"
+       transform="matrix(1.5,0,0,1.5,191.0004,-94.5)"
        id="toggle-midi"
        style="display:inline">
       <rect
@@ -1851,7 +1868,7 @@
     <g
        style="display:inline"
        id="toggle-metronome"
-       transform="matrix(1.5,0,0,1.5,83.0004,-94.5)"
+       transform="matrix(1.5,0,0,1.5,227.0004,-94.5)"
        inkscape:label="toggle-metronome">
       <rect
          style="color:#bebebe;fill:none;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible"
@@ -1891,47 +1908,9 @@
       </g>
     </g>
     <g
-       inkscape:label="toggle-photo-mode"
-       transform="matrix(1.5,0,0,1.5,119.0004,-94.5)"
-       id="toggle-photo-mode"
-       style="display:inline">
-      <rect
-         inkscape:label="audio-volume-high"
-         y="217"
-         x="20"
-         height="16"
-         width="16"
-         id="rect5914"
-         style="color:#bebebe;fill:none;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible" />
-      <rect
-         style="color:#bebebe;fill:none;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible"
-         id="rect5916"
-         width="16"
-         height="16"
-         x="20"
-         y="217"
-         inkscape:label="audio-volume-high" />
-      <path
-         style="fill:#bebebe;fill-opacity:1;stroke:none"
-         d="M -74,-18.09375 -74,-17 -88.9375,-17 C -90.088228,-17 -91,-16.088228 -91,-14.9375 l 0,10.875 C -91,-2.9117721 -90.088228,-2 -88.9375,-2 l 17.875,0 C -69.911772,-2 -69,-2.9117721 -69,-4.0625 l 0,-10.875 c 0,-1.128729 -0.879936,-2.028008 -2,-2.0625 l 0,-1.09375 -3,0 z M -87,-14 l 3,0 0,2 -3,0 0,-2 z m 10,0 c 2.761424,0 5,2.238576 5,5 0,2.7614237 -2.238576,5 -5,5 -2.761424,0 -5,-2.2385763 -5,-5 0,-2.761424 2.238576,-5 5,-5 z"
-         id="rect5957"
-         transform="matrix(0.66666667,0,0,0.66666667,81.3332,231.67319)"
-         inkscape:connector-curvature="0" />
-      <path
-         transform="matrix(0.47761194,0,0,0.47761194,67.253598,230.24035)"
-         d="m -73.8125,-9.5625 c 0,2.3126924 -1.874808,4.1875 -4.1875,4.1875 -2.312692,0 -4.1875,-1.8748076 -4.1875,-4.1875 0,-2.312692 1.874808,-4.1875 4.1875,-4.1875 2.312692,0 4.1875,1.874808 4.1875,4.1875 z"
-         sodipodi:ry="4.1875"
-         sodipodi:rx="4.1875"
-         sodipodi:cy="-9.5625"
-         sodipodi:cx="-78"
-         id="path5970"
-         style="fill:#bebebe;fill-opacity:1;stroke:none"
-         sodipodi:type="arc" />
-    </g>
-    <g
        style="display:inline"
        id="toggle-play-repeats"
-       transform="matrix(1.5,0,0,1.5,155.0004,-94.5)"
+       transform="matrix(1.5,0,0,1.5,263.0004,-94.5)"
        inkscape:label="toggle-play-repeats">
       <rect
          style="color:#bebebe;fill:none;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible"
@@ -1990,7 +1969,7 @@
     </g>
     <g
        inkscape:label="toggle-panning"
-       transform="matrix(1.5,0,0,1.5,191.0004,-94.5)"
+       transform="matrix(1.5,0,0,1.5,299.0004,-94.5)"
        id="toggle-panning"
        style="display:inline">
       <rect
@@ -2082,7 +2061,7 @@
        style="display:inline"
        id="insert-notes"
        inkscape:label="insert-notes"
-       transform="matrix(1.5,0,0,1.5,-615.99961,-341.99997)">
+       transform="matrix(1.5,0,0,1.5,-507.99962,-449.99997)">
       <g
          transform="translate(235.8093,-581.17812)"
          id="g24872-2-6-5"
@@ -2608,12 +2587,12 @@
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
        style="display:inline"
-       transform="matrix(1.5,0,0,-1.4993893,191.00077,590.81923)"
+       transform="matrix(1.5,0,0,-1.4993893,227.00075,590.81923)"
        inkscape:label="edit-undo"
        id="edit-undo">
       <path
          transform="matrix(0.59259259,0,0,-0.59283396,-225.97246,425.31259)"
-         style="fill:none;stroke:#bebebe;stroke-width:3.37500000000000000;stroke-miterlimit:4;stroke-opacity:1"
+         style="fill:none;stroke:#bebebe;stroke-width:3.375;stroke-miterlimit:4;stroke-opacity:1"
          d="m 421.82812,202.93866 11.67188,0 c 2.48528,0 4.64061,2.01472 4.64061,4.5 0,2.48528 -2.15533,4.5 -4.64061,4.5 l -0.42188,0"
          id="path7017"
          inkscape:connector-curvature="0"
@@ -2639,12 +2618,12 @@
     <g
        id="edit-redo"
        inkscape:label="edit-redo"
-       transform="matrix(-1.5,0,0,-1.4993893,311.00003,590.81923)"
+       transform="matrix(-1.5,0,0,-1.4993893,347.00001,590.81923)"
        style="display:inline"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <path
-         style="fill:none;stroke:#bebebe;stroke-width:2.00040722000000004;stroke-miterlimit:4;stroke-opacity:1;display:inline"
+         style="fill:none;stroke:#bebebe;stroke-width:2.00040722;stroke-miterlimit:4;stroke-opacity:1;display:inline"
          d="m 23.999753,305.67061 6.91667,0 c 1.47275,0 2.74999,-1.1944 2.74999,-2.66775 0,-1.47336 -1.27724,-2.66776 -2.74999,-2.66776 l -0.25001,0"
          id="path7017-7"
          inkscape:connector-curvature="0"
