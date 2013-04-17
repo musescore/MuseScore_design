@@ -43,12 +43,12 @@
      id="namedview88"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="-171.15204"
-     inkscape:cy="90.539755"
+     inkscape:cx="-82.346744"
+     inkscape:cy="101.00009"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg7384"
+     inkscape:current-layer="edit-paste"
      showborder="false"
      inkscape:snap-nodes="false"
      inkscape:snap-bbox="true"
@@ -820,7 +820,7 @@
          transform="matrix(-1,0,0,1,199.00045,171)">
         <path
            style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-           d="m 34,491 0,8 1.333333,0 0,-8 z"
+           d="m 34.666667,491 0,8 1.333333,0 0,-8 z"
            id="path3807-1-1-9-3-0"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="ccccc" />
@@ -1217,36 +1217,32 @@
        id="edit-paste"
        transform="matrix(1.499999,0,0,1.4993883,23.000465,-601.68438)"
        inkscape:label="edit-paste">
-      <g
-         id="g16804"
-         transform="translate(26.666684,2.2222821e-7)">
-        <rect
-           transform="scale(-1,1)"
-           style="color:#555753;fill:none;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
-           id="rect16746"
-           y="507.33633"
-           x="-49.333313"
-           height="16"
-           width="16" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path16750"
-           d="m 35.999988,508.66966 c -0.796563,0.0247 -1.333334,0.53077 -1.333334,1.33333 l 0,11.33335 c 0,0.8182 0.515134,1.33333 1.333334,1.33333 3.882388,0.0617 6.629515,2e-5 10.000007,2e-5 0.8182,0 1.333334,-0.51513 1.333334,-1.33333 l 0,-11.33336 c 0,-0.81821 -0.515135,-1.33331 -1.333334,-1.33332 l -1.333335,-2e-5 0,1.33333 1.333335,2e-5 0,11.33335 -10.000007,-2e-5 0,-11.33335 1.333334,0 0,-1.33333 c -0.509259,10e-6 -0.824075,2e-5 -1.333334,0 z"
-           style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2.00000143;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-           sodipodi:nodetypes="csscssssccccccccc" />
-        <path
-           inkscape:connector-curvature="0"
-           id="rect4492-7"
-           d="m 38.666656,508.01599 c -0.410054,0.0161 -0.666667,0.25628 -0.666667,0.66666 l 0,1.33334 c 0,0.41038 0.256288,0.66781 0.666667,0.66667 l 4.66667,-0.013 c 0.410358,-0.001 0.666667,-0.25629 0.666667,-0.66667 l 0,-1.33334 c 0,-0.41038 -0.256614,-0.65056 -0.666667,-0.66666 l -2.000002,0 z"
-           style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline"
-           sodipodi:nodetypes="cssssssccc" />
-        <path
-           sodipodi:nodetypes="cccccc"
-           id="path4432-3"
-           d="m 37.33332,512.00301 0,7.33333 4.66667,-10e-6 2.66667,-2.66667 0,-4.66666 z"
-           style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline"
-           inkscape:connector-curvature="0" />
-      </g>
+      <rect
+         width="16"
+         height="16.006527"
+         x="-76"
+         y="507.3298"
+         id="rect16746"
+         style="color:#555753;fill:none;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+         transform="scale(-1,1)" />
+      <path
+         sodipodi:nodetypes="csscssssccccccccc"
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2.00000143;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+         d="m 62.666672,508.66966 c -0.796563,0.0247 -1.333334,0.53077 -1.333334,1.33333 l 0,11.33335 c 0,0.8182 0.515134,1.33333 1.333334,1.33333 3.882388,0.0617 6.629515,2e-5 10.000007,2e-5 0.8182,0 1.333334,-0.51513 1.333334,-1.33333 l 0,-11.33336 c 0,-0.81821 -0.515135,-1.33331 -1.333334,-1.33332 l -1.333335,-2e-5 0,1.33333 1.333335,2e-5 0,11.33335 -10.000007,-2e-5 0,-11.33335 1.333334,0 0,-1.33333 c -0.509259,10e-6 -0.824075,2e-5 -1.333334,0 z"
+         id="path16750"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="cssssssccc"
+         style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline"
+         d="m 65.33334,508.01599 c -0.410054,0.0161 -0.666667,0.25628 -0.666667,0.66666 l 0,1.33334 c 0,0.41038 0.256288,0.66781 0.666667,0.66667 l 4.66667,-0.013 c 0.410358,-0.001 0.666667,-0.25629 0.666667,-0.66667 l 0,-1.33334 c 0,-0.41038 -0.256614,-0.65056 -0.666667,-0.66666 l -2.000002,0 z"
+         id="rect4492-7"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline"
+         d="m 64.000004,512.00301 0,7.33333 4.66667,-10e-6 2.66667,-2.66667 0,-4.66666 z"
+         id="path4432-3"
+         sodipodi:nodetypes="cccccc" />
     </g>
     <g
        style="display:inline"
