@@ -43,8 +43,8 @@
      id="namedview88"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="359.99133"
-     inkscape:cy="-43.431898"
+     inkscape:cx="309.48474"
+     inkscape:cy="-89.61009"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -2954,7 +2954,7 @@
       </g>
       <path
          style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline"
-         d="m 587.33322,385.99997 0,9.33334 1.33333,0 0,-9.33334 z"
+         d="m 587.33322,385.99994 0,10.00004 1.33333,0 0,-10.00004 z"
          id="path19771-6"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccc" />
@@ -2968,11 +2968,11 @@
          sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
          id="path9467"
-         d="m 590.66655,384.66664 0,9.33334 1.33333,0 0,-9.33334 z"
+         d="m 590.66655,384.66661 0,10.00004 1.33333,0 0,-10.00004 z"
          style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
       <path
          style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline"
-         d="m 585.99988,393.33333 0,1.33334 7.33333,-4 0,-1.33333 z"
+         d="m 585.99988,394 0,1.33334 7.33333,-4 0,-1.33333 z"
          id="path10408"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccc" />
