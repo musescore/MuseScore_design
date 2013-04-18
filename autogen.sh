@@ -4,12 +4,12 @@
 srcdir=`dirname $0`
 test -z "$srcdir" && srcdir=.
 
-PKG_NAME="gnome-icon-theme-symbolic"
+PKG_NAME="musescore-icon-theme"
 REQUIRED_AUTOMAKE_VERSION=1.9
 
 (test -f $srcdir/configure.ac \
-  && test -f $srcdir/src/gnome-stencils.svg \
-  && test -d $srcdir/gnome) || {
+  && test -f $srcdir/src/musescore-icons.svg \
+  && test -d $srcdir/musescore) || {
     echo -n "**Error**: Directory "\`$srcdir\'" does not look like the"
     echo " top-level $PKG_NAME directory"
     exit 1
