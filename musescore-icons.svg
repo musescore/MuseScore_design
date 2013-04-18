@@ -43,12 +43,12 @@
      id="namedview88"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="185.03062"
-     inkscape:cy="-46.618811"
+     inkscape:cx="76.999163"
+     inkscape:cy="88.214049"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer12"
+     inkscape:current-layer="edit-redo"
      showborder="false"
      inkscape:snap-nodes="false"
      inkscape:snap-bbox="true"
@@ -2611,14 +2611,14 @@
        inkscape:export-ydpi="90">
       <path
          style="fill:none;stroke:#bebebe;stroke-width:2.00040722;stroke-miterlimit:4;stroke-opacity:1;display:inline"
-         d="m 23.999753,305.67061 6.91667,0 c 1.47275,0 2.74999,-1.1944 2.74999,-2.66775 0,-1.47336 -1.27724,-2.66776 -2.74999,-2.66776 l -0.25001,0"
+         d="m 23.999753,305.00367 6.91667,0 c 1.47275,0 2.74999,-1.1944 2.74999,-2.66775 0,-1.47336 -1.27724,-2.66776 -2.74999,-2.66776 l -0.25001,0"
          id="path7017-7"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccscc" />
       <path
          sodipodi:nodetypes="ccccccccccccc"
          id="path5765-4"
-         d="m 27.333083,310.00557 0,-1.07515 c 0,-0.27619 -0.13953,-0.56817 -0.33585,-0.77275 l -2.99748,-2.48719 2.99748,-2.4872 c 0.19632,-0.20459 0.33585,-0.49655 0.33585,-0.77276 l 0,-1.07514 -1.07471,0 c -0.33257,0 -0.59358,0.097 -0.80604,0.30237 l -4.11923,4.03274 4.11923,4.0327 c 0.21246,0.20531 0.47347,0.30238 0.80604,0.30238 z"
+         d="m 27.333083,309.33863 0,-1.07515 c 0,-0.27619 -0.13953,-0.56817 -0.33585,-0.77275 l -2.99748,-2.48719 2.99748,-2.4872 c 0.19632,-0.20459 0.33585,-0.49655 0.33585,-0.77276 l 0,-1.07514 -1.07471,0 c -0.33257,0 -0.59358,0.097 -0.80604,0.30237 l -4.11923,4.03274 4.11923,4.0327 c 0.21246,0.20531 0.47347,0.30238 0.80604,0.30238 z"
          style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#555753;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
          inkscape:connector-curvature="0" />
       <rect
