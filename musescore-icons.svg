@@ -43,7 +43,7 @@
      id="namedview88"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="225.03062"
+     inkscape:cx="185.03062"
      inkscape:cy="-46.618811"
      inkscape:window-x="0"
      inkscape:window-y="27"
@@ -2885,7 +2885,7 @@
        style="display:inline"
        id="rest"
        inkscape:label="rest"
-       transform="matrix(1.5,0,0,1.5,-327.99963,-305.99997)">
+       transform="matrix(1.5,0,0,1.5,-363.99961,-305.99997)">
       <g
          transform="translate(235.8093,-581.17812)"
          id="g19496"
@@ -2913,7 +2913,7 @@
     <g
        id="g20185"
        inkscape:label="note-double-sharp"
-       transform="translate(36.000003,0)">
+       transform="translate(2.3e-5,0)">
       <g
          transform="matrix(1.5,0,0,1.5,25.714316,-1177.7672)"
          id="g19555"
@@ -2942,7 +2942,7 @@
        style="display:inline"
        id="note-sharp"
        inkscape:label="note-sharp"
-       transform="matrix(1.5,0,0,1.5,-255.99964,-305.99997)">
+       transform="matrix(1.5,0,0,1.5,-291.99962,-305.99997)">
       <g
          transform="translate(235.8093,-581.17812)"
          id="g19586"
@@ -2982,7 +2982,7 @@
          sodipodi:nodetypes="ccccc" />
     </g>
     <g
-       transform="matrix(1.5,0,0,1.5,-219.99964,-305.99997)"
+       transform="matrix(1.5,0,0,1.5,-255.99962,-305.99997)"
        inkscape:label="note-natural"
        id="note-natural"
        style="display:inline">
@@ -3021,7 +3021,7 @@
        style="display:inline"
        id="note-flat"
        inkscape:label="note-flat"
-       transform="matrix(1.5,0,0,1.5,-183.99964,-305.99997)">
+       transform="matrix(1.5,0,0,1.5,-219.99962,-305.99997)">
       <g
          transform="translate(235.8093,-581.17812)"
          id="g19606"
@@ -3054,7 +3054,7 @@
          style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
     </g>
     <g
-       transform="matrix(1.5,0,0,1.5,-147.99964,-305.99997)"
+       transform="matrix(1.5,0,0,1.5,-183.99962,-305.99997)"
        inkscape:label="note-double-flat"
        id="note-double-flat"
        style="display:inline">
@@ -3187,7 +3187,7 @@
        style="display:inline"
        id="stem-flip"
        inkscape:label="stem-flip"
-       transform="matrix(1.5,0,0,1.5,-363.99961,-305.99997)">
+       transform="matrix(1.5,0,0,1.5,-147.99962,-305.99997)">
       <g
          transform="translate(235.8093,-581.17812)"
          id="g20213"
