@@ -48,7 +48,7 @@
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g11960"
+     inkscape:current-layer="layer12"
      showborder="false"
      inkscape:snap-nodes="false"
      inkscape:snap-bbox="true"
@@ -3772,9 +3772,9 @@
          sodipodi:nodetypes="cccccccccscccccccccccsccc" />
     </g>
     <g
-       inkscape:label="panel-inspector"
+       inkscape:label="panel-layers"
        transform="matrix(1.499999,0,0,1.4993883,131.00047,-421.6844)"
-       id="g11960"
+       id="panel-layers"
        style="display:inline">
       <rect
          transform="scale(-1,1)"
