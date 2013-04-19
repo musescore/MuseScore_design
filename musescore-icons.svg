@@ -43,8 +43,8 @@
      id="namedview88"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="-123.44752"
-     inkscape:cy="-112.62232"
+     inkscape:cx="-107.16713"
+     inkscape:cy="-117.63289"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -3678,10 +3678,10 @@
          sodipodi:nodetypes="cccccccczccsccccccccc" />
       <path
          id="path4629-2"
-         d="m 100.90489,525.00687 c 0,0 -0.48715,-0.57019 -0.53131,-0.64691 -0.0442,-0.0767 0.0477,-0.24958 0.17199,-0.27893 l 5.30704,-1.42965 c 0.12402,-0.0295 0.24969,0.0477 0.27901,0.17203 l 0.0268,0.77942 c 0.0294,0.12405 -0.0477,0.24965 -0.17207,0.27906 l -4.80239,1.29702 c -0.15347,0.0575 -0.23163,-0.1428 -0.27907,-0.17204 z"
+         d="m 101.05072,524.99645 c -0.0258,-0.0447 -0.3031,-0.5702 -0.34728,-0.64691 -0.0442,-0.0767 0.0477,-0.24958 0.17199,-0.27893 l 5.01884,-1.35674 c 0.12402,-0.0295 0.24969,0.0477 0.27901,0.17203 l 0.0268,0.77942 c 0.0294,0.12405 -0.0477,0.24965 -0.17207,0.27906 l -4.69822,1.22411 c -0.15347,0.0575 -0.25325,-0.12732 -0.27907,-0.17204 z"
          style="fill:#bebebe;fill-opacity:1;fill-rule:evenodd"
          inkscape:connector-curvature="0"
-         sodipodi:nodetypes="czccccccc" />
+         sodipodi:nodetypes="zzccccccz" />
     </g>
     <g
        inkscape:label="panel-gallery"
