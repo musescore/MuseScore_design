@@ -43,12 +43,12 @@
      id="namedview88"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="14.998256"
-     inkscape:cy="-122.94746"
+     inkscape:cx="69.570196"
+     inkscape:cy="15.358702"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer12"
+     inkscape:current-layer="g11960"
      showborder="false"
      inkscape:snap-nodes="false"
      inkscape:snap-bbox="true"
@@ -3770,6 +3770,42 @@
          id="path3908-6-6"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccccccccscccccccccccsccc" />
+    </g>
+    <g
+       inkscape:label="panel-inspector"
+       transform="matrix(1.499999,0,0,1.4993883,131.00047,-421.6844)"
+       id="g11960"
+       style="display:inline">
+      <rect
+         transform="scale(-1,1)"
+         style="color:#555753;fill:none;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+         id="rect11962"
+         y="507.3298"
+         x="-76"
+         height="16.006527"
+         width="16" />
+      <g
+         id="g8472-0-1"
+         transform="matrix(0.66666711,0,0,0.66693864,-279.33356,406.62207)"
+         style="fill:#bebebe;fill-opacity:1;display:inline">
+        <path
+           transform="translate(21.999991,35)"
+           id="path8474-8-5"
+           d="M 492.25,130.25 490,131 l 9,5 9,-5 -2.25,-0.75 -6.75,3.75 -6.75,-3.75 z"
+           style="fill:#bebebe;fill-opacity:1;stroke:none"
+           inkscape:connector-curvature="0" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path8476-8-2"
+           d="m 511.99999,158 9,5 9,-5 -9,-3 z"
+           style="fill:#bebebe;fill-opacity:1;stroke:none" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#bebebe;fill-opacity:1;stroke:none"
+           d="m 514.24999,161.25 -2.25,0.75 9,5 9,-5 -2.25,-0.75 -6.75,3.75 -6.75,-3.75 z"
+           id="path8478-9-6" />
+      </g>
     </g>
   </g>
 </svg>
