@@ -43,12 +43,12 @@
      id="namedview88"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="-41.614466"
-     inkscape:cy="-123.28663"
+     inkscape:cx="14.998256"
+     inkscape:cy="-122.94746"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g9787"
+     inkscape:current-layer="layer12"
      showborder="false"
      inkscape:snap-nodes="false"
      inkscape:snap-bbox="true"
@@ -3747,9 +3747,9 @@
     </g>
     <g
        style="display:inline"
-       id="g9787"
+       id="panel-inspector"
        transform="matrix(1.499999,0,0,1.4993883,95.000468,-421.6844)"
-       inkscape:label="panel-gallery">
+       inkscape:label="panel-inspector">
       <rect
          width="16"
          height="16.006527"
