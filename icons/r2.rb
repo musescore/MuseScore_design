@@ -7,8 +7,8 @@ include REXML
 
 INKSCAPE = '/usr/bin/inkscape'
 #INKSCAPE = '/usr/bin/inkscape' # like this works for me, while using `which` inkscape hangs
-SRC = "src/gnome-stencils.svg"
-PREFIX = "gnome/scalable"
+SRC = "src.svg"
+PREFIX = ""
 
 def chopSVG(icon)
 	FileUtils.mkdir_p(icon[:dir]) unless File.exists?(icon[:dir])
@@ -56,7 +56,7 @@ if (ARGV[0].nil?) #render all SVGs
 			chopSVG({	:name => icon_name,
 			 					:id => icon.attributes.get_attribute("id"),
 			 					:dir => dir,
-			 					:file => "#{dir}/#{icon_name}-symbolic.svg"})
+			 					:file => "#{dir}/#{icon_name}.svg"})
 		end
 	end
   puts "\nrendered all SVGs"
@@ -68,7 +68,7 @@ else #only render the icons passed
 		chopSVG({	:name => icon_name,
 		 					:id => icon.attributes["id"],
 		 					:dir => dir,
-		 					:file => "#{dir}/#{icon_name}-symbolic.svg",
+		 					:file => "#{dir}/#{icon_name}.svg",
 		 					:forcerender => true})
 	end
   puts "\nrendered #{ARGV.length} icons"
