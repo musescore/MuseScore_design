@@ -47,12 +47,12 @@ if (ARGV[0].nil?) #render all SVGs
   puts "Rendering from icons in #{SRC}"
 	# Go through every layer.
 	svg.root.each_element("/svg/g[@inkscape:groupmode='layer']") do |context| 
-		context_name = context.attributes.get_attribute("inkscape:id").value  
+		context_name = context.attributes.get_attribute("inkscape:label").value  
 		puts "Going through layer '" + context_name + "'"
 		context.each_element("g") do |icon|
 			#puts "DEBUG #{icon.attributes.get_attribute('id')}"
 			dir = "#{PREFIX}/#{context_name}"
-			icon_name = icon.attributes.get_attribute("inkscape:id").value
+			icon_name = icon.attributes.get_attribute("inkscape:label").value
 			chopSVG({	:name => icon_name,
 			 					:id => icon.attributes.get_attribute("id"),
 			 					:dir => dir,
@@ -63,8 +63,8 @@ if (ARGV[0].nil?) #render all SVGs
 else #only render the icons passed
   icons = ARGV
   ARGV.each do |icon_name|
-  	icon = svg.root.elements["//g[@inkscape:id='#{icon_name}']"]
-  	dir = "#{PREFIX}/#{icon.parent.attributes['inkscape:id']}"
+  	icon = svg.root.elements["//g[@inkscape:label='#{icon_name}']"]
+  	dir = "#{PREFIX}/#{icon.parent.attributes['inkscape:label']}"
 		chopSVG({	:name => icon_name,
 		 					:id => icon.attributes["id"],
 		 					:dir => dir,
