@@ -42,13 +42,13 @@
      inkscape:window-height="1021"
      id="namedview88"
      showgrid="false"
-     inkscape:zoom="5.6568542"
-     inkscape:cx="371.49644"
-     inkscape:cy="114.73443"
+     inkscape:zoom="1"
+     inkscape:cx="410.4757"
+     inkscape:cy="13.842857"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="align-vertical-bottom"
+     inkscape:current-layer="layer12"
      showborder="false"
      inkscape:snap-nodes="false"
      inkscape:snap-bbox="true"
@@ -1954,11 +1954,6 @@
          style="opacity:0.35;fill:#bebebe;fill-opacity:1;stroke:none" />
     </g>
     <g
-       style="display:inline"
-       id="g12302"
-       inkscape:label="bookmark-add"
-       transform="matrix(1.5,0,0,1.5,-155.5001,-794.5)" />
-    <g
        id="insert-symbol"
        inkscape:label="insert-symbol"
        transform="translate(-216,1.3105469e-5)">
@@ -2012,21 +2007,6 @@
          id="rect7652-1-8"
          inkscape:connector-curvature="0" />
     </g>
-    <g
-       style="display:inline"
-       id="g7441"
-       inkscape:label="insert-notes"
-       transform="matrix(1.5,0,0,1.5,-619.95817,-294.04502)" />
-    <g
-       transform="matrix(1.5,0,0,1.5,-607.46428,-292.94273)"
-       inkscape:label="insert-notes"
-       id="g7464"
-       style="display:inline" />
-    <g
-       transform="matrix(1.5,0,0,1.5,-610.99981,-279.99997)"
-       inkscape:label="insert-notes"
-       id="g7587"
-       style="display:inline" />
     <g
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
@@ -2302,11 +2282,6 @@
          id="rect17844"
          style="opacity:0.35;color:#555753;fill:#bebebe;fill-opacity:0.97698077;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible" />
     </g>
-    <g
-       transform="matrix(1.5,0,0,1.5,-435.99963,-305.99997)"
-       inkscape:label="note-double-sharp"
-       id="note-double-sharp"
-       style="display:inline" />
     <g
        style="display:inline"
        id="go-previous"
