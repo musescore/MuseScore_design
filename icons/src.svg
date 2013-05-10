@@ -48,7 +48,7 @@
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="attachments"
+     inkscape:current-layer="actions"
      showborder="false"
      inkscape:snap-nodes="false"
      inkscape:snap-bbox="true"
@@ -2781,8 +2781,8 @@
     </g>
     <g
        style="display:inline"
-       id="note-rest"
-       inkscape:label="note-rest"
+       id="rest"
+       inkscape:label="rest"
        transform="matrix(1.5,0,0,1.5,-327.99959,-305.99997)">
       <g
          transform="translate(235.8093,-581.17812)"
