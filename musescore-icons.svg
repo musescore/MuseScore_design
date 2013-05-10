@@ -2200,14 +2200,6 @@
        inkscape:label="align-vertical-bottom"
        transform="matrix(1,0,0,-1,253.00039,719.36222)">
       <rect
-         style="color:#555753;fill:#bebebe;fill-opacity:0.97698077;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible"
-         id="rect17820"
-         width="16"
-         height="1.9998981"
-         x="114"
-         y="503.3623"
-         inkscape:label="a" />
-      <rect
          inkscape:label="a"
          y="511.36212"
          x="114"
@@ -2247,6 +2239,14 @@
          width="2"
          id="rect17830"
          style="opacity:0.35;color:#555753;fill:#bebebe;fill-opacity:0.97698077;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible" />
+      <rect
+         style="color:#555753;fill:#bebebe;fill-opacity:0.97698077;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible"
+         id="rect3580"
+         width="16"
+         height="1.9998981"
+         x="114"
+         y="503.3623"
+         inkscape:label="a" />
     </g>
     <g
        style="display:inline"
