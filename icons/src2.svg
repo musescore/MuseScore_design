@@ -22,12 +22,12 @@
    <rect id="rect6261-61-2" style="color:#bebebe;" height="4.8735" width="1.8763" y="221.5" x="26.999" fill="#bebebe"/>
   </clipPath>
  </defs>
- <text id="text5841" style="letter-spacing:0px;word-spacing:0px;" line-height="125%" font-weight="500" font-variant="normal" font-stretch="normal" font-style="normal" y="31.000031" x="3.4372768" font-family="Raleway" xml:space="preserve" fill="#bebebe"><tspan id="tspan5843" font-size="36px" line-height="150%" y="31.000031" x="3.4372768">MuseScore Icons</tspan><tspan id="tspan5859" font-size="12px" line-height="150%" y="56.175507" x="3.4372768" fill="#bebebe">SVG source, released under the cc-by-sa 3 license</tspan></text>
- <g id="actions" transform="translate(-35.000408,-19.999969)" inkscape:groupmode="layer">
+ <text id="text5841" style="letter-spacing:0px;word-spacing:0px;" line-height="125%" font-weight="500" font-variant="normal" font-stretch="normal" font-style="normal" y="31" x="3.4372768" font-family="Raleway" xml:space="preserve" fill="#bebebe"><tspan id="tspan5843" font-size="36px" line-height="150%" y="31" x="3.4372768">MuseScore Icons</tspan><tspan id="tspan5859" font-size="12px" line-height="150%" y="56.175507" x="3.4372768" fill="#bebebe">SVG source, released under the cc-by-sa 3 license</tspan></text>
+ <g id="actions" transform="translate(-35,-)" inkscape:groupmode="layer">
   <text id="text6730-2-8" style="text-anchor:start;text-align:start;" font-weight="normal" xml:space="preserve" font-size="12px" font-style="normal" font-stretch="normal" font-variant="normal" y="111.94501" x="41.823502" font-family="Droid Sans" line-height="125%" fill="#ffffff"><tspan id="tspan6732-6-9" font-weight="normal" font-style="normal" font-stretch="normal" font-variant="normal" y="111.94501" x="41.823502" font-family="Raleway">actions</tspan></text>
-  <g id="media-playback-start" transform="matrix(1.5,0,0,1.5,17.000402,-499.5)">
+  <g id="media-playback-start" transform="matrix(1.5,0,0,1.5,17,-499.5)">
    <rect id="rect3246-4-1" style="color:#bebebe;" height="16" width="16" y="487" x="40" fill="none"/>
-   <path id="path3807-1-1-9-38-4" style="block-progression:tb;color:#000000;direction:ltr;text-indent:0;text-align:start;enable-background:accumulate;text-transform:none;" d="m84,609,0,10,0.90625,0h0.094c0.17491,0.001,0.34778-0.0388,0.5-0.125l7-4c0.3107-0.17189,0.46875-0.52345,0.46875-0.875s-0.15805-0.70311-0.46875-0.875l-7-4c-0.152-0.08-0.325-0.12-0.5-0.12h-0.09375z" fill-rule="nonzero" transform="translate(-39.99995,-119)" fill="#bebebe"/>
+   <path id="path3807-1-1-9-38-4" style="block-progression:tb;color:#000000;direction:ltr;text-indent:0;text-align:start;enable-background:accumulate;text-transform:none;" d="m84,609,0,10,0.90625,0h0.094c0.17491,0.001,0.34778-0.0388,0.5-0.125l7-4c0.3107-0.17189,0.46875-0.52345,0.46875-0.875s-0.15805-0.70311-0.46875-0.875l-7-4c-0.152-0.08-0.325-0.12-0.5-0.12h-0.09375z" fill-rule="nonzero" transform="translate(-40,-119)" fill="#bebebe"/>
   </g>
   <g id="media-playback-pause" transform="matrix(1.5,0,0,1.5,-66.9996,-499.5)">
    <rect id="rect3246-4-3-8" style="color:#bebebe;" height="16" width="16" y="487" x="120" fill="none"/>
@@ -38,7 +38,7 @@
   </g>
   <g id="media-skip-backward" transform="matrix(1.5,0,0,1.5,-203.50019,-756)">
    <rect id="rect3246-44" style="color:#bebebe;" transform="scale(-1,1)" height="16" width="16" y="658" x="-179" fill="none"/>
-   <g id="g4399-9" fill="#bebebe" transform="matrix(-1,0,0,1,199.00045,171)">
+   <g id="g4399-9" fill="#bebebe" transform="matrix(-1,0,0,1,199,171)">
     <path id="path3807-1-1-9-3-0" style="block-progression:tb;color:#000000;direction:ltr;text-indent:0;text-align:start;enable-background:accumulate;text-transform:none;" d="m34.667,491,0,8,1.3333,0,0-8z"/>
     <path id="path3807-1-1-4-7" style="block-progression:tb;color:#000000;direction:ltr;text-indent:0;text-align:start;enable-background:accumulate;text-transform:none;" d="m28.063,491c0.17738,0.008,0.35117,0.0592,0.5,0.15625l5,3c0.2824,0.17971,0.4375,0.51173,0.4375,0.84375s-0.1551,0.66404-0.4375,0.84375l-5,3c-0.14883,0.097-0.32262,0.14825-0.5,0.15625h-0.15625-0.57292v-8h0.57292z" fill-rule="nonzero"/>
     <path id="path12329" style="block-progression:tb;color:#000000;direction:ltr;text-indent:0;text-align:start;enable-background:accumulate;text-transform:none;" d="m21.396,491c0.17738,0.008,0.35117,0.0592,0.5,0.15625l5,3c0.2824,0.17971,0.4375,0.51173,0.4375,0.84375s-0.1551,0.66404-0.4375,0.84375l-5,3c-0.14883,0.097-0.32262,0.14825-0.5,0.15625h-0.15625-0.57292v-8h0.57292z" fill-rule="nonzero"/>
@@ -51,7 +51,7 @@
   <g id="document-new" transform="matrix(1.4999984,0,0,1.4999984,-386.52349,-1574.0415)">
    <rect id="rect14038-2" rx="0" height="16" width="16" y="1131.4" x="285.02" fill="none"/>
    <path id="path8980" style="enable-background:accumulate;color:#000000;" d="m299.28,1138c-0.34493,0.2621-1.4839-0.9401-1.9127-0.9419-0.43627,0-1.512,1.1871-1.867,0.9263-0.34894-0.2564,0.43961-1.6511,0.30877-2.0711-0.1331-0.4272-1.4881-1.1271-1.3566-1.5548,0.12928-0.4205,1.5859-0.065,1.9338-0.3227,0.35401-0.2622,0.54466-1.8743,0.98092-1.8778,0.42884,0,0.58819,1.6014,0.9341,1.8621,0.35189,0.2652,1.9018-0.047,2.0399,0.379,0.13576,0.4183-1.2995,1.0701-1.4337,1.4889-0.13653,0.4261,0.72331,1.8455,0.3724,2.112z" fill-rule="nonzero" fill="#bebebe"/>
-   <path id="path1234-4" style="baseline-shift:baseline;block-progression:tb;color:#000000;direction:ltr;text-indent:0;text-align:start;enable-background:accumulate;text-transform:none;" d="m286.5,1134.7c-0.4584,0.087-0.82072,0.5334-0.8125,1v10c0.00005,0.5236,0.47642,0.9999,1,1h8.6667c0.52358-0.0001,0.99995-0.4764,1-1v-6.1042c0.006-0.2641-0.0975-0.529-0.28125-0.7188l-3.5625-3.8958c-0.18979-0.1837-0.4547-0.2873-0.71875-0.2812h-5.2917zm1.1875,2,3.9997,0,0,3.3333,2.6669,0,0,4.6667-6.6667,0z" fill-rule="nonzero" fill="#bebebe"/>
+   <path id="path1234-4" style="baseline-shift:baseline;block-progression:tb;color:#000000;direction:ltr;text-indent:0;text-align:start;enable-background:accumulate;text-transform:none;" d="m286.5,1134.7c-0.4584,0.087-0.82072,0.5334-0.8125,1v10c0.00005,0.5236,0.47642,0.9999,1,1h8.6667c0.52358-0,0.99995-0.4764,1-1v-6.1042c0.006-0.2641-0.0975-0.529-0.28125-0.7188l-3.5625-3.8958c-0.18979-0.1837-0.4547-0.2873-0.71875-0.2812h-5.2917zm1.1875,2,3.9997,0,0,3.3333,2.6669,0,0,4.6667-6.6667,0z" fill-rule="nonzero" fill="#bebebe"/>
   </g>
   <g id="document-save" transform="matrix(1.5,0,0,1.5,-410.49962,-1574.0433)">
    <path id="path11635" style="color:#000000;enable-background:accumulate;" d="m357.02,1139.7-4.0231-4.3333,8,0z" fill-rule="nonzero" fill="#bebebe"/>
