@@ -25,7 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+        <dc:title>MuseScore Icon Theme</dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -80,7 +80,7 @@
        originy="265.99994px" />
   </sodipodi:namedview>
   <title
-     id="title9167">Gnome Symbolic Icon Theme</title>
+     id="title9167">MuseScore Icon Theme</title>
   <defs
      id="defs7386">
     <inkscape:path-effect
