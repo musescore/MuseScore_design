@@ -1,420 +1,121 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
-<svg
-   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   width="24"
-   height="24"
-   id="svg7384"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="align-vertical-bottom.svg">
-  <metadata
-     id="metadata90">
+<svg xmlns:cc='http://creativecommons.org/ns#' xmlns:dc='http://purl.org/dc/elements/1.1/' sodipodi:docname='align-vertical-bottom.svg' height='24' id='svg7384' xmlns:inkscape='http://www.inkscape.org/namespaces/inkscape' xmlns:osb='http://www.openswatchbook.org/uri/2009/osb' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:sodipodi='http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd' xmlns:svg='http://www.w3.org/2000/svg' inkscape:version='0.48.4 r9939' version='1.1' width='24' xmlns='http://www.w3.org/2000/svg'>
+  <metadata id='metadata90'>
     <rdf:RDF>
-      <cc:Work
-         rdf:about="">
+      <cc:Work rdf:about=''>
         <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:type rdf:resource='http://purl.org/dc/dcmitype/StillImage'/>
         <dc:title>MuseScore Icon Theme</dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <sodipodi:namedview
-     pagecolor="#3a3b39"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="1"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1021"
-     id="namedview88"
-     showgrid="false"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="81.889935"
-     inkscape:cy="-67.750645"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer12"
-     showborder="false"
-     inkscape:snap-nodes="false"
-     inkscape:snap-bbox="true"
-     inkscape:bbox-paths="true"
-     showguides="true"
-     inkscape:guide-bbox="true"
-     inkscape:snap-to-guides="true"
-     inkscape:snap-grids="true"
-     inkscape:snap-global="false"
-     inkscape:object-nodes="false"
-     inkscape:snap-bbox-midpoints="false"
-     inkscape:object-paths="false"
-     inkscape:snap-others="false"
-     inkscape:bbox-nodes="false"
-     fit-margin-top="6"
-     fit-margin-left="6"
-     fit-margin-right="6"
-     fit-margin-bottom="6">
-    <inkscape:grid
-       type="xygrid"
-       id="grid4866"
-       empspacing="2"
-       visible="true"
-       enabled="true"
-       snapvisiblegridlinesonly="true"
-       spacingx="1px"
-       spacingy="1px"
-       originx="78.190328px"
-       originy="115.99995px" />
+  <sodipodi:namedview inkscape:bbox-nodes='false' inkscape:bbox-paths='true' bordercolor='#666666' borderopacity='1' inkscape:current-layer='layer12' inkscape:cx='81.889935' inkscape:cy='-67.750645' fit-margin-bottom='6' fit-margin-left='6' fit-margin-right='6' fit-margin-top='6' gridtolerance='10' inkscape:guide-bbox='true' guidetolerance='10' id='namedview88' inkscape:object-nodes='false' inkscape:object-paths='false' objecttolerance='10' pagecolor='#3a3b39' inkscape:pageopacity='1' inkscape:pageshadow='2' showborder='false' showgrid='false' showguides='true' inkscape:snap-bbox='true' inkscape:snap-bbox-midpoints='false' inkscape:snap-global='false' inkscape:snap-grids='true' inkscape:snap-nodes='false' inkscape:snap-others='false' inkscape:snap-to-guides='true' inkscape:window-height='1021' inkscape:window-maximized='1' inkscape:window-width='1920' inkscape:window-x='0' inkscape:window-y='27' inkscape:zoom='2.8284271'>
+    <inkscape:grid empspacing='2' enabled='true' id='grid4866' originx='78.190328px' originy='115.99995px' snapvisiblegridlinesonly='true' spacingx='1px' spacingy='1px' type='xygrid' visible='true'/>
   </sodipodi:namedview>
-  <title
-     id="title9167">MuseScore Icon Theme</title>
-  <defs
-     id="defs7386">
-    <linearGradient
-       id="linearGradient19282"
-       osb:paint="solid"
-       gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)">
-      <stop
-         style="stop-color:#666666;stop-opacity:1;"
-         offset="0"
-         id="stop19284" />
+  <title id='title9167'>MuseScore Icon Theme</title>
+  <defs id='defs7386'>
+    <linearGradient gradientTransform='matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)' id='linearGradient19282' osb:paint='solid'>
+      <stop id='stop19284' offset='0' style='stop-color:#666666;stop-opacity:1;'/>
     </linearGradient>
-    <linearGradient
-       id="linearGradient6146"
-       osb:paint="solid"
-       gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)">
-      <stop
-         style="stop-color:#666666;stop-opacity:1;"
-         offset="0"
-         id="stop6148" />
+    <linearGradient gradientTransform='matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)' id='linearGradient6146' osb:paint='solid'>
+      <stop id='stop6148' offset='0' style='stop-color:#666666;stop-opacity:1;'/>
     </linearGradient>
-    <linearGradient
-       id="linearGradient6150"
-       osb:paint="solid"
-       gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)">
-      <stop
-         style="stop-color:#666666;stop-opacity:1;"
-         offset="0"
-         id="stop6152" />
+    <linearGradient gradientTransform='matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)' id='linearGradient6150' osb:paint='solid'>
+      <stop id='stop6152' offset='0' style='stop-color:#666666;stop-opacity:1;'/>
     </linearGradient>
-    <linearGradient
-       id="linearGradient6154"
-       osb:paint="solid"
-       gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)">
-      <stop
-         style="stop-color:#666666;stop-opacity:1;"
-         offset="0"
-         id="stop6156" />
+    <linearGradient gradientTransform='matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)' id='linearGradient6154' osb:paint='solid'>
+      <stop id='stop6156' offset='0' style='stop-color:#666666;stop-opacity:1;'/>
     </linearGradient>
-    <linearGradient
-       id="linearGradient19282-9"
-       osb:paint="solid"
-       gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)">
-      <stop
-         style="stop-color:#666666;stop-opacity:1;"
-         offset="0"
-         id="stop19284-9" />
+    <linearGradient gradientTransform='matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)' id='linearGradient19282-9' osb:paint='solid'>
+      <stop id='stop19284-9' offset='0' style='stop-color:#666666;stop-opacity:1;'/>
     </linearGradient>
-    <linearGradient
-       id="linearGradient6178"
-       osb:paint="solid"
-       gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)">
-      <stop
-         style="stop-color:#666666;stop-opacity:1;"
-         offset="0"
-         id="stop6180" />
+    <linearGradient gradientTransform='matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)' id='linearGradient6178' osb:paint='solid'>
+      <stop id='stop6180' offset='0' style='stop-color:#666666;stop-opacity:1;'/>
     </linearGradient>
-    <linearGradient
-       id="linearGradient6182"
-       osb:paint="solid"
-       gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)">
-      <stop
-         style="stop-color:#666666;stop-opacity:1;"
-         offset="0"
-         id="stop6184" />
+    <linearGradient gradientTransform='matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)' id='linearGradient6182' osb:paint='solid'>
+      <stop id='stop6184' offset='0' style='stop-color:#666666;stop-opacity:1;'/>
     </linearGradient>
-    <linearGradient
-       id="linearGradient6186"
-       osb:paint="solid"
-       gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)">
-      <stop
-         style="stop-color:#666666;stop-opacity:1;"
-         offset="0"
-         id="stop6188" />
+    <linearGradient gradientTransform='matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)' id='linearGradient6186' osb:paint='solid'>
+      <stop id='stop6188' offset='0' style='stop-color:#666666;stop-opacity:1;'/>
     </linearGradient>
-    <linearGradient
-       id="linearGradient19282-5"
-       osb:paint="solid"
-       gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)">
-      <stop
-         style="stop-color:#666666;stop-opacity:1;"
-         offset="0"
-         id="stop19284-6" />
+    <linearGradient gradientTransform='matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)' id='linearGradient19282-5' osb:paint='solid'>
+      <stop id='stop19284-6' offset='0' style='stop-color:#666666;stop-opacity:1;'/>
     </linearGradient>
-    <linearGradient
-       id="linearGradient6210"
-       osb:paint="solid"
-       gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)">
-      <stop
-         style="stop-color:#666666;stop-opacity:1;"
-         offset="0"
-         id="stop6212" />
+    <linearGradient gradientTransform='matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)' id='linearGradient6210' osb:paint='solid'>
+      <stop id='stop6212' offset='0' style='stop-color:#666666;stop-opacity:1;'/>
     </linearGradient>
-    <linearGradient
-       id="linearGradient19282-8"
-       osb:paint="solid"
-       gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)">
-      <stop
-         style="stop-color:#666666;stop-opacity:1;"
-         offset="0"
-         id="stop19284-5" />
+    <linearGradient gradientTransform='matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)' id='linearGradient19282-8' osb:paint='solid'>
+      <stop id='stop19284-5' offset='0' style='stop-color:#666666;stop-opacity:1;'/>
     </linearGradient>
-    <linearGradient
-       id="linearGradient6265"
-       osb:paint="solid"
-       gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)">
-      <stop
-         style="stop-color:#666666;stop-opacity:1;"
-         offset="0"
-         id="stop6267" />
+    <linearGradient gradientTransform='matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)' id='linearGradient6265' osb:paint='solid'>
+      <stop id='stop6267' offset='0' style='stop-color:#666666;stop-opacity:1;'/>
     </linearGradient>
-    <linearGradient
-       id="linearGradient6269"
-       osb:paint="solid"
-       gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)">
-      <stop
-         style="stop-color:#666666;stop-opacity:1;"
-         offset="0"
-         id="stop6271" />
+    <linearGradient gradientTransform='matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)' id='linearGradient6269' osb:paint='solid'>
+      <stop id='stop6271' offset='0' style='stop-color:#666666;stop-opacity:1;'/>
     </linearGradient>
-    <linearGradient
-       id="linearGradient6273"
-       osb:paint="solid"
-       gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)">
-      <stop
-         style="stop-color:#666666;stop-opacity:1;"
-         offset="0"
-         id="stop6275" />
+    <linearGradient gradientTransform='matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)' id='linearGradient6273' osb:paint='solid'>
+      <stop id='stop6275' offset='0' style='stop-color:#666666;stop-opacity:1;'/>
     </linearGradient>
-    <linearGradient
-       id="linearGradient6277"
-       osb:paint="solid"
-       gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)">
-      <stop
-         style="stop-color:#666666;stop-opacity:1;"
-         offset="0"
-         id="stop6279" />
+    <linearGradient gradientTransform='matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)' id='linearGradient6277' osb:paint='solid'>
+      <stop id='stop6279' offset='0' style='stop-color:#666666;stop-opacity:1;'/>
     </linearGradient>
-    <linearGradient
-       id="linearGradient6281"
-       osb:paint="solid"
-       gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)">
-      <stop
-         style="stop-color:#666666;stop-opacity:1;"
-         offset="0"
-         id="stop6283" />
+    <linearGradient gradientTransform='matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)' id='linearGradient6281' osb:paint='solid'>
+      <stop id='stop6283' offset='0' style='stop-color:#666666;stop-opacity:1;'/>
     </linearGradient>
-    <linearGradient
-       id="linearGradient6285"
-       osb:paint="solid"
-       gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)">
-      <stop
-         style="stop-color:#666666;stop-opacity:1;"
-         offset="0"
-         id="stop6287" />
+    <linearGradient gradientTransform='matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)' id='linearGradient6285' osb:paint='solid'>
+      <stop id='stop6287' offset='0' style='stop-color:#666666;stop-opacity:1;'/>
     </linearGradient>
-    <linearGradient
-       id="linearGradient6289"
-       osb:paint="solid"
-       gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)">
-      <stop
-         style="stop-color:#666666;stop-opacity:1;"
-         offset="0"
-         id="stop6291" />
+    <linearGradient gradientTransform='matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)' id='linearGradient6289' osb:paint='solid'>
+      <stop id='stop6291' offset='0' style='stop-color:#666666;stop-opacity:1;'/>
     </linearGradient>
-    <linearGradient
-       id="linearGradient6293"
-       osb:paint="solid"
-       gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)">
-      <stop
-         style="stop-color:#666666;stop-opacity:1;"
-         offset="0"
-         id="stop6295" />
+    <linearGradient gradientTransform='matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)' id='linearGradient6293' osb:paint='solid'>
+      <stop id='stop6295' offset='0' style='stop-color:#666666;stop-opacity:1;'/>
     </linearGradient>
-    <linearGradient
-       id="linearGradient19282-7"
-       osb:paint="solid"
-       gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)">
-      <stop
-         style="stop-color:#666666;stop-opacity:1;"
-         offset="0"
-         id="stop19284-64" />
+    <linearGradient gradientTransform='matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)' id='linearGradient19282-7' osb:paint='solid'>
+      <stop id='stop19284-64' offset='0' style='stop-color:#666666;stop-opacity:1;'/>
     </linearGradient>
-    <linearGradient
-       id="linearGradient16739"
-       osb:paint="solid"
-       gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)">
-      <stop
-         style="stop-color:#666666;stop-opacity:1;"
-         offset="0"
-         id="stop16741" />
+    <linearGradient gradientTransform='matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)' id='linearGradient16739' osb:paint='solid'>
+      <stop id='stop16741' offset='0' style='stop-color:#666666;stop-opacity:1;'/>
     </linearGradient>
-    <linearGradient
-       id="linearGradient16743"
-       osb:paint="solid"
-       gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)">
-      <stop
-         style="stop-color:#666666;stop-opacity:1;"
-         offset="0"
-         id="stop16745" />
+    <linearGradient gradientTransform='matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)' id='linearGradient16743' osb:paint='solid'>
+      <stop id='stop16745' offset='0' style='stop-color:#666666;stop-opacity:1;'/>
     </linearGradient>
-    <linearGradient
-       id="linearGradient16747"
-       osb:paint="solid"
-       gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)">
-      <stop
-         style="stop-color:#666666;stop-opacity:1;"
-         offset="0"
-         id="stop16749" />
+    <linearGradient gradientTransform='matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)' id='linearGradient16747' osb:paint='solid'>
+      <stop id='stop16749' offset='0' style='stop-color:#666666;stop-opacity:1;'/>
     </linearGradient>
-    <linearGradient
-       id="linearGradient19282-6"
-       osb:paint="solid"
-       gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)">
-      <stop
-         style="stop-color:#666666;stop-opacity:1;"
-         offset="0"
-         id="stop19284-0" />
+    <linearGradient gradientTransform='matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)' id='linearGradient19282-6' osb:paint='solid'>
+      <stop id='stop19284-0' offset='0' style='stop-color:#666666;stop-opacity:1;'/>
     </linearGradient>
-    <linearGradient
-       id="linearGradient17700"
-       osb:paint="solid"
-       gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)">
-      <stop
-         style="stop-color:#666666;stop-opacity:1;"
-         offset="0"
-         id="stop17702" />
+    <linearGradient gradientTransform='matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)' id='linearGradient17700' osb:paint='solid'>
+      <stop id='stop17702' offset='0' style='stop-color:#666666;stop-opacity:1;'/>
     </linearGradient>
-    <linearGradient
-       id="linearGradient17704"
-       osb:paint="solid"
-       gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)">
-      <stop
-         style="stop-color:#666666;stop-opacity:1;"
-         offset="0"
-         id="stop17706" />
+    <linearGradient gradientTransform='matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)' id='linearGradient17704' osb:paint='solid'>
+      <stop id='stop17706' offset='0' style='stop-color:#666666;stop-opacity:1;'/>
     </linearGradient>
-    <linearGradient
-       id="linearGradient19282-2"
-       osb:paint="solid"
-       gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)">
-      <stop
-         style="stop-color:#666666;stop-opacity:1;"
-         offset="0"
-         id="stop19284-2" />
+    <linearGradient gradientTransform='matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)' id='linearGradient19282-2' osb:paint='solid'>
+      <stop id='stop19284-2' offset='0' style='stop-color:#666666;stop-opacity:1;'/>
     </linearGradient>
-    <linearGradient
-       id="linearGradient6672"
-       osb:paint="solid"
-       gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)">
-      <stop
-         style="stop-color:#666666;stop-opacity:1;"
-         offset="0"
-         id="stop6674" />
+    <linearGradient gradientTransform='matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)' id='linearGradient6672' osb:paint='solid'>
+      <stop id='stop6674' offset='0' style='stop-color:#666666;stop-opacity:1;'/>
     </linearGradient>
-    <linearGradient
-       id="linearGradient6676"
-       osb:paint="solid"
-       gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)">
-      <stop
-         style="stop-color:#666666;stop-opacity:1;"
-         offset="0"
-         id="stop6678" />
+    <linearGradient gradientTransform='matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)' id='linearGradient6676' osb:paint='solid'>
+      <stop id='stop6678' offset='0' style='stop-color:#666666;stop-opacity:1;'/>
     </linearGradient>
-    <linearGradient
-       id="linearGradient6680"
-       osb:paint="solid"
-       gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)">
-      <stop
-         style="stop-color:#666666;stop-opacity:1;"
-         offset="0"
-         id="stop6682" />
+    <linearGradient gradientTransform='matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)' id='linearGradient6680' osb:paint='solid'>
+      <stop id='stop6682' offset='0' style='stop-color:#666666;stop-opacity:1;'/>
     </linearGradient>
-    <linearGradient
-       id="linearGradient19282-2-7"
-       osb:paint="solid"
-       gradientTransform="matrix(-1.8326385,-0.20938742,0.1278891,-0.96432932,768.03139,-1256.9685)">
-      <stop
-         style="stop-color:#666666;stop-opacity:1;"
-         offset="0"
-         id="stop19284-2-3" />
+    <linearGradient gradientTransform='matrix(-1.8326385,-0.20938742,0.1278891,-0.96432932,768.03139,-1256.9685)' id='linearGradient19282-2-7' osb:paint='solid'>
+      <stop id='stop19284-2-3' offset='0' style='stop-color:#666666;stop-opacity:1;'/>
     </linearGradient>
   </defs>
-  <g
-     inkscape:groupmode="layer"
-     id="layer12"
-     inkscape:label="actions"
-     transform="translate(-365.00039,-194.99998)"
-     style="display:inline">
-    <rect
-       style="color:#555753;fill:#bebebe;fill-opacity:0.97698077;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible"
-       id="rect17822"
-       width="12"
-       height="2"
-       x="367.0004"
-       y="-208.00009"
-       transform="scale(1,-1)" />
-    <rect
-       style="fill:none;stroke:none"
-       id="rect17824"
-       width="24"
-       height="24"
-       x="365.0004"
-       y="-218.99997"
-       transform="scale(1,-1)" />
-    <rect
-       style="color:#555753;fill:#bebebe;fill-opacity:0.97698077;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible"
-       id="rect17826"
-       width="20"
-       height="2"
-       x="367.0004"
-       y="-211.99991"
-       transform="scale(1,-1)" />
-    <rect
-       y="-203.99991"
-       x="376.0004"
-       height="2"
-       width="2"
-       id="rect17828"
-       style="opacity:0.35;color:#555753;fill:#bebebe;fill-opacity:0.97698077;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible"
-       transform="scale(1,-1)" />
-    <rect
-       style="opacity:0.35;color:#555753;fill:#bebebe;fill-opacity:0.97698077;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible"
-       id="rect17830"
-       width="2"
-       height="2"
-       x="376.0004"
-       y="-199.99991"
-       transform="scale(1,-1)" />
-    <rect
-       y="-215.99997"
-       x="367.0004"
-       height="2"
-       width="16"
-       id="rect4352"
-       style="fill:#bebebe;fill-opacity:0.97647059;stroke:none"
-       transform="scale(1,-1)" />
+  <g inkscape:groupmode='layer' id='layer12' inkscape:label='actions' style='display:inline' transform='translate(-365.00039,-194.99998)'>
+    <rect height='2' id='rect17822' style='color:#555753;fill:#bebebe;fill-opacity:0.97698077;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible' transform='scale(1,-1)' width='12' x='367.0004' y='-208.00009'/>
+    <rect height='24' id='rect17824' style='fill:none;stroke:none' transform='scale(1,-1)' width='24' x='365.0004' y='-218.99997'/>
+    <rect height='2' id='rect17826' style='color:#555753;fill:#bebebe;fill-opacity:0.97698077;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible' transform='scale(1,-1)' width='20' x='367.0004' y='-211.99991'/>
+    <rect height='2' id='rect17828' style='opacity:0.35;color:#555753;fill:#bebebe;fill-opacity:0.97698077;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible' transform='scale(1,-1)' width='2' x='376.0004' y='-203.99991'/>
+    <rect height='2' id='rect17830' style='opacity:0.35;color:#555753;fill:#bebebe;fill-opacity:0.97698077;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible' transform='scale(1,-1)' width='2' x='376.0004' y='-199.99991'/>
+    
   </g>
 </svg>
