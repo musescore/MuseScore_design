@@ -2305,7 +2305,7 @@
     </g>
     <g
        style="display:inline"
-       id="g4683"
+       id="view-refresh"
        inkscape:label="view-refresh"
        transform="matrix(1.5,0,0,1.5,-138.9996,-474.00003)">
       <rect
@@ -2804,7 +2804,7 @@
          id="path10244" />
     </g>
     <g
-       id="g20185"
+       id="note-double-sharp"
        inkscape:label="note-double-sharp"
        transform="translate(36.000046,0)">
       <g
@@ -3087,8 +3087,8 @@
     </g>
     <g
        transform="matrix(1.5,0,0,1.5,-362.99961,-305.99997)"
-       inkscape:label="note-double-dot"
-       id="g9553"
+       inkscape:label="note-tie"
+       id="note-tie"
        style="display:inline">
       <g
          style="fill:#333333"
