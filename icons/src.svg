@@ -755,9 +755,9 @@
        sodipodi:role="line">SVG source, released under the cc-by-sa 3 license</tspan></text>
   <g
      inkscape:groupmode="layer"
-     id="layer12"
+     id="actions"
      inkscape:label="actions"
-     transform="translate(-35.000408,-19.999969)"
+     transform="translate(-35,-20)"
      style="display:inline">
     <text
        xml:space="preserve"
@@ -772,7 +772,7 @@
          y="111.94501"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:Raleway">actions</tspan></text>
     <g
-       transform="matrix(1.5,0,0,1.5,17.000402,-499.5)"
+       transform="matrix(1.5,0,0,1.5,17,-499.5)"
        inkscape:label="media-playback-start"
        id="media-playback-start"
        style="display:inline">
