@@ -1831,7 +1831,7 @@
     </g>
     <g
        inkscape:label="toggle-panning"
-       transform="matrix(1.5,0,0,1.5,299.0004,-94.5)"
+       transform="matrix(1.5,0,0,1.5,299,-94.5)"
        id="toggle-panning"
        style="display:inline">
       <rect
@@ -1905,13 +1905,13 @@
          id="rect3825-9-8-3-5-0-9-9-6-4"
          width="24"
          height="24"
-         x="257.0004"
+         x="257"
          y="195"
          inkscape:label="a" />
       <path
          inkscape:connector-curvature="0"
          id="rect12294"
-         d="m 274.00024,209 0,3 -3,0 0,3 3,0 0,3 3,0 0,-3 3,0 0,-3 -3,0 0,-3 -3,0 z"
+         d="m 274,209 0,3 -3,0 0,3 3,0 0,3 3,0 0,-3 3,0 0,-3 -3,0 0,-3 -3,0 z"
          style="fill:#bebebe;fill-opacity:1;stroke:none;display:inline" />
     </g>
     <g
@@ -1948,7 +1948,7 @@
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
        style="display:inline"
-       transform="matrix(1.5,0,0,-1.4993893,227.00075,590.81923)"
+       transform="matrix(1.5,0,0,-1.5,227,590.81923)"
        inkscape:label="edit-undo"
        id="edit-undo">
       <path
@@ -1974,7 +1974,7 @@
       <g
          id="g5761"
          style="opacity:0.25"
-         transform="matrix(1,0,0,1.0004073,0,-0.12056055)" />
+         transform="matrix(1,0,0,1,0,-0.12056055)" />
     </g>
     <g
        transform="matrix(1.5,0,0,1.5,-401.49961,-1059.5433)"
@@ -2058,7 +2058,7 @@
          y="-1105" />
     </g>
     <g
-       transform="translate(181.00039,-305.36219)"
+       transform="translate(181,-305.36219)"
        inkscape:label="align-vertical-top"
        id="align-vertical-top"
        style="display:inline">
@@ -2067,14 +2067,14 @@
          y="507.3623"
          x="114"
          height="1.9998981"
-         width="20.000004"
+         width="20"
          id="rect17746"
          style="color:#555753;fill:#bebebe;fill-opacity:0.97698077;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible" />
       <rect
          style="color:#555753;fill:#bebebe;fill-opacity:0.97698077;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible"
          id="rect17748"
          width="12"
-         height="2.0000813"
+         height="2"
          x="114"
          y="503.36212"
          inkscape:label="a" />
@@ -2084,7 +2084,7 @@
          width="24"
          height="24"
          x="256"
-         y="280.00018"
+         y="280"
          transform="translate(-144,220.36202)" />
       <rect
          style="color:#555753;fill:#bebebe;fill-opacity:0.97698077;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible"
@@ -2098,7 +2098,7 @@
          inkscape:label="a"
          y="515.3623"
          x="123"
-         height="1.9998981"
+         height="2"
          width="2"
          id="rect17812"
          style="opacity:0.35;color:#555753;fill:#bebebe;fill-opacity:0.97698077;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible" />
@@ -2106,7 +2106,7 @@
          style="opacity:0.35;color:#555753;fill:#bebebe;fill-opacity:0.97698077;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible"
          id="rect17814"
          width="2"
-         height="1.9998981"
+         height="2"
          x="123"
          y="519.3623"
          inkscape:label="a" />
@@ -2115,7 +2115,7 @@
        style="display:inline"
        id="align-vertical-bottom"
        inkscape:label="align-vertical-bottom"
-       transform="matrix(1,0,0,-1,253.00039,719.36222)">
+       transform="matrix(1,0,0,-1,253,719.36222)">
       <rect
          y="511.36212"
          x="114"
@@ -2163,12 +2163,12 @@
        style="display:inline"
        id="align-vertical-middle"
        inkscape:label="align-vertical-middle"
-       transform="translate(217.00039,-305.36219)">
+       transform="translate(217,-305.36219)">
       <rect
          style="color:#555753;fill:#bebebe;fill-opacity:0.97698077;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible"
          id="rect17834"
-         width="20.000004"
-         height="1.9998981"
+         width="20"
+         height="2"
          x="114"
          y="511.3623"
          inkscape:label="a" />
@@ -2176,31 +2176,31 @@
          inkscape:label="a"
          y="507.36212"
          x="114"
-         height="2.0000813"
+         height="2"
          width="12"
          id="rect17836"
          style="color:#555753;fill:#bebebe;fill-opacity:0.97698077;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible" />
       <rect
          transform="translate(-144,220.36202)"
-         y="280.00018"
+         y="280"
          x="256"
          height="24"
          width="24"
          id="rect17838"
          style="fill:none;stroke:none" />
       <rect
-         inkscape:label="a"
-         y="515.3623"
-         x="114"
-         height="1.9998981"
-         width="16"
+         style="color:#555753;fill:#bebebe;fill-opacity:0.97698077;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible"
          id="rect17840"
-         style="color:#555753;fill:#bebebe;fill-opacity:0.97698077;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible" />
+         width="16"
+         height="2"
+         x="114"
+         y="515.3623"
+         inkscape:label="a" />
       <rect
          style="opacity:0.35;color:#555753;fill:#bebebe;fill-opacity:0.97698077;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible"
          id="rect17842"
          width="2"
-         height="1.9998981"
+         height="2"
          x="123"
          y="503.3623"
          inkscape:label="a" />
@@ -2208,7 +2208,7 @@
          inkscape:label="a"
          y="519.3623"
          x="123"
-         height="1.9998981"
+         height="2"
          width="2"
          id="rect17844"
          style="opacity:0.35;color:#555753;fill:#bebebe;fill-opacity:0.97698077;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible" />
@@ -2217,7 +2217,7 @@
        style="display:inline"
        id="go-previous"
        inkscape:label="go-previous"
-       transform="matrix(1.5,0,0,1.5,-72.999593,-474.00003)">
+       transform="matrix(1.5,0,0,1.5,-73,-474)">
       <rect
          transform="scale(-1,1)"
          style="color:#bebebe;fill:none;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
