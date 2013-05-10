@@ -43,12 +43,12 @@
      id="namedview88"
      showgrid="false"
      inkscape:zoom="2.8284271"
-     inkscape:cx="410.4757"
-     inkscape:cy="133.84286"
+     inkscape:cx="411.18281"
+     inkscape:cy="82.249348"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="align-vertical-bottom"
+     inkscape:current-layer="align-vertical-middle"
      showborder="false"
      inkscape:snap-nodes="false"
      inkscape:snap-bbox="true"
@@ -2124,8 +2124,8 @@
          id="rect17822"
          style="color:#555753;fill:#bebebe;fill-opacity:0.97698077;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible" />
       <rect
-         y="280"
-         x="256"
+         y="500.36224"
+         x="112"
          height="24"
          width="24"
          id="rect17824"
@@ -2157,7 +2157,7 @@
          width="16"
          height="2"
          x="114"
-         y="-505.36224" />
+         y="503.36224" />
     </g>
     <g
        style="display:inline"
