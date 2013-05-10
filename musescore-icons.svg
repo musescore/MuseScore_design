@@ -42,13 +42,13 @@
      inkscape:window-height="1021"
      id="namedview88"
      showgrid="false"
-     inkscape:zoom="1"
+     inkscape:zoom="2.8284271"
      inkscape:cx="410.4757"
      inkscape:cy="133.84286"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="format-justify-left"
+     inkscape:current-layer="align-vertical-bottom"
      showborder="false"
      inkscape:snap-nodes="false"
      inkscape:snap-bbox="true"
@@ -2160,9 +2160,9 @@
          style="fill:#bebebe;fill-opacity:0.97647059;stroke:none"
          id="rect4352"
          width="16"
-         height="2"
+         height="3"
          x="114.00002"
-         y="-505.36224"
+         y="-506.36224"
          transform="scale(1,-1)" />
     </g>
     <g
