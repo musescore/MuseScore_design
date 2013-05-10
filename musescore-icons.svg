@@ -44,11 +44,11 @@
      showgrid="false"
      inkscape:zoom="1"
      inkscape:cx="410.4757"
-     inkscape:cy="13.842857"
+     inkscape:cy="133.84286"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer12"
+     inkscape:current-layer="svg7384"
      showborder="false"
      inkscape:snap-nodes="false"
      inkscape:snap-bbox="true"
@@ -736,86 +736,23 @@
          id="stop19284-2-3" />
     </linearGradient>
   </defs>
-  <g
-     transform="translate(-55.000208,-291.99997)"
-     id="layer3"
-     style="display:inline" />
-  <g
-     transform="translate(-55.000208,-291.99997)"
-     id="layer2"
-     style="display:inline">
-    <g
-       transform="translate(99.9998,334)"
-       id="g11578"
-       style="display:inline">
-      <g
-         transform="translate(-93.968752,-337)"
-         id="g11582"
-         style="display:inline" />
-    </g>
-  </g>
-  <g
-     transform="translate(-35.000408,-262.99997)"
-     id="layer4"
-     style="display:inline">
-    <g
-       transform="translate(-20.99975,-28)"
-       id="layer3-5"
-       style="display:inline" />
-    <g
-       transform="translate(-20.99975,-28)"
-       id="layer2-1"
-       style="display:inline" />
-    <g
-       transform="translate(-1,1)"
-       id="layer4-4"
-       style="display:inline" />
-    <g
-       transform="translate(-1,244)"
-       id="layer5-9" />
-    <g
-       transform="translate(-20.99975,-28)"
-       id="layer1-8"
-       style="display:inline" />
-  </g>
-  <g
-     id="layer8"
-     transform="translate(-35.000408,-19.999969)" />
-  <g
-     id="layer7"
-     transform="translate(-35.000408,-19.999969)" />
-  <g
-     id="layer5"
-     transform="translate(-35.000408,-19.999969)">
-    <g
-       transform="translate(14,0)"
-       id="g11716" />
-  </g>
-  <g
-     id="layer6"
-     transform="translate(-35.000408,-19.999969)" />
-  <g
-     transform="translate(-55.000208,-291.99997)"
-     id="layer1"
-     style="display:inline">
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#bebebe;fill-opacity:1;stroke:none;font-family:Sans"
-       x="58.437485"
-       y="323"
-       id="text5841"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan5843"
-         x="58.437485"
-         y="323"
-         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:150%;font-family:Raleway;-inkscape-font-specification:Raleway Medium">MuseScore Icons</tspan><tspan
-         sodipodi:role="line"
-         x="58.437485"
-         y="348.17548"
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:150%;fill:#bebebe;fill-opacity:1;font-family:Raleway;-inkscape-font-specification:Raleway Medium"
-         id="tspan5859">SVG source, released under the cc-by-sa 3 license</tspan></text>
-  </g>
+  <text
+     sodipodi:linespacing="125%"
+     id="text5841"
+     y="31.000031"
+     x="3.4372768"
+     style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#bebebe;fill-opacity:1;stroke:none;font-family:Sans"
+     xml:space="preserve"><tspan
+       style="font-size:36px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:150%;font-family:Raleway;-inkscape-font-specification:Raleway Medium"
+       y="31.000031"
+       x="3.4372768"
+       id="tspan5843"
+       sodipodi:role="line">MuseScore Icons</tspan><tspan
+       id="tspan5859"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:150%;fill:#bebebe;fill-opacity:1;font-family:Raleway;-inkscape-font-specification:Raleway Medium"
+       y="56.175507"
+       x="3.4372768"
+       sodipodi:role="line">SVG source, released under the cc-by-sa 3 license</tspan></text>
   <g
      inkscape:groupmode="layer"
      id="layer12"
