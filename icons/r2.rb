@@ -8,7 +8,6 @@ include REXML
 INKSCAPE = '/usr/bin/inkscape'
 #INKSCAPE = '/usr/bin/inkscape' # like this works for me, while using `which` inkscape hangs
 SRC = "src.svg"
-PREFIX = ""
 
 def chopSVG(icon)
 	FileUtils.mkdir_p(icon[:dir]) unless File.exists?(icon[:dir])
@@ -51,7 +50,7 @@ if (ARGV[0].nil?) #render all SVGs
 		puts "Going through layer '" + context_name + "'"
 		context.each_element("g") do |icon|
 			#puts "DEBUG #{icon.attributes.get_attribute('id')}"
-			dir = "#{PREFIX}/#{context_name}"
+			dir = "#{context_name}"
 			icon_name = icon.attributes.get_attribute("inkscape:label").value
 			chopSVG({	:name => icon_name,
 			 					:id => icon.attributes.get_attribute("id"),
@@ -64,7 +63,7 @@ else #only render the icons passed
   icons = ARGV
   ARGV.each do |icon_name|
   	icon = svg.root.elements["//g[@inkscape:label='#{icon_name}']"]
-  	dir = "#{PREFIX}/#{icon.parent.attributes['inkscape:label']}"
+  	dir = "#{icon.parent.attributes['inkscape:label']}"
 		chopSVG({	:name => icon_name,
 		 					:id => icon.attributes["id"],
 		 					:dir => dir,
