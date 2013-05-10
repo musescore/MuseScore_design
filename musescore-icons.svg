@@ -2117,42 +2117,37 @@
        inkscape:label="align-vertical-bottom"
        transform="matrix(1,0,0,-1,253.00039,719.36222)">
       <rect
-         inkscape:label="a"
          y="511.36212"
          x="114"
-         height="2.0000813"
+         height="2"
          width="12"
          id="rect17822"
          style="color:#555753;fill:#bebebe;fill-opacity:0.97698077;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible" />
       <rect
-         transform="translate(-144,220.36202)"
-         y="280.00018"
+         y="280"
          x="256"
          height="24"
          width="24"
          id="rect17824"
          style="fill:none;stroke:none" />
       <rect
-         inkscape:label="a"
          y="507.3623"
          x="114"
-         height="1.9998981"
-         width="20.000004"
+         height="2"
+         width="20"
          id="rect17826"
          style="color:#555753;fill:#bebebe;fill-opacity:0.97698077;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible" />
       <rect
          style="opacity:0.35;color:#555753;fill:#bebebe;fill-opacity:0.97698077;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible"
          id="rect17828"
          width="2"
-         height="1.9998981"
+         height="2"
          x="123"
-         y="515.3623"
-         inkscape:label="a" />
+         y="515.3623" />
       <rect
-         inkscape:label="a"
          y="519.3623"
          x="123"
-         height="1.9998981"
+         height="2"
          width="2"
          id="rect17830"
          style="opacity:0.35;color:#555753;fill:#bebebe;fill-opacity:0.97698077;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible" />
@@ -2161,9 +2156,8 @@
          id="rect4352"
          width="16"
          height="2"
-         x="114.00002"
-         y="-505.36224"
-         transform="scale(1,-1)" />
+         x="114"
+         y="-505.36224" />
     </g>
     <g
        style="display:inline"
