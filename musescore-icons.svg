@@ -2242,11 +2242,11 @@
       <rect
          style="fill:#bebebe;fill-opacity:0.97647059;stroke:none"
          id="rect4352"
-         width="13.965359"
-         height="4.4194174"
-         x="335.87573"
-         y="191.49196"
-         transform="matrix(1,0,0,-1,-217.99998,699.36225)" />
+         width="16"
+         height="2"
+         x="114.00002"
+         y="-505.36224"
+         transform="scale(1,-1)" />
     </g>
     <g
        style="display:inline"
