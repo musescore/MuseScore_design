@@ -2239,14 +2239,16 @@
          width="2"
          id="rect17830"
          style="opacity:0.35;color:#555753;fill:#bebebe;fill-opacity:0.97698077;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible" />
-      <rect
-         style="color:#555753;fill:#bebebe;fill-opacity:0.97698077;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible"
-         id="rect3580"
-         width="16"
-         height="1.9998981"
-         x="114"
-         y="503.3623"
-         inkscape:label="a" />
+      <path
+         sodipodi:type="arc"
+         style="fill:#bebebe;fill-opacity:0.97647059"
+         id="path3582"
+         sodipodi:cx="340.91385"
+         sodipodi:cy="192.46423"
+         sodipodi:rx="7.5130095"
+         sodipodi:ry="4.8613591"
+         d="m 348.42686,192.46423 a 7.5130095,4.8613591 0 1 1 -15.02602,0 7.5130095,4.8613591 0 1 1 15.02602,0 z"
+         transform="matrix(1,0,0,-1,-217.99998,699.36225)" />
     </g>
     <g
        style="display:inline"
