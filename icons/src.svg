@@ -15,7 +15,7 @@
    height="349"
    id="svg7384"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="src3.svg">
+   sodipodi:docname="src.svg">
   <metadata
      id="metadata90">
     <rdf:RDF>
@@ -42,12 +42,12 @@
      id="namedview88"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="311.85135"
-     inkscape:cy="24.363337"
+     inkscape:cx="60.78894"
+     inkscape:cy="171.94552"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g7588"
+     inkscape:current-layer="insert-symbol"
      showborder="false"
      inkscape:snap-nodes="false"
      inkscape:snap-bbox="true"
@@ -1260,7 +1260,7 @@
          sodipodi:start="5.4977871"
          sodipodi:open="true"
          transform="matrix(0.784314,0,0,0.78431399,8.60778,49.529468)"
-         d="m 27.191403,221.6836 a 3.1875,3.1875 0 0 1 0,4.5078"
+         d="m 27.191403,221.6836 c 1.244796,1.24479 1.244796,3.26301 0,4.5078 0,0 0,0 0,0"
          sodipodi:ry="3.1875"
          sodipodi:rx="3.1875"
          sodipodi:cy="223.9375"
@@ -1280,7 +1280,7 @@
          sodipodi:cy="223.9375"
          sodipodi:rx="3.1875"
          sodipodi:ry="3.1875"
-         d="m 27.191403,221.6836 a 3.1875,3.1875 0 0 1 0,4.5078"
+         d="m 27.191403,221.6836 c 1.244796,1.24479 1.244796,3.26301 0,4.5078 0,0 0,0 0,0"
          transform="matrix(1.72549,0,0,1.72549,-14.862801,-161.23533)"
          clip-path="url(#clipPath6265-334-0-1)" />
       <rect
@@ -1536,12 +1536,6 @@
        id="insert-symbol"
        inkscape:label="insert-symbol"
        transform="translate(-216,1.3105469e-5)">
-      <path
-         style="font-size:13.20734406px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans"
-         d="m 262.5002,197 c -2.4853,0 -3.5,1.7647 -3.5,3.5 0,2.3135 0.7539,3.1851 3,3.4375 -0.0314,0 0.36883,0.0462 0.5,0.0625 l 1.5,0 0,6 -2,0 c -2.2461,0.2523 -3,1.1864 -3,3.5 0,2.4852 1.0147,3.5 3.5,3.5 2.4852,0 3.5,-1.47649 3.5,-3.5 l 0,-1.5 3,0 0,-2 -3,0 0,-6 6,0 c 0,0 0,9.70426 0,3 l 1.9375,0 0,-3 1.0625,0 0.5,0 c 2.4852,0 3.5,-1.0148 3.5,-3.5 0,-2.4853 -1.0148,-3.5 -3.5,-3.5 -2.4641,0 -3.4661,0.9814 -3.5,3.4375 l 0,1.5625 -6,0 0,-0.5625 c -0.034,-2.4561 -1.036,-4.4375 -3.5,-4.4375 z m 0.0625,2 c 0.82843,0 1.5,0.6715 1.5,1.5 l 0,1.5 -1.5,0 c -0.82843,0 -1.5,-0.6716 -1.5,-1.5 0,-0.8285 0.67157,-1.5 1.5,-1.5 z m 13,0 c 0.82843,0 1.5,0.6715 1.5,1.5 0,0.8079 -0.63746,1.4678 -1.4375,1.5 l -1.5625,0 0,-1.5625 c 0.0321,-0.8001 0.69208,-1.4375 1.5,-1.4375 z m -13.0625,13 c 0.0203,-9e-4 0.042,0 0.0625,0 l 1.5,0 0,1.5 c 0,0.021 8.1e-4,0.0425 0,0.0625 -0.0321,0.8 -0.69208,1.4375 -1.5,1.4375 -0.82843,0 -1.5,-0.6716 -1.5,-1.5 0,-0.808 0.63746,-1.4679 1.4375,-1.5 z"
-         id="path3861"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="sscccccsssccccccccccsssccccssscssssscccscscscssc" />
       <rect
          style="color:#ffffff;fill:none;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible"
          id="rect3825-9-8-3-5-0-9-9-6-4"
@@ -1555,6 +1549,23 @@
          id="rect12294"
          d="m 274,209 0,3 -3,0 0,3 3,0 0,3 3,0 0,-3 3,0 0,-3 -3,0 0,-3 -3,0 z"
          style="fill:#ffffff;stroke:none;display:inline" />
+      <path
+         sodipodi:type="arc"
+         style="fill:none;stroke:#ffffff;stroke-width:2.54191422;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="path6922"
+         sodipodi:cx="14.009553"
+         sodipodi:cy="185.1722"
+         sodipodi:rx="5.2591066"
+         sodipodi:ry="6.1429901"
+         d="m 19.26866,185.1722 a 5.2591066,6.1429901 0 1 1 -10.5182137,0 5.2591066,6.1429901 0 1 1 10.5182137,0 z"
+         transform="matrix(0.76058545,0,0,0.81393587,255.09499,54.59688)" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
+         id="rect6940"
+         width="6"
+         height="2"
+         x="265.75"
+         y="199.31517" />
     </g>
     <g
        style="display:inline"
