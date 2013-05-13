@@ -42,12 +42,12 @@
      id="namedview88"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="60.78894"
-     inkscape:cy="171.94552"
+     inkscape:cx="227.50377"
+     inkscape:cy="69.696935"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="insert-symbol"
+     inkscape:current-layer="help-contents"
      showborder="false"
      inkscape:snap-nodes="false"
      inkscape:snap-bbox="true"
@@ -1821,10 +1821,10 @@
          style="color:#ffffff;fill:none;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
          transform="matrix(0,-1,1,0,0,0)" />
       <path
-         style="fill:#ffffff;"
+         style="fill:#ffffff;stroke:none"
          d="M 234 285 C 228.48371 285 224 289.48372 224 295 C 224 300.5163 228.48371 305 234 305 C 239.51628 305 244 300.51629 244 295 C 244 289.48372 239.51628 285 234 285 z M 234 287.6875 C 238.04861 287.6875 241.3125 290.9514 241.3125 295 C 241.3125 299.04862 238.0486 302.3125 234 302.3125 C 229.95138 302.3125 226.6875 299.04862 226.6875 295 C 226.6875 290.9514 229.95138 287.6875 234 287.6875 z "
-         transform="matrix(0.66666667,0,0,0.66666667,91.999733,329.33335)"
-         id="path9470" />
+         id="path9470"
+         transform="matrix(0.66666667,0,0,0.66666667,91.999733,329.33335)" />
       <path
          inkscape:connector-curvature="0"
          id="path9484"
