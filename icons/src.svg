@@ -43,7 +43,7 @@
      id="namedview88"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="431.04962"
+     inkscape:cx="210.54962"
      inkscape:cy="216.91069"
      inkscape:window-x="0"
      inkscape:window-y="27"
@@ -1977,7 +1977,8 @@
     <g
        id="align-vertical-baseline"
        inkscape:label="align-vertical-baseline"
-       transform="translate(-753,-459.36217)">
+       transform="translate(-753,-459.36217)"
+       style="opacity:0.8">
       <rect
          style="font-size:12px;fill:none;stroke:none"
          id="rect17558"
@@ -3547,7 +3548,8 @@
     <g
        transform="translate(-788.9996,-459.36217)"
        inkscape:label="align-vertical-bottom"
-       id="align-vertical-bottom">
+       id="align-vertical-bottom"
+       style="opacity:0.8">
       <rect
          transform="matrix(0,1,-1,0,0,0)"
          y="-1106"
