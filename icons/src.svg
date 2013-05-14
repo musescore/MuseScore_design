@@ -42,8 +42,8 @@
      id="namedview88"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="533.5875"
-     inkscape:cy="58.86789"
+     inkscape:cx="453.5875"
+     inkscape:cy="218.86789"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -496,14 +496,14 @@
      id="text5841"
      y="27.000031"
      x="6.8235016"
-     style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;stroke:none;font-family:Sans"
+     style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;stroke:none;font-family:Sans"
      xml:space="preserve"><tspan
        style="font-size:36px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:150%;font-family:Raleway;-inkscape-font-specification:Raleway Medium"
        y="27.000031"
        x="6.8235016"
        id="tspan5843"
        sodipodi:role="line"><tspan
-         style="fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Raleway Ultra-Light;font-family:Raleway;font-weight:200;font-style:normal;font-stretch:normal;font-variant:normal;font-size:36px;text-anchor:start;text-align:start;writing-mode:lr;line-height:150%"
+         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:start;line-height:150%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Raleway;-inkscape-font-specification:Raleway Ultra-Light"
          id="tspan5046">musescore</tspan><tspan
          style="font-weight:bold;fill:#ee4437;fill-opacity:1;-inkscape-font-specification:Raleway Bold"
          id="tspan5032"> Icons</tspan></tspan><tspan
@@ -511,7 +511,7 @@
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:150%;fill:#ffffff;fill-opacity:0.75294118;font-family:Raleway;-inkscape-font-specification:Raleway Medium"
        y="52.175499"
        x="6.8235016"
-       sodipodi:role="line">SVG source, released under the cc-by-sa 3 license</tspan></text>
+       sodipodi:role="line">based on Gnome's icon set, released under the cc-by-sa 3 license</tspan></text>
   <g
      inkscape:groupmode="layer"
      id="actions"
