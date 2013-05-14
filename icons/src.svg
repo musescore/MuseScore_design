@@ -42,7 +42,7 @@
      id="namedview88"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="453.5875"
+     inkscape:cx="455.5875"
      inkscape:cy="218.86789"
      inkscape:window-x="0"
      inkscape:window-y="27"
@@ -498,15 +498,13 @@
      x="6.8235016"
      style="font-size:40px;font-style:normal;font-weight:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;stroke:none;font-family:Sans"
      xml:space="preserve"><tspan
-       style="font-size:36px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:150%;font-family:Raleway;-inkscape-font-specification:Raleway Medium"
+       style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;fill:#ee4437;fill-opacity:1;font-family:Raleway;-inkscape-font-specification:Raleway Bold"
        y="27.000031"
        x="6.8235016"
        id="tspan5843"
        sodipodi:role="line"><tspan
-         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:start;line-height:150%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Raleway;-inkscape-font-specification:Raleway Ultra-Light"
-         id="tspan5046">musescore</tspan><tspan
-         style="font-weight:bold;fill:#ee4437;fill-opacity:1;-inkscape-font-specification:Raleway Bold"
-         id="tspan5032"> Icons</tspan></tspan><tspan
+   style="fill:#ffffff;-inkscape-font-specification:Raleway Light;font-family:Raleway;font-weight:300;font-style:normal;font-stretch:normal;font-variant:normal;font-size:36px;text-anchor:start;text-align:start;writing-mode:lr;line-height:150%"
+   id="tspan3523">MuseScore</tspan> Icons</tspan><tspan
        id="tspan5859"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:150%;fill:#ffffff;fill-opacity:0.75294118;font-family:Raleway;-inkscape-font-specification:Raleway Medium"
        y="52.175499"
