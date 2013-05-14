@@ -29,7 +29,7 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     pagecolor="#333333"
+     pagecolor="#24201f"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -42,12 +42,12 @@
      id="namedview88"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="373.5875"
-     inkscape:cy="58.867891"
+     inkscape:cx="613.5875"
+     inkscape:cy="178.86789"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="actions"
+     inkscape:current-layer="svg7384"
      showborder="false"
      inkscape:snap-nodes="false"
      inkscape:snap-bbox="true"
@@ -494,19 +494,23 @@
   <text
      sodipodi:linespacing="125%"
      id="text5841"
-     y="31.000031"
-     x="3.4372768"
+     y="27.000031"
+     x="6.8235016"
      style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;stroke:none;font-family:Sans"
      xml:space="preserve"><tspan
        style="font-size:36px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:150%;font-family:Raleway;-inkscape-font-specification:Raleway Medium"
-       y="31.000031"
-       x="3.4372768"
+       y="27.000031"
+       x="6.8235016"
        id="tspan5843"
-       sodipodi:role="line">MuseScore Icons</tspan><tspan
+       sodipodi:role="line"><tspan
+         style="fill:#ffffff;fill-opacity:0.8"
+         id="tspan5046">MuseScore</tspan><tspan
+         style="fill:#ee4437;fill-opacity:1"
+         id="tspan5032"> Icons</tspan></tspan><tspan
        id="tspan5859"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:150%;fill:#ffffff;font-family:Raleway;-inkscape-font-specification:Raleway Medium"
-       y="56.175507"
-       x="3.4372768"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:150%;fill:#ffffff;fill-opacity:0.75294118;font-family:Raleway;-inkscape-font-specification:Raleway Medium"
+       y="52.175499"
+       x="6.8235016"
        sodipodi:role="line">SVG source, released under the cc-by-sa 3 license</tspan></text>
   <g
      inkscape:groupmode="layer"
@@ -516,16 +520,16 @@
      style="display:inline">
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;text-anchor:start;fill:#ffffff;stroke:none;display:inline;font-family:Droid Sans"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;text-anchor:start;fill:#ffffff;fill-opacity:0.8;stroke:none;display:inline;font-family:Droid Sans"
        x="41.823502"
-       y="111.94501"
+       y="109.94501"
        id="text6730-2-8"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan6732-6-9"
          x="41.823502"
-         y="111.94501"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Raleway;-inkscape-font-specification:Raleway">actions</tspan></text>
+         y="109.94501"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:0.8;font-family:Raleway;-inkscape-font-specification:Raleway Medium">actions</tspan></text>
     <g
        transform="matrix(1.5,0,0,1.5,17,-499.5)"
        inkscape:label="media-playback-start"
