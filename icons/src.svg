@@ -42,8 +42,8 @@
      id="namedview88"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="613.5875"
-     inkscape:cy="178.86789"
+     inkscape:cx="533.5875"
+     inkscape:cy="58.86789"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -492,7 +492,7 @@
        y2="345.78141" />
   </defs>
   <text
-     sodipodi:linespacing="125%"
+     sodipodi:linespacing="150%"
      id="text5841"
      y="27.000031"
      x="6.8235016"
@@ -503,9 +503,9 @@
        x="6.8235016"
        id="tspan5843"
        sodipodi:role="line"><tspan
-         style="fill:#ffffff;fill-opacity:0.8"
-         id="tspan5046">MuseScore</tspan><tspan
-         style="fill:#ee4437;fill-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;-inkscape-font-specification:Raleway Ultra-Light;font-family:Raleway;font-weight:200;font-style:normal;font-stretch:normal;font-variant:normal;font-size:36px;text-anchor:start;text-align:start;writing-mode:lr;line-height:150%"
+         id="tspan5046">musescore</tspan><tspan
+         style="font-weight:bold;fill:#ee4437;fill-opacity:1;-inkscape-font-specification:Raleway Bold"
          id="tspan5032"> Icons</tspan></tspan><tspan
        id="tspan5859"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:150%;fill:#ffffff;fill-opacity:0.75294118;font-family:Raleway;-inkscape-font-specification:Raleway Medium"
