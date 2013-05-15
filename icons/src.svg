@@ -42,12 +42,12 @@
      id="namedview88"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="528.47"
-     inkscape:cy="90.838783"
+     inkscape:cx="515.76939"
+     inkscape:cy="83.29069"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="note-tie"
+     inkscape:current-layer="actions"
      showborder="false"
      inkscape:snap-nodes="false"
      inkscape:snap-bbox="true"
@@ -3352,7 +3352,7 @@
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="czcczcc" />
       <use
-         transform="translate(-4.5008114,1.7010539)"
+         transform="translate(-4.5008114,1.0343872)"
          style="display:inline"
          x="0"
          y="0"
@@ -3361,7 +3361,7 @@
          width="1"
          height="1" />
       <use
-         transform="matrix(0.99963567,0,0,0.69379097,356.75112,63.985569)"
+         transform="matrix(0.99963567,0,0,0.63755437,356.75112,89.816914)"
          style="display:inline"
          x="0"
          y="0"
@@ -3377,7 +3377,7 @@
          y="0"
          x="0"
          style="display:inline"
-         transform="translate(4.8325219,1.7010539)" />
+         transform="translate(4.8325219,1.0343872)" />
       <use
          height="1"
          width="1"
@@ -3386,7 +3386,7 @@
          y="0"
          x="0"
          style="display:inline"
-         transform="matrix(0.99963567,0,0,0.69379097,366.08445,63.985569)" />
+         transform="matrix(0.99963567,0,0,0.63755437,366.08445,89.816914)" />
     </g>
     <g
        transform="matrix(1.5,0,0,1.5,-147.9996,-305.99997)"
