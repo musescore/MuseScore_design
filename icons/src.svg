@@ -42,12 +42,12 @@
      id="namedview88"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="658.35701"
-     inkscape:cy="83.872576"
+     inkscape:cx="746.43031"
+     inkscape:cy="91.574149"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="actions"
+     inkscape:current-layer="stem-flip"
      showborder="false"
      inkscape:snap-nodes="false"
      inkscape:snap-bbox="true"
@@ -2535,6 +2535,12 @@
          id="path44-6-7-3"
          inkscape:connector-curvature="0"
          style="font-size:83.33329773px;font-style:normal;font-weight:400;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:MScore" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3487"
+         d="m 596.31273,387.23935 -3.32182,-0.27678 -0.27632,3.31908 z"
+         style="fill:#ffffff;stroke:none;display:inline"
+         sodipodi:nodetypes="cccc" />
     </g>
     <g
        style="display:inline"
