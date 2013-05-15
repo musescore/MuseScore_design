@@ -42,8 +42,8 @@
      id="namedview88"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="515.76939"
-     inkscape:cy="83.29069"
+     inkscape:cx="535.09336"
+     inkscape:cy="91.276744"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -3331,7 +3331,9 @@
        style="display:inline"
        id="note-tie"
        inkscape:label="note-tie"
-       transform="matrix(1.5,0,0,1.5,-327.00002,-305.99997)">
+       transform="matrix(1.5,0,0,1.5,-327.00002,-305.99997)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
          transform="translate(235.8093,-581.17812)"
          id="g4300"
@@ -3351,42 +3353,6 @@
          id="path4304"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="czcczcc" />
-      <use
-         transform="translate(-4.5008114,1.0343872)"
-         style="display:inline"
-         x="0"
-         y="0"
-         xlink:href="#g42-2-8"
-         id="use9427-6-9"
-         width="1"
-         height="1" />
-      <use
-         transform="matrix(0.99963567,0,0,0.63755437,356.75112,89.816914)"
-         style="display:inline"
-         x="0"
-         y="0"
-         xlink:href="#rect7032-8"
-         id="use4354-4-3-2-9"
-         width="1"
-         height="1" />
-      <use
-         height="1"
-         width="1"
-         id="use3510"
-         xlink:href="#g42-2-8"
-         y="0"
-         x="0"
-         style="display:inline"
-         transform="translate(4.8325219,1.0343872)" />
-      <use
-         height="1"
-         width="1"
-         id="use3512"
-         xlink:href="#rect7032-8"
-         y="0"
-         x="0"
-         style="display:inline"
-         transform="matrix(0.99963567,0,0,0.63755437,366.08445,89.816914)" />
     </g>
     <g
        transform="matrix(1.5,0,0,1.5,-147.9996,-305.99997)"
