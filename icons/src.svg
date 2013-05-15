@@ -42,12 +42,12 @@
      id="namedview88"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="305.01315"
-     inkscape:cy="82.007247"
+     inkscape:cx="603.95618"
+     inkscape:cy="84.729019"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="note-2"
+     inkscape:current-layer="actions"
      showborder="false"
      inkscape:snap-nodes="false"
      inkscape:snap-bbox="true"
@@ -1968,7 +1968,7 @@
            sodipodi:nodetypes="ccccc" />
         <path
            style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
-           d="m 587.33321,392.33331 0,1.33334 5.33333,-2.66666 0,-1.33333 z"
+           d="m 587.33334,392.3333 -1.3e-4,1.66668 5.33333,-2.66666 1.3e-4,-1.66667 z"
            id="path10408"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="ccccc" />
@@ -1977,7 +1977,7 @@
            y="0"
            xlink:href="#path10408"
            id="use3526"
-           transform="translate(-3.6666657e-8,-4)"
+           transform="translate(-3.6666648e-8,-3.9999969)"
            width="16"
            height="16" />
         <use
