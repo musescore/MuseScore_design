@@ -15,7 +15,7 @@
    height="349"
    id="svg7384"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="src-wip2.svg">
+   sodipodi:docname="src.svg">
   <metadata
      id="metadata90">
     <rdf:RDF>
@@ -41,13 +41,13 @@
      inkscape:window-height="1021"
      id="namedview88"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="274.65845"
-     inkscape:cy="193.61636"
+     inkscape:zoom="4"
+     inkscape:cx="419.51549"
+     inkscape:cy="239.79275"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="list-unordered"
+     inkscape:current-layer="mode-notes"
      showborder="false"
      inkscape:snap-nodes="false"
      inkscape:snap-bbox="true"
@@ -1613,33 +1613,22 @@
          d="m 593.33321,391.33331 0,2 -2,0 0,2 2,0 0,2 2,0 0,-2 2,0 0,-2 -2,0 0,-2 -2,0 z"
          id="rect12294-1"
          inkscape:connector-curvature="0" />
-      <g
-         id="g8972"
-         transform="translate(2.9541521,-0.16680074)">
-        <g
-           id="g8976"
-           transform="matrix(0.90907041,0,0,0.90907041,52.784532,36.023285)">
-          <g
-             id="g8980">
-            <rect
-               style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.50800002;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
-               id="rect9421-8"
-               width="0.73334986"
-               height="11.854604"
-               x="584.76721"
-               y="381.49979" />
-            <use
-               transform="translate(-7.0002555,4.0727035)"
-               style="display:inline"
-               x="0"
-               y="0"
-               xlink:href="#g42-2-8"
-               id="use9427-3"
-               width="1"
-               height="1" />
-          </g>
-        </g>
-      </g>
+      <rect
+         y="382.66666"
+         x="587.99994"
+         height="10.77667"
+         width="0.66666669"
+         id="rect9421-8"
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.50800002;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
+      <use
+         transform="translate(-3.8342313,3.9059043)"
+         style="display:inline"
+         x="0"
+         y="0"
+         xlink:href="#g42-2-8"
+         id="use7034-4"
+         width="1"
+         height="1" />
     </g>
     <g
        inkscape:export-ydpi="90"
