@@ -42,12 +42,12 @@
      id="namedview88"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="535.09336"
-     inkscape:cy="91.276744"
+     inkscape:cx="536.86498"
+     inkscape:cy="91.957751"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="actions"
+     inkscape:current-layer="note-tie"
      showborder="false"
      inkscape:snap-nodes="false"
      inkscape:snap-bbox="true"
@@ -3353,6 +3353,24 @@
          id="path4304"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="czcczcc" />
+      <use
+         height="1"
+         width="1"
+         id="use3510"
+         xlink:href="#g42-2-8"
+         y="0"
+         x="0"
+         style="display:inline"
+         transform="translate(4.1658552,1.7010539)" />
+      <use
+         height="1"
+         width="1"
+         id="use3512"
+         xlink:href="#rect7032-8"
+         y="0"
+         x="0"
+         style="display:inline"
+         transform="matrix(0.99963567,0,0,0.63755437,365.41778,90.483581)" />
     </g>
     <g
        transform="matrix(1.5,0,0,1.5,-147.9996,-305.99997)"
