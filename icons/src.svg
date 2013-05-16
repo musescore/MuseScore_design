@@ -37,17 +37,17 @@
      guidetolerance="10"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:window-width="960"
+     inkscape:window-width="1920"
      inkscape:window-height="1021"
      id="namedview88"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="371.66535"
-     inkscape:cy="221.86778"
+     inkscape:cx="419.00738"
+     inkscape:cy="226.03183"
      inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="actions"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="mode-notes"
      showborder="false"
      inkscape:snap-nodes="false"
      inkscape:snap-bbox="true"
@@ -1571,48 +1571,6 @@
          id="path3861"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="sscccccsssccccccccccsssccccssscssssscccscscscssc" />
-    </g>
-    <g
-       style="display:inline"
-       id="mode-notes"
-       inkscape:label="mode-notes"
-       transform="matrix(1.5,0,0,1.5,-435.99962,-449.99997)">
-      <g
-         transform="translate(235.8093,-581.17812)"
-         id="g24872-2-6-5"
-         inkscape:label="emblem-important"
-         style="fill:#333333">
-        <rect
-           y="963.1781"
-           x="346.1907"
-           height="16"
-           width="16"
-           id="rect24874-7-8-7"
-           style="color:#ffffff;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-      </g>
-      <path
-         style="fill:#ffffff;stroke:none;display:inline"
-         d="m 593.33321,391.33331 0,2 -2,0 0,2 2,0 0,2 2,0 0,-2 2,0 0,-2 -2,0 0,-2 -2,0 z"
-         id="rect12294-1"
-         inkscape:connector-curvature="0" />
-      <use
-         transform="translate(-3.8342313,3.9059043)"
-         style="display:inline"
-         x="0"
-         y="0"
-         xlink:href="#g42-2-8"
-         id="use7034-4"
-         width="1"
-         height="1" />
-      <use
-         height="1"
-         width="1"
-         id="use4334-8-5"
-         xlink:href="#rect7032-8"
-         y="0"
-         x="0"
-         style="display:inline"
-         transform="matrix(0.99963567,0,0,0.89045758,357.41769,-26.350173)" />
     </g>
     <g
        inkscape:export-ydpi="90"
@@ -3450,6 +3408,45 @@
          y="1136.6956"
          rx="0"
          ry="0" />
+    </g>
+    <g
+       transform="matrix(1.5,0,0,1.5,-435.99962,-449.99997)"
+       inkscape:label="mode-notes"
+       id="mode-notes"
+       style="display:inline">
+      <g
+         style="fill:#333333"
+         inkscape:label="emblem-important"
+         id="g3534"
+         transform="translate(235.8093,-581.17812)">
+        <rect
+           style="color:#ffffff;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="rect3536"
+           width="16"
+           height="16"
+           x="346.1907"
+           y="963.1781" />
+      </g>
+      <use
+         transform="translate(-3.1675813,3.9058996)"
+         style="display:inline"
+         x="0"
+         y="0"
+         xlink:href="#g42-2-8"
+         id="use4366"
+         width="1"
+         height="1" />
+      <g
+         style="font-size:26.66666603px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
+         id="text4368"
+         transform="translate(-25.333329,0)">
+        <path
+           d="m 614.69041,388.65998 -0.024,4.53271 -2,0 0,-8.27271 1.56934,0 5.09732,6.83467 0,-6.82 2,0 0,10.39866 -1.62266,0"
+           style="font-size:14.66666698px;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Raleway;-inkscape-font-specification:Raleway"
+           id="path4374"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccccccc" />
+      </g>
     </g>
   </g>
 </svg>
