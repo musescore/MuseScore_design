@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg xmlns:cc='http://creativecommons.org/ns#' xmlns:dc='http://purl.org/dc/elements/1.1/' sodipodi:docname='note-64.svg' height='16.007549' id='svg7384' xmlns:inkscape='http://www.inkscape.org/namespaces/inkscape' xmlns:osb='http://www.openswatchbook.org/uri/2009/osb' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:sodipodi='http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd' xmlns:svg='http://www.w3.org/2000/svg' inkscape:version='0.48.4 r9939' version='1.1' width='16' xmlns='http://www.w3.org/2000/svg'>
+  <metadata id='metadata90'>
+    <rdf:RDF>
+      <cc:Work rdf:about=''>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource='http://purl.org/dc/dcmitype/StillImage'/>
+        <dc:title>MuseScore Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview inkscape:bbox-nodes='false' inkscape:bbox-paths='true' bordercolor='#666666' borderopacity='1' inkscape:current-layer='actions' inkscape:cx='121.12534' inkscape:cy='84.295336' fit-margin-bottom='6' fit-margin-left='6' fit-margin-right='6' fit-margin-top='6' gridtolerance='10' inkscape:guide-bbox='true' guidetolerance='10' id='namedview88' inkscape:object-nodes='false' inkscape:object-paths='false' objecttolerance='10' pagecolor='#222222' inkscape:pageopacity='1' inkscape:pageshadow='2' showborder='false' showgrid='false' showguides='true' inkscape:snap-bbox='true' inkscape:snap-bbox-midpoints='false' inkscape:snap-global='false' inkscape:snap-grids='true' inkscape:snap-nodes='false' inkscape:snap-others='false' inkscape:snap-to-guides='true' inkscape:window-height='1021' inkscape:window-maximized='1' inkscape:window-width='1920' inkscape:window-x='0' inkscape:window-y='27' inkscape:zoom='1'>
+    <inkscape:grid empspacing='2' enabled='true' id='grid4866' originx='-89.999814px' originy='-111.99245px' snapvisiblegridlinesonly='true' spacingx='1px' spacingy='1px' type='xygrid' visible='true'/>
+  </sodipodi:namedview>
+  <title id='title9167'>MuseScore Icon Theme</title>
+  <defs id='defs7386'>
+    <linearGradient gradientTransform='matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)' id='linearGradient19282' osb:paint='solid'>
+      <stop id='stop19284' offset='0' style='stop-color:#666666;stop-opacity:1;'/>
+    </linearGradient>
+    <linearGradient gradientTransform='matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)' id='linearGradient12335' osb:paint='solid'>
+      <stop id='stop12337' offset='0' style='stop-color:#666666;stop-opacity:1;'/>
+    </linearGradient>
+    <linearGradient gradientTransform='matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)' id='linearGradient12339' osb:paint='solid'>
+      <stop id='stop12341' offset='0' style='stop-color:#666666;stop-opacity:1;'/>
+    </linearGradient>
+    <linearGradient gradientTransform='matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,263.493,-969.46532)' id='linearGradient19282-9' osb:paint='solid'>
+      <stop id='stop19284-8' offset='0' style='stop-color:#ffffff;stop-opacity:1;'/>
+    </linearGradient>
+    <linearGradient gradientTransform='matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)' id='linearGradient21935' osb:paint='solid'>
+      <stop id='stop21937' offset='0' style='stop-color:#666666;stop-opacity:1;'/>
+    </linearGradient>
+    <linearGradient gradientTransform='matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)' id='linearGradient21939' osb:paint='solid'>
+      <stop id='stop21941' offset='0' style='stop-color:#666666;stop-opacity:1;'/>
+    </linearGradient>
+  </defs>
+  <g inkscape:groupmode='layer' id='actions' inkscape:label='actions' style='display:inline' transform='translate(-124.99981,-241)'>
+    
+    <path inkscape:connector-curvature='0' d='m 132.00593,251.98336 c -0.97331,0 -1.88428,0.35634 -2.73294,1.06898 -0.84867,0.71265 -1.273,1.47875 -1.273,2.29829 0,0.49886 0.18398,0.89972 0.55193,1.2026 0.36795,0.30287 0.84866,0.45431 1.44214,0.45431 0.9733,0 1.88426,-0.35632 2.73293,-1.06897 0.84867,-0.71265 1.273,-1.47875 1.273,-2.29829 0,-0.49886 -0.18397,-0.89972 -0.55193,-1.20259 -0.36795,-0.30288 -0.84867,-0.45433 -1.44213,-0.45433' id='path3416' style='font-size:83.33329773px;font-style:normal;font-weight:400;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:MScore' vector-effect='non-scaling-stroke'/>
+    <path inkscape:connector-curvature='0' d='m 132.00082,241.00755 1.99918,0 0,12.83131 -1.99918,0 z' id='use4334-8' sodipodi:nodetypes='ccccc' style='color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.50800002;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new'/>
+    <path inkscape:connector-curvature='0' d='m 133.99937,249.07914 0,2.59947 c 0.45209,0.28344 0.84613,0.56104 1.14844,0.77282 0.33243,0.23288 0.69792,0.61093 1.03123,0.99764 0.32627,0.37856 0.49217,0.76141 0.49219,1.0679 -2e-5,0.61909 -0.22914,1.30478 -0.70312,1.96717 -0.1098,0.19153 -0.29863,0.35325 -0.47168,0.52341 0,0 0.25269,-0.0528 0.28419,-0.0597 0.4794,-0.1071 0.81979,-0.19416 1.05468,-0.33723 0.25033,-0.15248 0.41133,-0.35995 0.56249,-0.66041 0.21264,-0.47513 0.32812,-0.9334 0.32812,-1.39108 0,-0.38702 -0.14416,-0.79678 -0.39843,-1.19435 -0.2514,-0.39305 -0.54912,-0.74992 -0.91406,-1.09599 l -1.05468,-1.0117 c -0.3422,-0.3284 -0.67135,-0.66982 -0.91405,-1.05383 -0.18108,-0.38934 -0.26354,-0.38177 -0.44532,-1.12411 z' id='path7385' sodipodi:nodetypes='ccccccccccsccccc' style='font-size:83.33329773px;font-style:normal;font-weight:400;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;font-family:MScore'/>
+    <path inkscape:connector-curvature='0' d='m 133.99945,246.39667 0,2.57695 c 0.45209,0.28342 0.85395,0.57647 1.15626,0.78824 0.2864,0.20064 0.58123,0.51945 0.87499,0.84889 0.0472,0.053 0.11014,0.0981 0.15625,0.15158 l 0.90625,0.87919 c 0.20249,0.19341 0.38545,0.39549 0.5625,0.60634 0.0208,-0.12827 0.0626,-0.26437 0.0626,-0.39412 0,-0.38704 -0.12074,-0.78481 -0.37501,-1.18237 -0.2514,-0.39305 -0.57256,-0.74532 -0.93749,-1.09141 l -1.03126,-1.03077 c -0.3422,-0.32844 -0.69479,-0.67708 -0.9375,-1.06111 -0.18108,-0.38933 -0.25572,-0.34907 -0.4375,-1.09141 z' id='path7460' style='font-size:83.33329773px;font-style:normal;font-weight:400;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;font-family:MScore'/>
+    <path inkscape:connector-curvature='0' d='m 133.99945,243.6932 0,2.57695 c 0.45209,0.28343 0.85395,0.57647 1.15626,0.78824 0.2864,0.20063 0.58123,0.51945 0.87499,0.84889 0.0472,0.053 0.11014,0.098 0.15625,0.15157 l 0.90625,0.87921 c 0.20249,0.19341 0.38545,0.39548 0.5625,0.60633 0.0208,-0.12827 0.0626,-0.26439 0.0626,-0.39412 0,-0.38703 -0.12074,-0.78481 -0.37501,-1.18237 -0.2514,-0.39305 -0.57256,-0.74532 -0.93749,-1.09141 l -1.03126,-1.03079 c -0.3422,-0.32842 -0.69479,-0.67706 -0.9375,-1.06109 -0.18108,-0.38934 -0.25572,-0.34909 -0.4375,-1.09141 z' id='path26037' style='font-size:83.33329773px;font-style:normal;font-weight:400;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;font-family:MScore'/>
+    <path inkscape:connector-curvature='0' d='m 133.99945,241.00755 0,2.57695 c 0.45209,0.28343 0.85395,0.57647 1.15626,0.78824 0.2864,0.20063 0.58123,0.51945 0.87499,0.84888 0.0472,0.053 0.11014,0.098 0.15625,0.15159 l 0.90625,0.8792 c 0.20249,0.19341 0.38545,0.39548 0.5625,0.60633 0.0208,-0.12827 0.0626,-0.26439 0.0626,-0.39412 0,-0.38703 -0.12074,-0.78481 -0.37501,-1.18237 -0.2514,-0.39305 -0.57256,-0.74532 -0.93749,-1.09141 l -1.03126,-1.03079 c -0.3422,-0.32842 -0.69479,-0.67706 -0.9375,-1.06108 -0.18108,-0.38934 -0.25572,-0.3491 -0.4375,-1.09142 z' id='path26039' style='font-size:83.33329773px;font-style:normal;font-weight:400;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;font-family:MScore'/>
+  </g>
+</svg>
