@@ -43,12 +43,12 @@
      id="namedview88"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="91.401279"
-     inkscape:cy="203.8897"
+     inkscape:cx="10.573516"
+     inkscape:cy="207.06319"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="actions"
+     inkscape:current-layer="edit-paste"
      showborder="false"
      inkscape:snap-nodes="false"
      inkscape:snap-bbox="true"
@@ -2754,41 +2754,45 @@
          id="path41043"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="scssscccscssssccccccccs" />
-      <path
-         style="color:#000000;fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
-         d="m 85.413822,526.93735 2.828427,2.82843 2.828428,-2.82843"
-         id="path12111"
-         inkscape:connector-curvature="0" />
-      <rect
-         style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
-         id="rect12923"
-         width="1"
-         height="1"
-         x="312.20428"
-         y="-437.99765"
-         transform="matrix(-0.70710678,0.70710678,-0.70710678,-0.70710678,0,0)" />
-      <path
-         style="color:#000000;fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
-         d="m 88.242249,529.76578 0.0221,-6.34187"
-         id="path12925"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc" />
-      <rect
-         y="-432.99765"
-         x="312.20428"
-         height="1"
-         width="1"
-         id="rect4479-2-9-9-0-8"
-         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         transform="matrix(-0.70710678,0.70710678,-0.70710678,-0.70710678,0,0)" />
-      <rect
-         y="-437.99765"
-         x="307.20428"
-         height="1"
-         width="1"
-         id="rect4479-2-9-9-0-8-1"
-         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         transform="matrix(-0.70710678,0.70710678,-0.70710678,-0.70710678,0,0)" />
+      <g
+         id="g15110"
+         transform="matrix(0.94280904,0,0,0.91365177,4.8040228,45.68647)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path12111"
+           d="m 85.413822,526.93735 2.828427,2.82843 2.828428,-2.82843"
+           style="color:#000000;fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
+        <rect
+           transform="matrix(-0.70710678,0.70710678,-0.70710678,-0.70710678,0,0)"
+           y="-437.99765"
+           x="312.20428"
+           height="1"
+           width="1"
+           id="rect12923"
+           style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:connector-curvature="0"
+           id="path12925"
+           d="m 88.242249,529.76578 0.0221,-6.34187"
+           style="color:#000000;fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
+        <rect
+           transform="matrix(-0.70710678,0.70710678,-0.70710678,-0.70710678,0,0)"
+           style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="rect4479-2-9-9-0-8"
+           width="1"
+           height="1"
+           x="312.20428"
+           y="-432.99765" />
+        <rect
+           transform="matrix(-0.70710678,0.70710678,-0.70710678,-0.70710678,0,0)"
+           style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           id="rect4479-2-9-9-0-8-1"
+           width="1"
+           height="1"
+           x="307.20428"
+           y="-437.99765" />
+      </g>
     </g>
     <g
        transform="translate(-11.000184,-367)"
