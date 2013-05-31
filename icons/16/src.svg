@@ -43,7 +43,7 @@
      id="namedview88"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="433.75607"
+     inkscape:cx="273.75607"
      inkscape:cy="165.90599"
      inkscape:window-x="0"
      inkscape:window-y="27"
@@ -3018,8 +3018,8 @@
     <g
        style="display:inline"
        transform="translate(-789.00019,-483.36219)"
-       inkscape:label="align-vertical-bottom"
-       id="g4276">
+       inkscape:label="align-vertical-center"
+       id="align-vertical-center">
       <rect
          transform="matrix(0,1,-1,0,0,0)"
          y="-1098"
@@ -3049,8 +3049,8 @@
          sodipodi:nodetypes="ccsscsscsscccssczccszz" />
     </g>
     <g
-       id="g4286"
-       inkscape:label="align-vertical-bottom"
+       id="align-vertical-top"
+       inkscape:label="align-vertical-top"
        transform="translate(-761.00022,-483.36219)"
        style="display:inline">
       <rect
