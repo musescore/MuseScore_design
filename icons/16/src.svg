@@ -3084,8 +3084,8 @@
     <g
        style="display:inline"
        transform="translate(-733.00021,-483.36218)"
-       inkscape:label="align-vertical-top"
-       id="g4296">
+       inkscape:label="format-text-superscript"
+       id="format-text-superscript">
       <rect
          transform="matrix(0,1,-1,0,0,0)"
          y="-1098"
@@ -3116,8 +3116,8 @@
          style="color:#000000;fill:none;stroke:#ffffff;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     </g>
     <g
-       id="g4364"
-       inkscape:label="align-vertical-top"
+       id="format-text-subscript"
+       inkscape:label="format-text-subscript"
        transform="translate(-705.00022,-483.36218)"
        style="display:inline">
       <rect
