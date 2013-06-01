@@ -1374,63 +1374,9 @@
          sodipodi:type="arc" />
     </g>
     <g
-       id="g8374"
-       transform="translate(205.99989,0)">
-      <rect
-         style="color:#ffffff;fill:none;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible"
-         id="rect27703"
-         width="24"
-         height="24"
-         x="149.00011"
-         y="231"
-         inkscape:label="audio-volume-high" />
-      <rect
-         inkscape:label="audio-volume-high"
-         y="231"
-         x="149.00011"
-         height="24"
-         width="24"
-         id="rect27705"
-         style="color:#ffffff;fill:none;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible" />
-      <path
-         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-         d="m 157.90625,234 -0.125,0.8125 -3,16 -0.25,1.1875 1.21875,0 3.9375,0 -0.21875,-0.125 -1.3125,-0.75 -1.75,-1 0.75,-1.25 2.40625,-12.875 2.375,0 0.3125,1.625 c 0.43577,-0.60603 1.03122,-1.09128 1.75,-1.375 l -0.28125,-1.4375 -0.125,-0.8125 -0.84375,0 -4,0 -0.84375,0 z m 7.75,11.125 -1.53125,2.625 0.4375,2.25 -1.71875,0 -0.65625,1.125 -0.5,0.875 4.0625,0 1.21875,0 -0.25,-1.1875 -1.0625,-5.6875 z"
-         id="path17616"
-         inkscape:connector-curvature="0" />
-      <rect
-         y="122.38252"
-         x="262.51816"
-         height="13.999999"
-         width="1.5"
-         id="rect17622"
-         style="fill:#ffffff;fill-opacity:1;stroke:none"
-         inkscape:transform-center-y="-4.4126069"
-         transform="matrix(0.8660254,0.5,-0.5,0.8660254,0,0)"
-         inkscape:transform-center-x="-2.5476079" />
-      <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none"
-         id="rect17620"
-         width="10"
-         height="3"
-         x="155.75803"
-         y="249" />
-      <path
-         sodipodi:type="arc"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
-         id="path17657-3"
-         sodipodi:cx="239.02419"
-         sodipodi:cy="216.08603"
-         sodipodi:rx="2.0550292"
-         sodipodi:ry="2.0550292"
-         d="m 241.07921,216.08603 c 0,1.13496 -0.92006,2.05503 -2.05502,2.05503 -1.13497,0 -2.05503,-0.92007 -2.05503,-2.05503 0,-1.13496 0.92006,-2.05503 2.05503,-2.05503 1.13496,0 2.05502,0.92007 2.05502,2.05503 z"
-         transform="matrix(0.25188844,0.94006047,-0.94006047,0.25188844,308.38692,-39.176309)"
-         inkscape:transform-center-y="-9.8768187"
-         inkscape:transform-center-x="-5.7023913" />
-    </g>
-    <g
        inkscape:label="media-playback-metronome"
        transform="matrix(1.5,0,0,1.5,191,-94.5)"
-       id="media-playback-metronome-6"
+       id="media-playback-metronome"
        style="display:inline">
       <rect
          inkscape:label="audio-volume-high"
