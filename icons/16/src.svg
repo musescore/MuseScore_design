@@ -42,9 +42,9 @@
      inkscape:window-height="1021"
      id="namedview88"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="156.45235"
-     inkscape:cy="157.6813"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="83.599734"
+     inkscape:cy="196.6541"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -2728,7 +2728,7 @@
        style="display:inline"
        inkscape:label="edit-paste"
        id="edit-paste"
-       transform="translate(-38.9996,-367)">
+       transform="translate(16.999819,-367)">
       <rect
          width="16"
          height="16"
@@ -2837,7 +2837,7 @@
          y="-90.000175" />
     </g>
     <g
-       transform="translate(16.999819,-367)"
+       transform="translate(-38.9996,-367)"
        id="edit-cut"
        inkscape:label="edit-cut"
        style="display:inline">
