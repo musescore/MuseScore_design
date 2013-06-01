@@ -42,7 +42,7 @@
      id="namedview88"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="74.15932"
+     inkscape:cx="524.65932"
      inkscape:cy="115.66925"
      inkscape:window-x="0"
      inkscape:window-y="27"
@@ -1242,7 +1242,7 @@
     <g
        style="display:inline"
        id="sound-while-editing"
-       transform="matrix(1.5,0,0,1.5,444.00038,-202.5)"
+       transform="matrix(1.5,0,0,1.5,407.00039,-202.5)"
        inkscape:label="sound-while-editing">
       <path
          inkscape:connector-curvature="0"
@@ -1297,7 +1297,7 @@
     </g>
     <g
        inkscape:label="midi-input"
-       transform="matrix(1.5,0,0,1.5,479.00038,-202.5)"
+       transform="matrix(1.5,0,0,1.5,444.00038,-202.5)"
        id="midi-input"
        style="display:inline">
       <rect
