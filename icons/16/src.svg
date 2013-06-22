@@ -42,9 +42,9 @@
      inkscape:window-height="1021"
      id="namedview88"
      showgrid="false"
-     inkscape:zoom="5.6568542"
-     inkscape:cx="3.0306175"
-     inkscape:cy="176.281"
+     inkscape:zoom="1"
+     inkscape:cx="441.84605"
+     inkscape:cy="127.70676"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -2545,7 +2545,7 @@
        style="display:inline"
        id="note-tie"
        inkscape:label="note-tie"
-       transform="matrix(1.124993,0,0,1.124993,-195.99656,-195.7473)">
+       transform="matrix(1.124993,0,0,-1.124993,-195.99655,681.7473)">
       <g
          transform="matrix(0.88889442,0,0,0.88889442,276.27338,-473.27477)"
          id="g26503"
@@ -2559,27 +2559,24 @@
            id="rect26505"
            style="color:#bebebe;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       </g>
-      <g
-         id="g26529">
-        <use
-           transform="translate(4.6668196,1.3226364)"
-           style="display:inline"
-           x="0"
-           y="0"
-           xlink:href="#g42-2-8"
-           id="use26507"
-           width="1"
-           height="1" />
-        <use
-           transform="matrix(0.99963568,0,0,0.68798744,367.19508,66.727616)"
-           style="display:inline"
-           x="0"
-           y="0"
-           xlink:href="#rect7032-8"
-           id="use26509"
-           width="1"
-           height="1" />
-      </g>
+      <use
+         height="1"
+         width="1"
+         id="use26507"
+         xlink:href="#g42-2-8"
+         y="0"
+         x="0"
+         style="display:inline"
+         transform="matrix(-1,0,0,1,1184.6669,1.3226364)" />
+      <use
+         height="1"
+         width="1"
+         id="use26509"
+         xlink:href="#rect7032-8"
+         y="0"
+         x="0"
+         style="display:inline"
+         transform="matrix(-0.99963568,0,0,0.68798744,822.13862,66.727616)" />
       <path
          style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.66666669;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
          d="m 585.76777,394.84037 c 0,0 -1.07919,2.27081 3.23263,2.27081 4.31182,0 3.89929,-2.27081 3.89929,-2.27081 l -0.6875,-0.125 c 0,0 0.30764,1.07291 -3.21174,1.07291 -3.51938,0 -2.54508,-1.07291 -2.54508,-1.07291 z"
