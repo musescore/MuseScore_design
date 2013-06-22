@@ -43,12 +43,12 @@
      id="namedview88"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="237.47485"
-     inkscape:cy="240.66225"
+     inkscape:cx="157.47485"
+     inkscape:cy="80.662252"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="actions"
+     inkscape:current-layer="layer1"
      showborder="false"
      inkscape:snap-nodes="false"
      inkscape:snap-bbox="true"
@@ -3469,8 +3469,8 @@
      inkscape:label="instruments">
     <g
        style="display:inline"
-       inkscape:label="instrument-string-plucked"
-       id="instrument-string-plucked"
+       inkscape:label="strings-plucked"
+       id="strings-plucked"
        transform="matrix(1.1248527,0,0,-1.1248527,-359.58047,1592.6208)">
       <rect
          width="14.224085"
@@ -3489,9 +3489,9 @@
     </g>
     <g
        style="display:inline"
-       inkscape:label="instrument-keyboard"
+       inkscape:label="keyboards"
        transform="translate(-279.00229,-827.3622)"
-       id="instrument-keyboard">
+       id="keyboards">
       <rect
          y="1131.3622"
          x="285.00211"
@@ -3520,8 +3520,8 @@
     </g>
     <g
        transform="translate(41.99981,-93.999997)"
-       id="instrument-percussion-pitched"
-       inkscape:label="instrument-percussion-pitched"
+       id="percussion-pitched"
+       inkscape:label="percussion-pitched"
        style="display:inline">
       <path
          inkscape:connector-curvature="0"
@@ -3541,9 +3541,9 @@
     </g>
     <g
        style="display:inline"
-       id="instrument-percussion-unpitched"
+       id="percussion-unpitched"
        transform="translate(15.47675,202.89942)"
-       inkscape:label="instrument-percussion-unpitched">
+       inkscape:label="percussion-unpitched">
       <g
          transform="matrix(0.16734729,-0.04484056,0.04484056,0.16734729,77.77861,73.461361)"
          id="g5618">
@@ -3580,8 +3580,8 @@
     <g
        style="display:inline"
        transform="matrix(-1,0,0,-1,291.99956,616)"
-       inkscape:label="instrument-electronic"
-       id="instrument-electronic">
+       inkscape:label="electronic"
+       id="electronic">
       <rect
          style="color:#bebebe;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible"
          id="rect26296-9"
@@ -3610,9 +3610,9 @@
     </g>
     <g
        style="display:inline"
-       id="instrument-vocal"
+       id="vocals"
        transform="matrix(-1,0,0,1,453,181.00005)"
-       inkscape:label="instrument-vocal">
+       inkscape:label="vocals">
       <rect
          y="-139"
          x="-225"
@@ -3646,9 +3646,9 @@
     </g>
     <g
        style="display:inline"
-       id="instrument-string"
+       id="strings"
        transform="translate(-118.99992,180.00003)"
-       inkscape:label="instrument-string">
+       inkscape:label="strings">
       <rect
          inkscape:label="audio-volume-high"
          y="124"
@@ -3727,9 +3727,9 @@
     </g>
     <g
        style="display:inline"
-       id="instrument-freereed"
+       id="freereeds"
        transform="translate(-92.99981,181.00005)"
-       inkscape:label="instrument-freereed">
+       inkscape:label="freereeds">
       <rect
          style="color:#bebebe;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible"
          id="rect26306-1"
@@ -3769,8 +3769,8 @@
     </g>
     <g
        transform="translate(-139.00018,-827.3622)"
-       id="instrument-woodwind"
-       inkscape:label="instrument-woodwind"
+       id="woodwinds"
+       inkscape:label="woodwinds"
        style="display:inline">
       <rect
          rx="0"
@@ -3802,8 +3802,8 @@
     <g
        transform="translate(-37,181.00005)"
        style="display:inline"
-       id="instrument-brass"
-       inkscape:label="instrument-brass">
+       id="brass"
+       inkscape:label="brass">
       <rect
          style="fill:#ffffff;fill-opacity:1;stroke:none"
          id="rect4085"
