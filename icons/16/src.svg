@@ -43,12 +43,12 @@
      id="namedview88"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="441.84605"
-     inkscape:cy="127.70676"
+     inkscape:cx="430.60938"
+     inkscape:cy="121.50737"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="actions"
+     inkscape:current-layer="note-tie"
      showborder="false"
      inkscape:snap-nodes="false"
      inkscape:snap-bbox="true"
@@ -2579,7 +2579,7 @@
          transform="matrix(-0.99963568,0,0,0.68798744,822.13862,66.727616)" />
       <path
          style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.66666669;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-         d="m 585.76777,394.84037 c 0,0 -1.07919,2.27081 3.23263,2.27081 4.31182,0 3.89929,-2.27081 3.89929,-2.27081 l -0.6875,-0.125 c 0,0 0.30764,1.07291 -3.21174,1.07291 -3.51938,0 -2.54508,-1.07291 -2.54508,-1.07291 z"
+         d="m 585.76777,394.84037 c 0,0 -0.1903,2.27081 4.12152,2.27081 4.31182,0 4.78819,-2.27081 4.78819,-2.27081 l -0.6875,-0.125 c 0,0 -0.58126,1.07291 -4.10064,1.07291 -3.51938,0 -3.43397,-1.07291 -3.43397,-1.07291 z"
          id="path4304-3"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="czcczcc" />
