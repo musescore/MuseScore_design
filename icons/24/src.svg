@@ -42,8 +42,8 @@
      id="namedview88"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="564.39218"
-     inkscape:cy="84.359155"
+     inkscape:cx="558.82427"
+     inkscape:cy="93.200856"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -3236,7 +3236,7 @@
        style="display:inline"
        id="note-tie"
        inkscape:label="note-tie"
-       transform="matrix(1.5,0,0,1.5,-290.99983,-305.99997)"
+       transform="matrix(1.5,0,0,-1.5,-290.99981,863.99997)"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <g
@@ -3254,7 +3254,7 @@
       </g>
       <path
          style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.66666669;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-         d="m 584.98962,395.0625 c 0,0 -0.63473,2.27081 3.67709,2.27081 4.31182,0 4.34374,-2.27081 4.34374,-2.27081 l -0.6875,-0.125 c 0,0 0.806,1.07291 -3.65619,1.07291 -4.46219,0 -2.98954,-1.07291 -2.98954,-1.07291 z"
+         d="m 584.98962,395.0625 c 0,0 0.0319,2.27081 4.34376,2.27081 4.31182,0 5.0104,-2.27081 5.0104,-2.27081 l -0.6875,-0.125 c 0,0 0.13934,1.07291 -4.32285,1.07291 -4.46219,0 -3.65621,-1.07291 -3.65621,-1.07291 z"
          id="path4304"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="czcczcc" />
@@ -3266,7 +3266,7 @@
          y="0"
          x="0"
          style="display:inline"
-         transform="translate(4.1658552,1.7010539)" />
+         transform="matrix(-1,0,0,1,1184.1659,1.7010539)" />
       <use
          height="1"
          width="1"
@@ -3275,7 +3275,7 @@
          y="0"
          x="0"
          style="display:inline"
-         transform="matrix(0.99963567,0,0,0.63755437,365.41778,90.483581)" />
+         transform="matrix(-0.99963567,0,0,0.63755437,822.91394,90.483581)" />
     </g>
     <g
        transform="matrix(1.5,0,0,1.5,-111.99941,-305.99997)"
