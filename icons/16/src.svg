@@ -43,12 +43,12 @@
      id="namedview88"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="430.60938"
-     inkscape:cy="121.50737"
+     inkscape:cx="179.60219"
+     inkscape:cy="27.438911"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="note-tie"
+     inkscape:current-layer="g4781"
      showborder="false"
      inkscape:snap-nodes="false"
      inkscape:snap-bbox="true"
@@ -3616,7 +3616,7 @@
     </g>
     <g
        style="display:inline"
-       transform="matrix(-1,0,0,-1,291.99956,616)"
+       transform="matrix(-1,0,0,-1,291.99956,615)"
        inkscape:label="electronic"
        id="electronic">
       <rect
@@ -3785,9 +3785,10 @@
         <path
            inkscape:connector-curvature="0"
            style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
-           d="m 190,108 c 0,0 -8.09069,1 -12.03125,1 L 174,109 l 0,4 4.03125,0 C 182.09654,113 190,112 190,112 l 0,-4 z m -14,2 c 0.55228,0 1,0.44772 1,1 0,0.55228 -0.44772,1 -1,1 -0.55228,0 -1,-0.44772 -1,-1 0,-0.55228 0.44772,-1 1,-1 z"
+           d="m 190,108.49995 c 0,0 -8.09069,0.50005 -12.03125,0.50005 L 174,109 l 0,4 4.03125,0 C 182.09654,113 190,112.49995 190,112.49995 z M 176,110 c 0.55228,0 1,0.44772 1,1 0,0.55228 -0.44772,1 -1,1 -0.55228,0 -1,-0.44772 -1,-1 0,-0.55228 0.44772,-1 1,-1 z"
            transform="matrix(1,0,0,-1,-155.8264,418.68402)"
-           id="rect4755" />
+           id="rect4755"
+           sodipodi:nodetypes="csccsccsssss" />
       </g>
       <rect
          y="128"
@@ -3886,5 +3887,15 @@
          x="5.8229151"
          y="290.94501"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Raleway;-inkscape-font-specification:Raleway Medium">instruments</tspan></text>
+    <g
+       style="display:inline"
+       id="freereeds-7"
+       transform="translate(-85.3749,233.25005)"
+       inkscape:label="freereeds">
+      <g
+         id="g26308-7-6"
+         style="opacity:0.25"
+         transform="matrix(1,0,0,-1,245.00006,434.99995)" />
+    </g>
   </g>
 </svg>
