@@ -42,8 +42,8 @@
      id="namedview88"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="336.40878"
-     inkscape:cy="23.960652"
+     inkscape:cx="377.82659"
+     inkscape:cy="50.964213"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -3471,7 +3471,7 @@
          id="rect5393"
          style="color:#ffffff;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <g
-         transform="matrix(0.89245873,0,0,0.40160643,486.92637,356.31725)"
+         transform="matrix(0.89245873,0,0,0.40160643,486.92637,358.31724)"
          style="fill:#eeeeec;fill-rule:evenodd;stroke:#ffffff;stroke-width:0;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;display:inline"
          id="g5395">
         <path
@@ -3493,31 +3493,20 @@
          height="16"
          x="582"
          y="381.99997" />
-      <g
-         id="g5740"
-         transform="translate(4.9163818,2.2916435)">
-        <rect
-           y="385.04163"
-           x="579.08362"
-           height="0.66666669"
-           width="12"
-           id="rect5702-0"
-           style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
-        <rect
-           style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
-           id="rect5704-6"
-           width="12"
-           height="0.66666669"
-           x="579.08362"
-           y="389.70831" />
-        <rect
-           y="385.04163"
-           x="581.75031"
-           height="2.6666667"
-           width="6.6666665"
-           id="rect5706-3"
-           style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
-      </g>
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+         id="rect5702-0"
+         width="12"
+         height="0.66666669"
+         x="584"
+         y="387.33328" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
+         id="rect5706-3"
+         width="6.6666665"
+         height="2.6666667"
+         x="586.66669"
+         y="387.33328" />
     </g>
     <g
        transform="matrix(1.5,0,0,1.5,-509.00041,-268.99995)"
@@ -3531,13 +3520,6 @@
          width="16"
          id="rect5433"
          style="color:#ffffff;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-      <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none"
-         id="rect5702"
-         width="12"
-         height="0.66666669"
-         x="584.00024"
-         y="387.33328" />
       <rect
          y="391.99997"
          x="584.00024"
