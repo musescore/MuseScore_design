@@ -42,12 +42,12 @@
      id="namedview88"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="472.66262"
-     inkscape:cy="292.58187"
+     inkscape:cx="631.90759"
+     inkscape:cy="93.020903"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="midi-input"
+     inkscape:current-layer="actions"
      showborder="false"
      inkscape:snap-nodes="false"
      inkscape:snap-bbox="true"
@@ -2576,7 +2576,7 @@
          transform="matrix(0.88886962,0,0,1,65.270682,0.16666464)">
         <path
            style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
-           d="m 587.33294,392.33331 0,1.66667 6,-1.66667 1.3e-4,-1.66665 z"
+           d="m 587.33294,392.33331 0,1.66667 6.75002,-1.66667 1.3e-4,-1.66665 z"
            id="path10408"
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="ccccc" />
@@ -2589,24 +2589,20 @@
            width="16"
            height="16" />
       </g>
-      <g
-         id="g4283"
-         transform="translate(-0.33324584,0.33333132)">
-        <path
-           style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
-           d="m 588.66627,384.66665 0,11.33333 0.99987,0 0,-11.33333 z"
-           id="path19771-6-6"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="ccccc" />
-        <use
-           x="0"
-           y="0"
-           xlink:href="#path19771-6-6"
-           id="use9438"
-           transform="translate(2.3335934,-0.66666667)"
-           width="16"
-           height="16" />
-      </g>
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path19771-6-6"
+         d="m 588.33302,384.99998 0,11.33333 0.99987,0 0,-11.33333 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+      <use
+         height="16"
+         width="16"
+         transform="translate(3.0002601,-0.66666667)"
+         id="use9438"
+         xlink:href="#path19771-6-6"
+         y="0"
+         x="0" />
     </g>
     <g
        id="note-natural"
