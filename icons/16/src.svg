@@ -43,8 +43,8 @@
      id="namedview88"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="123.14379"
-     inkscape:cy="113.45348"
+     inkscape:cx="225.03373"
+     inkscape:cy="185.19998"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -4041,12 +4041,12 @@
          id="path11247" />
     </g>
     <g
-       id="g9640"
-       transform="translate(-24.000601,-48)">
+       id="rest-128"
+       inkscape:label="rest-128">
       <g
          style="fill:#666666;fill-opacity:1;stroke:none"
          id="layer1"
-         transform="matrix(0.29036148,0,0,0.29036148,3.6776671,270.1578)">
+         transform="matrix(0.29036148,0,0,0.29036148,-20.322934,222.1578)">
         <g
            id="g9632"
            transform="matrix(1,0,0,0.99588742,0,0.80509261)">
@@ -4084,8 +4084,8 @@
         </g>
       </g>
       <rect
-         y="311"
-         x="149.0004"
+         y="263"
+         x="124.99979"
          height="15.99999"
          width="15.99999"
          id="rect4534"
