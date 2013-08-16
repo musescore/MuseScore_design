@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="16.000004"
+   height="16"
+   id="svg7384"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="mode-photo.svg">
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>MuseScore Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#222222"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1021"
+     id="namedview88"
+     showgrid="false"
+     inkscape:zoom="1"
+     inkscape:cx="-58.96605"
+     inkscape:cy="-43.800018"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="actions"
+     showborder="false"
+     inkscape:snap-nodes="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-to-guides="true"
+     inkscape:snap-grids="true"
+     inkscape:snap-global="false"
+     inkscape:object-nodes="false"
+     inkscape:snap-bbox-midpoints="false"
+     inkscape:object-paths="false"
+     inkscape:snap-others="false"
+     inkscape:bbox-nodes="false"
+     fit-margin-top="6"
+     fit-margin-left="6"
+     fit-margin-right="6"
+     fit-margin-bottom="6">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4866"
+       empspacing="2"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       spacingx="1px"
+       spacingy="1px"
+       originx="-285.99978px"
+       originy="-229px" />
+  </sodipodi:namedview>
+  <title
+     id="title9167">MuseScore Icon Theme</title>
+  <defs
+     id="defs7386">
+    <linearGradient
+       id="linearGradient19282"
+       osb:paint="solid"
+       gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)">
+      <stop
+         style="stop-color:#666666;stop-opacity:1;"
+         offset="0"
+         id="stop19284" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient12335"
+       osb:paint="solid"
+       gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)">
+      <stop
+         style="stop-color:#666666;stop-opacity:1;"
+         offset="0"
+         id="stop12337" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient12339"
+       osb:paint="solid"
+       gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)">
+      <stop
+         style="stop-color:#666666;stop-opacity:1;"
+         offset="0"
+         id="stop12341" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient19282-9"
+       osb:paint="solid"
+       gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,263.493,-969.46532)">
+      <stop
+         style="stop-color:#666666;stop-opacity:1;"
+         offset="0"
+         id="stop19284-8" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient21935"
+       osb:paint="solid"
+       gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)">
+      <stop
+         style="stop-color:#666666;stop-opacity:1;"
+         offset="0"
+         id="stop21937" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient21939"
+       osb:paint="solid"
+       gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)">
+      <stop
+         style="stop-color:#666666;stop-opacity:1;"
+         offset="0"
+         id="stop21941" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient19282-9-9"
+       osb:paint="solid"
+       gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,263.493,-969.46532)">
+      <stop
+         style="stop-color:#666666;stop-opacity:1;"
+         offset="0"
+         id="stop19284-8-1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient8782"
+       osb:paint="solid"
+       gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,263.493,-969.46532)">
+      <stop
+         style="stop-color:#666666;stop-opacity:1;"
+         offset="0"
+         id="stop8784" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="instruments"
+     inkscape:label="instruments"
+     transform="translate(-285.99978,-104)" />
+  <g
+     inkscape:groupmode="layer"
+     id="actions"
+     inkscape:label="actions"
+     transform="translate(-320.99978,-124)"
+     style="display:inline">
+    <path
+       inkscape:connector-curvature="0"
+       id="rect3454"
+       d="m 322.56228,127.00001 c -0.86563,0 -1.5625,0.69688 -1.5625,1.5625 l 0,7.875 c 0,0.86563 0.69687,1.5625 1.5625,1.5625 l 12.875,0 c 0.86563,0 1.5625,-0.69687 1.5625,-1.5625 l 0,-7.875 c 0,-0.86562 -0.69687,-1.5625 -1.5625,-1.5625 l -12.875,0 z m 1.4375,2 2,0 0,2 -2,0 0,-2 z m 7,0.5 c 1.933,0 3.5,1.567 3.5,3.5 0,1.933 -1.567,3.5 -3.5,3.5 -1.933,0 -3.5,-1.567 -3.5,-3.5 0,-1.933 1.567,-3.5 3.5,-3.5 z"
+       style="fill:#666666;fill-opacity:1;stroke:none" />
+    <rect
+       style="color:#666666;fill:none;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible"
+       id="rect5914"
+       width="16"
+       height="16"
+       x="320.99979"
+       y="124"
+       inkscape:label="audio-volume-high" />
+    <rect
+       inkscape:label="audio-volume-high"
+       y="124"
+       x="320.99979"
+       height="16"
+       width="16"
+       id="rect5916"
+       style="color:#666666;fill:none;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#666666;fill-opacity:1;stroke:none"
+       id="path5970"
+       sodipodi:cx="-78"
+       sodipodi:cy="-9.5625"
+       sodipodi:rx="4.1875"
+       sodipodi:ry="4.1875"
+       d="m -73.8125,-9.5625 a 4.1875,4.1875 0 1 1 -8.375,0 4.1875,4.1875 0 1 1 8.375,0 z"
+       transform="matrix(0.47761194,0,0,0.47761194,368.25351,137.56717)" />
+    <rect
+       style="fill:#666666;fill-opacity:1;stroke:none"
+       id="rect3466"
+       width="2"
+       height="1"
+       x="332.99979"
+       y="126.00002"
+       rx="0"
+       ry="0" />
+  </g>
+</svg>
