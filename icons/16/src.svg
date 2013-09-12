@@ -42,31 +42,35 @@
      inkscape:window-height="1021"
      id="namedview88"
      showgrid="false"
-     inkscape:zoom="4"
-     inkscape:cx="59.482783"
-     inkscape:cy="38.281706"
+     inkscape:zoom="1"
+     inkscape:cx="418.20812"
+     inkscape:cy="163.75964"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="actions"
+     inkscape:current-layer="note-double-flat"
      showborder="false"
-     inkscape:snap-nodes="false"
+     inkscape:snap-nodes="true"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="true"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-to-guides="true"
      inkscape:snap-grids="true"
-     inkscape:snap-global="false"
-     inkscape:object-nodes="false"
-     inkscape:snap-bbox-midpoints="false"
-     inkscape:object-paths="false"
+     inkscape:snap-global="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
      inkscape:snap-others="false"
-     inkscape:bbox-nodes="false"
+     inkscape:bbox-nodes="true"
      fit-margin-top="6"
      fit-margin-left="6"
      fit-margin-right="6"
-     fit-margin-bottom="6">
+     fit-margin-bottom="6"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-midpoints="true">
     <inkscape:grid
        type="xygrid"
        id="grid4866"
@@ -2672,7 +2676,7 @@
       </g>
       <path
          style="color:#000000;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.50800002;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
-         d="m 228.44462,459.55553 1.7777,0 0,11.40984 -1.7777,0 z"
+         d="m 228.44462,460.44442 c 0,0 0.88882,-0.88889 1.7777,-0.88889 l 0,11.40984 -1.7777,0 z"
          id="rect7032-8"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccc" />
@@ -3050,10 +3054,10 @@
       </g>
       <path
          style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#666666;stroke:none;display:inline;font-family:MScore1;-inkscape-font-specification:MScore1"
-         d="m 587.78051,384.66669 -1.5e-4,10.66666 c 0,0 0.66479,-8e-4 1.22621,-0.0776 0.75036,-0.0734 1.27963,-0.65235 1.77015,-1.07364 0.59614,-0.55068 1.13106,-1.16806 1.57367,-1.84716 0.30639,-0.47028 0.52251,-1.03439 0.39762,-1.60109 -0.0716,-0.67012 -0.58514,-1.27892 -1.2699,-1.36848 -0.87747,-0.0616 -1.73004,0.33187 -2.36423,0.63467 l 0,-5.33333 z m 2.66681,6 c 0.40774,-0.0509 0.8822,0.16415 0.90926,0.62116 0.10792,0.39275 -0.0555,0.78334 -0.32657,1.06745 -0.55501,0.6373 -1.23229,1.15387 -1.91602,1.64472 0,-0.88889 0,-1.77777 0,-2.66666 0.36766,-0.33588 0.82045,-0.6422 1.33333,-0.66667 z"
-         id="path10222"
+         d="m 588.22498,384.66669 -1.5e-4,11.5556 c 0,0 3.10847,-2.25732 4.12073,-3.89217 0.39462,-0.70208 0.56688,-1.13366 0.32863,-1.91637 -0.19863,-0.72718 -1.00664,-1.22172 -1.74013,-1.01234 -0.63155,0.11228 -1.82021,0.59897 -1.82021,0.59897 l 0,-5.33366 z m 2.22234,6 c 0.57046,-0.12669 1.08156,0.46555 0.93027,1.01563 -0.12008,0.6263 -1.11419,1.4288 -1.11419,1.4288 l -1.14941,0.8889 0,-2.66666 c 0,0 0.81799,-0.64117 1.33333,-0.66667 z"
+         id="flat"
          inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccccccccccccccc" />
+         sodipodi:nodetypes="cccccccccccccc" />
     </g>
     <g
        transform="matrix(1.124993,0,0,1.124993,-54.748901,-195.7473)"
@@ -3073,18 +3077,24 @@
            x="346.1907"
            y="963.1781" />
       </g>
-      <path
-         sodipodi:nodetypes="cccccccccccccccc"
-         inkscape:connector-curvature="0"
-         id="path26942"
-         d="m 586.00272,384.66669 -1.5e-4,10.66666 c 0,0 0.66479,-8e-4 1.22621,-0.0776 0.75036,-0.0734 1.27963,-0.65235 1.77015,-1.07364 0.59614,-0.55068 1.13106,-1.16806 1.57367,-1.84716 0.30639,-0.47028 0.52251,-1.03439 0.39762,-1.60109 -0.0716,-0.67012 -0.58514,-1.27892 -1.2699,-1.36848 -0.87747,-0.0616 -1.73004,0.33187 -2.36423,0.63467 l 0,-5.33333 z m 2.66681,6 c 0.40774,-0.0509 0.8822,0.16415 0.90926,0.62116 0.10792,0.39275 -0.0555,0.78334 -0.32657,1.06745 -0.55501,0.6373 -1.23229,1.15387 -1.91602,1.64472 0,-0.88889 0,-1.77777 0,-2.66666 0.36766,-0.33588 0.82045,-0.6422 1.33333,-0.66667 z"
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#666666;stroke:none;display:inline;font-family:MScore1;-inkscape-font-specification:MScore1" />
-      <path
-         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#666666;stroke:none;display:inline;font-family:MScore1;-inkscape-font-specification:MScore1"
-         d="m 589.5583,384.66669 -1.5e-4,10.66666 c 0,0 0.66479,-8e-4 1.22621,-0.0776 0.75036,-0.0734 1.27963,-0.65235 1.77015,-1.07364 0.59614,-0.55068 1.13106,-1.16806 1.57367,-1.84716 0.30639,-0.47028 0.52251,-1.03439 0.39762,-1.60109 -0.0716,-0.67012 -0.58514,-1.27892 -1.2699,-1.36848 -0.87747,-0.0616 -1.73004,0.33187 -2.36423,0.63467 l 0,-5.33333 z m 2.66681,6 c 0.40774,-0.0509 0.8822,0.16415 0.90926,0.62116 0.10792,0.39275 -0.0555,0.78334 -0.32657,1.06745 -0.55501,0.6373 -1.23229,1.15387 -1.91602,1.64472 0,-0.88889 0,-1.77777 0,-2.66666 0.36766,-0.33588 0.82045,-0.6422 1.33333,-0.66667 z"
-         id="path26944"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccccccccccccccc" />
+      <use
+         style="display:inline"
+         x="0"
+         y="0"
+         xlink:href="#flat"
+         id="use4904"
+         transform="translate(-1.77779,0)"
+         width="758"
+         height="349" />
+      <use
+         height="349"
+         width="758"
+         transform="translate(1.77779,0)"
+         id="use4924"
+         xlink:href="#flat"
+         y="0"
+         x="0"
+         style="display:inline" />
     </g>
     <g
        transform="matrix(1.124993,0,0,1.124993,-110.7489,-195.7473)"
