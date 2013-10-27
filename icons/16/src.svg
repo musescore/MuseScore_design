@@ -42,9 +42,9 @@
      inkscape:window-height="1014"
      id="namedview88"
      showgrid="false"
-     inkscape:zoom="11.313708"
-     inkscape:cx="75.397077"
-     inkscape:cy="148.04497"
+     inkscape:zoom="8"
+     inkscape:cx="223.50008"
+     inkscape:cy="151.34962"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -70,7 +70,10 @@
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:snap-intersection-paths="true"
-     inkscape:snap-midpoints="true">
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="false"
+     inkscape:snap-center="false"
+     inkscape:snap-page="true">
     <inkscape:grid
        type="xygrid"
        id="grid4866"
@@ -1717,7 +1720,7 @@
        style="display:inline"
        id="media-playback-metronome"
        inkscape:label="media-playback-metronome"
-       transform="translate(88.999808,-279.93751)">
+       transform="translate(89,-280)">
       <rect
          y="487"
          x="120"
@@ -4187,6 +4190,45 @@
          id="path4"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccccccccccccccsc" />
+    </g>
+    <g
+       transform="translate(116.99981,-280.00001)"
+       inkscape:label="media-playback-loop-in"
+       id="media-playback-loop-in"
+       style="display:inline">
+      <rect
+         style="color:#bebebe;fill:none;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible"
+         id="rect4566"
+         width="16"
+         height="16"
+         x="120"
+         y="487" />
+      <path
+         style="fill:#666666;fill-opacity:1;stroke:none"
+         d="m 208,189 4,0 0,2 -2,0 0,8 2,0 0,2 -4,0 z"
+         id="path4579"
+         inkscape:connector-curvature="0"
+         transform="translate(-81.99981,300.00001)"
+         sodipodi:nodetypes="ccccccccc" />
+    </g>
+    <g
+       style="display:inline"
+       id="media-playback-loop-out"
+       inkscape:label="media-playback-loop-out"
+       transform="translate(144.99981,-280.00001)">
+      <rect
+         y="487"
+         x="120"
+         height="16"
+         width="16"
+         id="rect4583"
+         style="color:#bebebe;fill:none;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible" />
+      <path
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:connector-curvature="0"
+         id="path4585"
+         d="m 130.00019,489.00001 -4,0 0,2 2,0 0,8 -2,0 0,2 4,0 z"
+         style="fill:#666666;fill-opacity:1;stroke:none" />
     </g>
   </g>
 </svg>
