@@ -42,12 +42,12 @@
      id="namedview88"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="33.140201"
-     inkscape:cy="144.34226"
+     inkscape:cx="123.78872"
+     inkscape:cy="301.65715"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="insert-symbol"
+     inkscape:current-layer="svg7384"
      showborder="false"
      inkscape:snap-nodes="true"
      inkscape:snap-bbox="true"
@@ -516,7 +516,9 @@
          style="font-size:36px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:150%;writing-mode:lr-tb;text-anchor:start;fill:#666666;font-family:Raleway;-inkscape-font-specification:Raleway Light"
          id="tspan3523">MuseScore</tspan><tspan
          style="fill:#ee5137;fill-opacity:1"
-         id="tspan6149"> Icons</tspan></tspan><tspan
+         id="tspan6149"><tspan
+   style="fill:#666666;fill-opacity:1"
+   id="tspan5048"> Icons:</tspan> 24x24</tspan></tspan><tspan
        id="tspan5859"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:150%;fill:#666666;fill-opacity:0.75294118;font-family:Raleway;-inkscape-font-specification:Raleway Medium"
        y="52.175499"
