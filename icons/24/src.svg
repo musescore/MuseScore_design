@@ -41,13 +41,13 @@
      inkscape:window-height="1014"
      id="namedview88"
      showgrid="false"
-     inkscape:zoom="11.313708"
-     inkscape:cx="78.160961"
-     inkscape:cy="164.77534"
+     inkscape:zoom="1"
+     inkscape:cx="33.140201"
+     inkscape:cy="144.34226"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="actions"
+     inkscape:current-layer="insert-symbol"
      showborder="false"
      inkscape:snap-nodes="true"
      inkscape:snap-bbox="true"
@@ -1509,11 +1509,20 @@
          y="195"
          inkscape:label="a" />
       <path
-         style="font-size:26px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;font-family:Helvetica;-inkscape-font-specification:Helvetica"
-         d="m 274.24514,200.22065 -0.20981,0.36716 c -0.0992,0.1543 -0.18495,0.31515 -0.28848,0.57697 -0.10354,0.26181 -0.20493,0.58843 -0.34094,0.97035 -0.19463,0.54655 -0.43365,1.24671 -0.65564,1.91448 -0.47072,-0.80529 -0.93379,-1.63213 -1.59977,-2.20296 -0.88152,-0.75558 -1.96507,-1.23261 -3.22575,-1.23261 -3.55769,0 -6.34663,3.07028 -6.34663,6.68756 0,3.42136 2.89994,6.11059 6.34663,6.11059 2.1097,0 3.66611,-1.36471 4.79931,-3.06841 0.40811,1.16163 0.81389,2.35851 1.31128,3.09463 l 0.23603,0.34093 0.34093,-0.20981 1.46865,-0.97035 0.33724,-0.22198 c 0,0 -0.20391,-0.28565 -0.23235,-0.35489 -0.86406,-1.28605 -1.40762,-3.03654 -1.9407,-4.72063 0.30929,-0.94814 0.66466,-2.09288 1.02281,-3.09463 0.37364,-1.0451 0.76874,-1.98278 0.91789,-2.20296 l 0.23603,-0.34094 -0.34093,-0.23603 -1.46864,-0.97035 z m -6.3204,2.88482 c 0.97978,0 1.7113,0.48578 2.33409,1.28506 0.59464,0.76316 1.00712,1.84144 1.36374,2.91106 -0.34383,0.9526 -0.78637,1.86655 -1.38997,2.51767 -0.63567,0.68572 -1.37793,1.10148 -2.30786,1.10148 -2.02472,0 -3.72405,-1.60529 -3.72405,-3.61915 0,-2.26511 1.62136,-4.19612 3.72405,-4.19612 z"
-         id="path5151"
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+         d="m 273.09375,201.46875 -0.25,0.4375 c -0.098,0.15236 -0.16812,0.26168 -0.25,0.46875 -0.0819,0.20706 -0.17488,0.48255 -0.28125,0.78125 -0.11894,0.334 -0.24072,0.75717 -0.375,1.15625 -0.33552,-0.52493 -0.63846,-1.0785 -1.09375,-1.46875 -0.71178,-0.6101 -1.59979,-1 -2.625,-1 -2.87128,0 -5.09375,2.46872 -5.09375,5.375 0,2.76282 2.31874,4.9375 5.09375,4.9375 1.61309,0 2.78884,-1.0073 3.6875,-2.25 0.29092,0.80825 0.57067,1.64458 0.9375,2.1875 l 0.28125,0.4375 1.96094,-1.3164 -0.27344,-0.40235 c -0.64225,-0.95591 -1.05922,-2.30178 -1.46875,-3.59375 0.23769,-0.72819 0.50975,-1.58433 0.78125,-2.34375 0.28997,-0.81108 0.60427,-1.56464 0.6875,-1.6875 l 0.28125,-0.40625 -0.4375,-0.28125 -1.125,-0.75 z m -4.875,2.65625 c 0.70398,0 1.22327,0.34171 1.6875,0.9375 0.43132,0.55356 0.72849,1.35632 1,2.15625 -0.26053,0.70124 -0.56598,1.37555 -1,1.84375 -0.4717,0.50883 -1.01592,0.8125 -1.6875,0.8125 -1.48563,0 -2.71875,-1.18358 -2.71875,-2.65625 0,-1.68207 1.18522,-3.09375 2.71875,-3.09375 z"
+         id="text11012"
          inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccsscssssccccccccscccccsscssss" />
+         sodipodi:nodetypes="ccsscssssccccccscccccsscssss" />
+      <rect
+         style="color:#000000;fill:none;stroke:#666666;stroke-width:2;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3539"
+         width="20"
+         height="20"
+         x="259.10938"
+         y="197"
+         rx="1.2500026"
+         ry="1.2500026" />
     </g>
     <g
        inkscape:export-ydpi="90"
