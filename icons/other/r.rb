@@ -22,7 +22,7 @@ def chopSVG(icon)
 		#cmd = "#{INKSCAPE} -f #{icon[:file]} -z --vacuum-defs -l #{icon[:file]} > /dev/null 2>&1"
 		#system(cmd)
 		svgcrop = Document.new(File.new(icon[:file], 'r'))
-#! should check opacity instead
+#!	should check opacity instead
 		svgcrop.root.each_element("//rect") do |rect| 
 			w = ((rect.attributes["width"].to_f * 10).round / 10.0).to_i #get rid of 24 vs 23.99999 
 			h = ((rect.attributes["width"].to_f * 10).round / 10.0).to_i #Inkscape bugs
