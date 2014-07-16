@@ -42,12 +42,12 @@
      id="namedview88"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="91.326567"
-     inkscape:cy="151.12891"
+     inkscape:cx="32.946292"
+     inkscape:cy="-34.264524"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="format-text-underline"
+     inkscape:current-layer="actions"
      showborder="false"
      inkscape:snap-nodes="true"
      inkscape:snap-bbox="true"
@@ -3753,12 +3753,12 @@
          id="path11691-2"
          inkscape:connector-curvature="0" />
       <rect
-         style="color:#000000;fill:none;stroke:#6abed3;stroke-width:0.66666667;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.33333333,1.33333333;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="color:#000000;fill:none;stroke:#6abed3;stroke-width:0.66666669;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.33333333, 1.33333333;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect5617"
-         width="15.333333"
-         height="15.333333"
-         x="41.333332"
-         y="827.33331" />
+         width="14"
+         height="14"
+         x="42"
+         y="827.99994" />
     </g>
     <g
        style="display:inline"
@@ -3810,11 +3810,11 @@
          id="path12925-7" />
       <rect
          style="color:#000000;fill:none;stroke:#6abed3;stroke-width:0.66666669;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.33333333, 1.33333333;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="rect5617-1"
-         width="15.333333"
-         height="15.333333"
-         x="41.333332"
-         y="827.33331" />
+         id="rect5617-3"
+         width="14"
+         height="14"
+         x="42"
+         y="828" />
     </g>
     <g
        transform="matrix(0,1.5,-1.5,0,1377.5008,314.49985)"
@@ -3867,11 +3867,11 @@
          inkscape:connector-curvature="0" />
       <rect
          style="color:#000000;fill:none;stroke:#6abed3;stroke-width:0.66666669;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.33333333, 1.33333333;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="rect5617-1-7"
-         width="15.333333"
-         height="15.333333"
-         x="-842.66669"
-         y="41.333332"
+         id="rect5617-31"
+         width="14"
+         height="14"
+         x="-842"
+         y="42"
          transform="matrix(0,-1,1,0,0,0)" />
     </g>
     <g
