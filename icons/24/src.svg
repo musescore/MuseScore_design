@@ -41,13 +41,13 @@
      inkscape:window-height="1014"
      id="namedview88"
      showgrid="false"
-     inkscape:zoom="16"
-     inkscape:cx="125.25183"
-     inkscape:cy="-10.030787"
+     inkscape:zoom="11.313708"
+     inkscape:cx="24.505869"
+     inkscape:cy="-30.554405"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="measure"
+     inkscape:current-layer="frame-text"
      showborder="false"
      inkscape:snap-nodes="true"
      inkscape:snap-bbox="true"
@@ -3753,11 +3753,10 @@
          id="rect3557"
          inkscape:connector-curvature="0" />
       <path
-         sodipodi:nodetypes="ccccssc"
-         inkscape:connector-curvature="0"
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:1.33333337000000007;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+         d="m 46.34375,831.65625 0,1.34375 3.3125,0 c 0.28546,0 0.6875,0.399 0.6875,0.65625 l 0,0.6875 -2.6875,0 c -0.61284,0 -1.157071,0.23514 -1.5,0.625 -0.342929,0.38986 -0.473008,0.89459 -0.46875,1.375 0.0043,0.48041 0.158454,0.95806 0.5,1.34375 0.341546,0.38569 0.863231,0.65625 1.46875,0.65625 l 3.34375,0 0.65625,0 0,-0.6875 0,-4 c 0,-1.08955 -0.87986,-2 -2,-2 l -3.3125,0 z m 1.3125,4 2.6875,0 0,1.34375 -2.6875,0 c -0.265248,0 -0.367527,-0.0732 -0.46875,-0.1875 -0.101223,-0.11431 -0.185849,-0.31375 -0.1875,-0.5 -0.0017,-0.18625 0.05936,-0.35861 0.15625,-0.46875 0.09689,-0.11014 0.21844,-0.1875 0.5,-0.1875 z"
          id="path11691-2"
-         d="m 46.333259,832.33333 3.333333,0 c 0.7028,0 1.333334,0.65994 1.333334,1.33334 l 0,4 -3.333333,0 c -1.741534,0 -1.7888,-2.66667 0,-2.66667 l 3.333333,0"
-         style="color:#000000;fill:none;stroke:#666666;stroke-width:1.33333337;stroke-miterlimit:4;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         inkscape:connector-curvature="0" />
     </g>
     <g
        style="display:inline"
