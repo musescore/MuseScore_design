@@ -42,8 +42,8 @@
      id="namedview88"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="187.88355"
-     inkscape:cy="148.65276"
+     inkscape:cx="227.88355"
+     inkscape:cy="68.65276"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -541,7 +541,7 @@
          id="tspan6732-6-9"
          x="41.823502"
          y="109.94501"
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#666666;fill-opacity:0.8;font-family:Raleway;-inkscape-font-specification:Raleway Medium">actions</tspan></text>
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#666666;fill-opacity:0.80000000000000004;font-family:Raleway;-inkscape-font-specification:Raleway Medium">actions</tspan></text>
     <g
        transform="matrix(1.5,0,0,1.5,17,-499.5)"
        inkscape:label="media-playback-start"
