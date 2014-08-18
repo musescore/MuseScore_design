@@ -42,7 +42,7 @@
      id="namedview88"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="-33.61645"
+     inkscape:cx="187.88355"
      inkscape:cy="148.65276"
      inkscape:window-x="0"
      inkscape:window-y="27"
@@ -4002,5 +4002,89 @@
          d="m 162.03125,364.51562 a 1.265625,1.265625 0 1 1 -2.53125,0 1.265625,1.265625 0 1 1 2.53125,0 z"
          transform="matrix(0,-0.9218107,0.9218107,0,-289.68097,984.19574)" />
     </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text9756"
+       y="144.45598"
+       x="29.196346"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;text-anchor:end;fill:#666666;fill-opacity:0.8;stroke:none;display:inline;font-family:Droid Sans"
+       xml:space="preserve"><tspan
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#666666;fill-opacity:0.8;font-family:Raleway;-inkscape-font-specification:Raleway Medium"
+         y="144.45598"
+         x="29.196346"
+         id="tspan9758"
+         sodipodi:role="line">main toolbar</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;text-anchor:end;fill:#666666;fill-opacity:0.8;stroke:none;display:inline;font-family:Droid Sans"
+       x="29.196346"
+       y="180.45599"
+       id="text9760"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan9762"
+         x="29.196346"
+         y="180.45599"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#666666;fill-opacity:0.8;font-family:Raleway;-inkscape-font-specification:Raleway Medium">clipboard</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text9764"
+       y="216.45601"
+       x="29.196346"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;text-anchor:end;fill:#666666;fill-opacity:0.8;stroke:none;display:inline;font-family:Droid Sans"
+       xml:space="preserve"><tspan
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#666666;fill-opacity:0.8;font-family:Raleway;-inkscape-font-specification:Raleway Medium"
+         y="216.45601"
+         x="29.196346"
+         id="tspan9766"
+         sodipodi:role="line">text toolbar</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;text-anchor:end;fill:#666666;fill-opacity:0.8;stroke:none;display:inline;font-family:Droid Sans"
+       x="29.196346"
+       y="252.45599"
+       id="text9768"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan9770"
+         x="29.196346"
+         y="252.45599"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#666666;fill-opacity:0.8;font-family:Raleway;-inkscape-font-specification:Raleway Medium">playback toolbar</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text9772"
+       y="288.45599"
+       x="29.196346"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;text-anchor:end;fill:#666666;fill-opacity:0.8;stroke:none;display:inline;font-family:Droid Sans"
+       xml:space="preserve"><tspan
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#666666;fill-opacity:0.8;font-family:Raleway;-inkscape-font-specification:Raleway Medium"
+         y="288.45599"
+         x="29.196346"
+         id="tspan9774"
+         sodipodi:role="line">note toolbar</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;text-anchor:end;fill:#666666;fill-opacity:0.8;stroke:none;display:inline;font-family:Droid Sans"
+       x="29.196346"
+       y="361.45596"
+       id="text9776"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan9778"
+         x="29.196346"
+         y="361.45596"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#666666;fill-opacity:0.8;font-family:Raleway;-inkscape-font-specification:Raleway Medium">help</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text9780"
+       y="397.45596"
+       x="29.196346"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;text-anchor:end;fill:#666666;fill-opacity:0.8;stroke:none;display:inline;font-family:Droid Sans"
+       xml:space="preserve"><tspan
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#666666;fill-opacity:0.8;font-family:Raleway;-inkscape-font-specification:Raleway Medium"
+         y="397.45596"
+         x="29.196346"
+         id="tspan9782"
+         sodipodi:role="line">palettes</tspan></text>
   </g>
 </svg>
