@@ -42,8 +42,8 @@
      id="namedview88"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="101.9605"
-     inkscape:cy="-25.706076"
+     inkscape:cx="86.38355"
+     inkscape:cy="108.65276"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -3982,25 +3982,25 @@
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
       <path
-         sodipodi:type="arc"
-         style="color:#000000;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
-         id="path9242"
-         sodipodi:cx="160.76562"
-         sodipodi:cy="364.51562"
-         sodipodi:rx="1.265625"
-         sodipodi:ry="1.265625"
-         d="m 162.03125,364.51562 a 1.265625,1.265625 0 1 1 -2.53125,0 1.265625,1.265625 0 1 1 2.53125,0 z"
-         transform="matrix(0,-0.79012346,0.79012346,0,-241.67891,963.02496)" />
-      <path
-         transform="matrix(0,-0.79012346,0.79012346,0,-238.34558,959.02497)"
+         transform="matrix(0,-0.9218107,0.9218107,0,-286.34764,980.19574)"
          d="m 162.03125,364.51562 a 1.265625,1.265625 0 1 1 -2.53125,0 1.265625,1.265625 0 1 1 2.53125,0 z"
          sodipodi:ry="1.265625"
          sodipodi:rx="1.265625"
          sodipodi:cy="364.51562"
          sodipodi:cx="160.76562"
          id="path9244"
-         style="color:#000000;fill:#2e3436;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+         style="color:#000000;fill:#2e3136;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
          sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="color:#000000;fill:#2e3136;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+         id="path9754"
+         sodipodi:cx="160.76562"
+         sodipodi:cy="364.51562"
+         sodipodi:rx="1.265625"
+         sodipodi:ry="1.265625"
+         d="m 162.03125,364.51562 a 1.265625,1.265625 0 1 1 -2.53125,0 1.265625,1.265625 0 1 1 2.53125,0 z"
+         transform="matrix(0,-0.9218107,0.9218107,0,-289.68097,984.19574)" />
     </g>
   </g>
 </svg>
