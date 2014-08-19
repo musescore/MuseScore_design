@@ -43,8 +43,8 @@
      id="namedview88"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="97.141356"
-     inkscape:cy="43.811711"
+     inkscape:cx="13.922722"
+     inkscape:cy="9.4720619"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -684,7 +684,7 @@
     <g
        style="display:inline"
        inkscape:label="keyboards"
-       transform="translate(-279.00229,-771.3622)"
+       transform="translate(-279.00229,-743.3622)"
        id="keyboards">
       <path
          style="color:#000000;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -704,7 +704,7 @@
        style="display:inline"
        inkscape:label="strings-plucked"
        id="strings-plucked"
-       transform="matrix(1.1248527,0,0,-1.1248527,-359.58047,1648.6208)">
+       transform="matrix(1.1248527,0,0,-1.1248527,-359.58047,1676.6208)">
       <rect
          width="14.224085"
          height="14.224085"
@@ -721,7 +721,7 @@
          sodipodi:nodetypes="zzzzz" />
     </g>
     <g
-       transform="translate(41.99981,-37.999997)"
+       transform="translate(41.99981,-9.999997)"
        id="percussion-pitched"
        inkscape:label="percussion-pitched"
        style="display:inline">
@@ -744,7 +744,7 @@
     <g
        style="display:inline"
        id="percussion-unpitched"
-       transform="translate(15.47675,258.89942)"
+       transform="translate(15.47675,286.89942)"
        inkscape:label="percussion-unpitched">
       <g
          transform="matrix(0.16734729,-0.04484056,0.04484056,0.16734729,77.77861,73.461361)"
@@ -781,7 +781,7 @@
     </g>
     <g
        style="display:inline"
-       transform="matrix(-1,0,0,-1,291.99956,671)"
+       transform="matrix(-1,0,0,-1,291.99956,699)"
        inkscape:label="electronic"
        id="electronic">
       <path
@@ -809,7 +809,7 @@
     <g
        style="display:inline"
        id="vocals"
-       transform="matrix(-1,0,0,1,453,237.00005)"
+       transform="matrix(-1,0,0,1,453,265.00005)"
        inkscape:label="vocals">
       <rect
          y="-139"
@@ -845,7 +845,7 @@
     <g
        style="display:inline"
        id="strings"
-       transform="translate(-118.99992,236.00003)"
+       transform="translate(-118.99992,264.00003)"
        inkscape:label="strings">
       <rect
          inkscape:label="audio-volume-high"
@@ -926,7 +926,7 @@
     <g
        style="display:inline"
        id="freereeds"
-       transform="translate(-92.99981,237.00005)"
+       transform="translate(-92.99981,265.00005)"
        inkscape:label="freereeds">
       <rect
          style="color:#bebebe;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible"
@@ -967,7 +967,7 @@
          y="133" />
     </g>
     <g
-       transform="translate(-139.00018,-771.3622)"
+       transform="translate(-139.00018,-743.3622)"
        id="woodwinds"
        inkscape:label="woodwinds"
        style="display:inline">
@@ -999,7 +999,7 @@
          style="fill:#666666;fill-opacity:1;stroke:none" />
     </g>
     <g
-       transform="translate(-37,237.00005)"
+       transform="translate(-37,265.00005)"
        style="display:inline"
        id="brass"
        inkscape:label="brass">
@@ -1040,13 +1040,13 @@
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#666666;fill-opacity:1;stroke:none;display:inline;font-family:Raleway;-inkscape-font-specification:Raleway Medium"
        x="5.8229151"
-       y="346.94501"
+       y="374.94501"
        id="text6730-2-8-8"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan6732-6-9-0"
          x="5.8229151"
-         y="346.94501"
+         y="374.94501"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#666666;fill-opacity:1;font-family:Raleway;-inkscape-font-specification:Raleway Medium">instruments</tspan></text>
   </g>
   <g
@@ -4323,6 +4323,102 @@
          id="path8311"
          d="m 31.99994,301.99999 c 0,0 0,0.67185 0,1 -5.2e-5,0.52358 -0.476416,0.99995 -1,1 l -1.5625,0 3.15625,3.15625 c 0.542821,0.50131 0.227027,1.58685 -0.5,1.71875 -0.332715,0.0744 -0.70066,-0.036 -0.9375,-0.28125 l -3.15625,-3.15625 0,1.5625 c 0.01103,0.4581 -0.334096,0.89986 -0.78125,1 -0.40517,0.0224 -0.794021,0 -1.21875,0 l 0,-6 z"
          style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#666666;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new;font-family:Sans;-inkscape-font-specification:Sans" />
+    </g>
+    <g
+       style="display:inline"
+       transform="matrix(1,0,0,-1,21.000039,658.99999)"
+       inkscape:label="raster-vertical"
+       id="raster-vertical">
+      <rect
+         style="color:#bebebe;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible"
+         id="rect21312"
+         width="16"
+         height="16"
+         x="19.99975"
+         y="296" />
+      <g
+         id="g21314"
+         style="opacity:0.25" />
+      <rect
+         style="color:#000000;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+         id="rect21322"
+         width="16"
+         height="2"
+         x="19.999962"
+         y="-311"
+         transform="scale(1,-1)" />
+      <rect
+         transform="scale(1,-1)"
+         y="-307"
+         x="19.999962"
+         height="2"
+         width="16"
+         id="rect21832"
+         style="color:#000000;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
+      <rect
+         style="color:#000000;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+         id="rect21834"
+         width="16"
+         height="2"
+         x="19.999962"
+         y="-303"
+         transform="scale(1,-1)" />
+      <rect
+         transform="scale(1,-1)"
+         y="-299"
+         x="19.999962"
+         height="2"
+         width="16"
+         id="rect21836"
+         style="color:#000000;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
+    </g>
+    <g
+       id="raster-horizontal"
+       inkscape:label="raster-horizontal"
+       transform="matrix(0,1,1,0,-227.00021,327.00013)"
+       style="display:inline">
+      <rect
+         y="296"
+         x="19.99975"
+         height="16"
+         width="16"
+         id="rect21840"
+         style="color:#bebebe;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible" />
+      <g
+         style="opacity:0.25"
+         id="g21842" />
+      <rect
+         transform="scale(1,-1)"
+         y="-311"
+         x="19.999962"
+         height="2"
+         width="16"
+         id="rect21844"
+         style="color:#000000;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
+      <rect
+         style="color:#000000;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+         id="rect21846"
+         width="16"
+         height="2"
+         x="19.999962"
+         y="-307"
+         transform="scale(1,-1)" />
+      <rect
+         transform="scale(1,-1)"
+         y="-303"
+         x="19.999962"
+         height="2"
+         width="16"
+         id="rect21848"
+         style="color:#000000;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
+      <rect
+         style="color:#000000;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+         id="rect21850"
+         width="16"
+         height="2"
+         x="19.999962"
+         y="-299"
+         transform="scale(1,-1)" />
     </g>
   </g>
 </svg>

@@ -42,8 +42,8 @@
      id="namedview88"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="23.65059"
-     inkscape:cy="-56.300199"
+     inkscape:cx="263.65059"
+     inkscape:cy="63.699801"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -4002,94 +4002,10 @@
          d="m 162.03125,364.51562 a 1.265625,1.265625 0 1 1 -2.53125,0 1.265625,1.265625 0 1 1 2.53125,0 z"
          transform="matrix(0,-0.9218107,0.9218107,0,-289.68097,984.19574)" />
     </g>
-    <text
-       sodipodi:linespacing="125%"
-       id="text9756"
-       y="144.45598"
-       x="29.196346"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;text-anchor:end;fill:#666666;fill-opacity:0.8;stroke:none;display:inline;font-family:Droid Sans"
-       xml:space="preserve"><tspan
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#666666;fill-opacity:0.8;font-family:Raleway;-inkscape-font-specification:Raleway Medium"
-         y="144.45598"
-         x="29.196346"
-         id="tspan9758"
-         sodipodi:role="line">file</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;text-anchor:end;fill:#666666;fill-opacity:0.8;stroke:none;display:inline;font-family:Droid Sans"
-       x="29.196346"
-       y="180.45599"
-       id="text9760"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan9762"
-         x="29.196346"
-         y="180.45599"
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#666666;fill-opacity:0.8;font-family:Raleway;-inkscape-font-specification:Raleway Medium">clipboard</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text9764"
-       y="216.45601"
-       x="29.196346"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;text-anchor:end;fill:#666666;fill-opacity:0.8;stroke:none;display:inline;font-family:Droid Sans"
-       xml:space="preserve"><tspan
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#666666;fill-opacity:0.8;font-family:Raleway;-inkscape-font-specification:Raleway Medium"
-         y="216.45601"
-         x="29.196346"
-         id="tspan9766"
-         sodipodi:role="line">text</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;text-anchor:end;fill:#666666;fill-opacity:0.8;stroke:none;display:inline;font-family:Droid Sans"
-       x="29.196346"
-       y="252.45599"
-       id="text9768"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan9770"
-         x="29.196346"
-         y="252.45599"
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#666666;fill-opacity:0.8;font-family:Raleway;-inkscape-font-specification:Raleway Medium">playback</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text9772"
-       y="288.45599"
-       x="29.196346"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;text-anchor:end;fill:#666666;fill-opacity:0.8;stroke:none;display:inline;font-family:Droid Sans"
-       xml:space="preserve"><tspan
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#666666;fill-opacity:0.8;font-family:Raleway;-inkscape-font-specification:Raleway Medium"
-         y="288.45599"
-         x="29.196346"
-         id="tspan9774"
-         sodipodi:role="line">notes</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;text-anchor:end;fill:#666666;fill-opacity:0.8;stroke:none;display:inline;font-family:Droid Sans"
-       x="29.196346"
-       y="361.45596"
-       id="text9776"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan9778"
-         x="29.196346"
-         y="361.45596"
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#666666;fill-opacity:0.8;font-family:Raleway;-inkscape-font-specification:Raleway Medium">help</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text9780"
-       y="397.45596"
-       x="29.196346"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;text-anchor:end;fill:#666666;fill-opacity:0.8;stroke:none;display:inline;font-family:Droid Sans"
-       xml:space="preserve"><tspan
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#666666;fill-opacity:0.8;font-family:Raleway;-inkscape-font-specification:Raleway Medium"
-         y="397.45596"
-         x="29.196346"
-         id="tspan9782"
-         sodipodi:role="line">frames</tspan></text>
     <g
        style="display:inline"
-       id="g8546"
-       inkscape:label="mode-notes"
+       id="default"
+       inkscape:label="default"
        transform="matrix(1.5,0,0,1.5,-832.0002,-161)">
       <g
          transform="translate(235.8093,-581.17812)"
@@ -4129,17 +4045,5 @@
            inkscape:connector-curvature="0" />
       </g>
     </g>
-    <text
-       xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;text-anchor:end;fill:#666666;fill-opacity:0.8;stroke:none;display:inline;font-family:Droid Sans"
-       x="29.196346"
-       y="435.45596"
-       id="text20551"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan20553"
-         x="29.196346"
-         y="435.45596"
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#666666;fill-opacity:0.8;font-family:Raleway;-inkscape-font-specification:Raleway Medium">beams</tspan></text>
   </g>
 </svg>
