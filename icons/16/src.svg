@@ -42,13 +42,13 @@
      inkscape:window-height="1014"
      id="namedview88"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="177.28856"
-     inkscape:cy="155.63708"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="122.77607"
+     inkscape:cy="-2.6758174"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g8910"
+     inkscape:current-layer="actions"
      showborder="false"
      inkscape:snap-nodes="true"
      inkscape:snap-bbox="true"
@@ -4408,6 +4408,16 @@
          x="19.999962"
          y="-299"
          transform="scale(1,-1)" />
+    </g>
+    <g
+       id="edit"
+       transform="matrix(1.4545455,0,0,1.4545455,-291.95178,-569.40122)"
+       inkscape:label="edit">
+      <path
+         style="fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         d="m 276.40616,630.02582 -0.81641,0.81641 c 0.74467,0.60054 1.44286,1.27287 2.04102,2.01953 l 0.77344,-0.77344 c 0,-1 -0.99805,-2.0625 -1.99805,-2.0625 z m -1.80469,1.80469 -7.19726,7.13281 0,2.0625 2.0625,0 7.15429,-7.15429 c -0.59001,-0.75863 -1.26337,-1.44801 -2.01953,-2.04102 z"
+         id="path18952"
+         inkscape:connector-curvature="0" />
     </g>
   </g>
 </svg>
