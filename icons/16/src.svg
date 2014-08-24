@@ -43,12 +43,12 @@
      id="namedview88"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="37.840235"
-     inkscape:cy="19.337773"
+     inkscape:cx="31.983857"
+     inkscape:cy="-6.9373687"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="edit"
+     inkscape:current-layer="instruments"
      showborder="false"
      inkscape:snap-nodes="true"
      inkscape:snap-bbox="true"
@@ -653,6 +653,10 @@
          offset="0"
          id="stop8784" />
     </linearGradient>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect8915-0-8-2-7-4-4-8-6"
+       is_visible="true" />
   </defs>
   <text
      sodipodi:linespacing="150%"
@@ -684,7 +688,7 @@
     <g
        style="display:inline"
        inkscape:label="keyboards"
-       transform="translate(-279.00229,-743.3622)"
+       transform="translate(-279.00229,-800.0485)"
        id="keyboards">
       <path
          style="color:#000000;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -704,7 +708,7 @@
        style="display:inline"
        inkscape:label="strings-plucked"
        id="strings-plucked"
-       transform="matrix(1.1248527,0,0,-1.1248527,-359.58047,1676.6208)">
+       transform="matrix(1.1248527,0,0,-1.1248527,-359.58047,1619.9345)">
       <rect
          width="14.224085"
          height="14.224085"
@@ -721,7 +725,7 @@
          sodipodi:nodetypes="zzzzz" />
     </g>
     <g
-       transform="translate(41.99981,-9.999997)"
+       transform="translate(41.99981,-66.686295)"
        id="percussion-pitched"
        inkscape:label="percussion-pitched"
        style="display:inline">
@@ -744,7 +748,7 @@
     <g
        style="display:inline"
        id="percussion-unpitched"
-       transform="translate(15.47675,286.89942)"
+       transform="translate(15.47675,230.21312)"
        inkscape:label="percussion-unpitched">
       <g
          transform="matrix(0.16734729,-0.04484056,0.04484056,0.16734729,77.77861,73.461361)"
@@ -781,7 +785,7 @@
     </g>
     <g
        style="display:inline"
-       transform="matrix(-1,0,0,-1,291.99956,699)"
+       transform="matrix(-1,0,0,-1,291.99956,642.3137)"
        inkscape:label="electronic"
        id="electronic">
       <path
@@ -809,7 +813,7 @@
     <g
        style="display:inline"
        id="vocals"
-       transform="matrix(-1,0,0,1,453,265.00005)"
+       transform="matrix(-1,0,0,1,453,208.31375)"
        inkscape:label="vocals">
       <rect
          y="-139"
@@ -845,7 +849,7 @@
     <g
        style="display:inline"
        id="strings"
-       transform="translate(-118.99992,264.00003)"
+       transform="translate(-118.99992,207.31373)"
        inkscape:label="strings">
       <rect
          inkscape:label="audio-volume-high"
@@ -926,7 +930,7 @@
     <g
        style="display:inline"
        id="freereeds"
-       transform="translate(-92.99981,265.00005)"
+       transform="translate(-92.99981,208.31375)"
        inkscape:label="freereeds">
       <rect
          style="color:#bebebe;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible"
@@ -967,7 +971,7 @@
          y="133" />
     </g>
     <g
-       transform="translate(-139.00018,-743.3622)"
+       transform="translate(-139.00018,-800.0485)"
        id="woodwinds"
        inkscape:label="woodwinds"
        style="display:inline">
@@ -999,7 +1003,7 @@
          style="fill:#666666;fill-opacity:1;stroke:none" />
     </g>
     <g
-       transform="translate(-37,265.00005)"
+       transform="translate(-37,208.31375)"
        style="display:inline"
        id="brass"
        inkscape:label="brass">
@@ -1036,18 +1040,6 @@
          id="rect4216"
          style="color:#bebebe;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible" />
     </g>
-    <text
-       xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#666666;fill-opacity:1;stroke:none;display:inline;font-family:Raleway;-inkscape-font-specification:Raleway Medium"
-       x="5.8229151"
-       y="374.94501"
-       id="text6730-2-8-8"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan6732-6-9-0"
-         x="5.8229151"
-         y="374.94501"
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#666666;fill-opacity:1;font-family:Raleway;-inkscape-font-specification:Raleway Medium">instruments</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1055,21 +1047,9 @@
      inkscape:label="actions"
      transform="translate(-35,-20)"
      style="display:inline">
-    <text
-       xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#666666;fill-opacity:1;stroke:none;display:inline;font-family:Raleway;-inkscape-font-specification:Raleway Medium"
-       x="40.823502"
-       y="109.94501"
-       id="text6730-2-8"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan6732-6-9"
-         x="40.823502"
-         y="109.94501"
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#666666;fill-opacity:1;font-family:Raleway;-inkscape-font-specification:Raleway Medium">actions</tspan></text>
     <g
        style="display:inline"
-       transform="matrix(1.1248527,0,0,1.1248527,134.88092,-257.0681)"
+       transform="matrix(1.1248527,0,0,1.1248527,134.88092,-285.0681)"
        inkscape:label="panel-community"
        id="panel-community">
       <rect
@@ -1114,7 +1094,7 @@
     <g
        inkscape:label="document-save"
        id="document-save"
-       transform="matrix(1.1248527,0,0,-1.1248527,-296.58047,1411.6207)">
+       transform="matrix(1.1248527,0,0,-1.1248527,-296.58047,1383.6207)">
       <path
          style="fill:#666666;fill-opacity:1;stroke:none;display:inline"
          d="M 64.21875,104 C 63.655266,104 63,104.53776 63,105.21875 l 0,11.5625 C 63,117.46235 63.037697,118 63.71875,118 L 64,118 l 11.03125,0 0.75,0 c 0.135207,-0.003 0.20861,-0.0298 0.21875,-0.0312 0.568533,-0.10508 1,-0.58499 1,-1.1875 l 0,-10.8125 C 76.715165,105.47534 75.654002,104.35152 75.03125,104 L 74,104 l 0,3.875 C 74,108.49209 73.492015,109 72.875,109 l -6.75,0 C 65.507985,109 65,108.49209 65,107.875 l 0,-3.875 -0.78125,0 z m 2.0625,7 7.4375,0 C 74.429748,111 75,111.57025 75,112.28125 l 0,2.4375 C 75,115.42975 74.429748,116 73.71875,116 l -7.4375,0 C 65.570252,116 65,115.42975 65,114.71875 l 0,-2.4375 C 65,111.57025 65.570252,111 66.28125,111 z"
@@ -1141,7 +1121,7 @@
          transform="scale(1,-1)" />
     </g>
     <g
-       transform="matrix(1.1248527,0,0,1.1248527,-614.70296,-195.68644)"
+       transform="matrix(1.1248527,0,0,1.1248527,-614.70296,-223.68644)"
        inkscape:label="mode-notes"
        id="mode-notes"
        style="display:inline">
@@ -1182,7 +1162,7 @@
     <g
        style="display:inline"
        inkscape:label="document-open"
-       transform="translate(-216.00229,-1008.3622)"
+       transform="translate(-216.00229,-1036.3622)"
        id="document-open">
       <path
          style="color:#000000;fill:url(#linearGradient19282-9);fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -1202,7 +1182,7 @@
        style="display:inline"
        inkscape:label="document-new"
        id="document-new"
-       transform="translate(-243.9996,-1008.3622)">
+       transform="translate(-243.9996,-1036.3622)">
       <g
          id="g61181">
         <rect
@@ -1231,7 +1211,7 @@
     </g>
     <g
        id="go-previous"
-       transform="matrix(-1,0,0,-1,204.99981,824.99999)"
+       transform="matrix(-1,0,0,-1,204.99981,796.99999)"
        inkscape:label="go-previous"
        style="display:inline">
       <rect
@@ -1272,7 +1252,7 @@
        style="display:inline"
        id="media-playback-start"
        inkscape:label="media-playback-start"
-       transform="translate(28.999814,-280.00001)">
+       transform="translate(28.999814,-308.00001)">
       <rect
          y="487"
          x="40"
@@ -1292,7 +1272,7 @@
        style="display:inline"
        id="media-skip-backward"
        inkscape:label="media-skip-backward"
-       transform="translate(40.999562,-280)">
+       transform="translate(40.999562,-308)">
       <rect
          transform="scale(-1,1)"
          y="487"
@@ -1322,7 +1302,7 @@
     </g>
     <g
        inkscape:label="format-justify-center"
-       transform="translate(119.99961,-178.00001)"
+       transform="translate(119.99961,-206.00001)"
        id="format-justify-center"
        style="display:inline">
       <rect
@@ -1360,7 +1340,7 @@
     </g>
     <g
        inkscape:label="format-justify-left"
-       transform="translate(71.999616,-178.00001)"
+       transform="translate(71.999616,-206.00001)"
        id="format-justify-left"
        style="display:inline">
       <rect
@@ -1398,7 +1378,7 @@
     </g>
     <g
        inkscape:label="format-justify-right"
-       transform="translate(107.99961,-178.00001)"
+       transform="translate(107.99961,-206.00001)"
        id="format-justify-right"
        style="display:inline">
       <rect
@@ -1436,7 +1416,7 @@
     </g>
     <g
        inkscape:label="format-text-bold"
-       transform="translate(-72.000384,-178.00001)"
+       transform="translate(-72.000384,-206.00001)"
        id="format-text-bold"
        style="display:inline">
       <rect
@@ -1457,7 +1437,7 @@
     </g>
     <g
        inkscape:label="format-text-underline"
-       transform="translate(-44.000384,-178.00001)"
+       transform="translate(-44.000384,-206.00001)"
        id="format-text-underline"
        style="display:inline">
       <rect
@@ -1483,7 +1463,7 @@
     </g>
     <g
        inkscape:label="format-text-italic"
-       transform="translate(-16.000384,-178.00001)"
+       transform="translate(-16.000384,-206.00001)"
        id="format-text-italic"
        style="display:inline">
       <rect
@@ -1504,7 +1484,7 @@
     <g
        style="display:inline"
        id="format-indent-less"
-       transform="matrix(-1,0,0,1,653.99998,-178.00001)"
+       transform="matrix(-1,0,0,1,653.99998,-206.00001)"
        inkscape:label="format-indent-less">
       <rect
          inkscape:label="a"
@@ -1548,7 +1528,7 @@
     <g
        style="display:inline"
        id="format-indent-more"
-       transform="matrix(-1,0,0,1,701.99998,-178.00001)"
+       transform="matrix(-1,0,0,1,701.99998,-206.00001)"
        inkscape:label="format-indent-more">
       <rect
          inkscape:label="a"
@@ -1590,7 +1570,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(-3.8622998e-4,-536)"
+       transform="translate(-3.8622998e-4,-564)"
        inkscape:label="go-home"
        id="go-home"
        style="display:inline">
@@ -1641,7 +1621,7 @@
          sodipodi:nodetypes="sccccccccccccccccccccs" />
     </g>
     <g
-       transform="translate(-23.000186,-280.00001)"
+       transform="translate(-23.000186,-308.00001)"
        inkscape:label="media-playback-pause"
        id="media-playback-pause"
        style="display:inline">
@@ -1666,7 +1646,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(140.99981,-280.00001)"
+       transform="translate(140.99981,-308.00001)"
        inkscape:label="media-playback-pan"
        id="media-playback-pan"
        style="display:inline">
@@ -1722,7 +1702,7 @@
        style="display:inline"
        id="media-playback-metronome"
        inkscape:label="media-playback-metronome"
-       transform="translate(89,-280)">
+       transform="translate(89,-308)">
       <rect
          y="487"
          x="120"
@@ -1742,9 +1722,10 @@
            sodipodi:nodetypes="ccccccccccccc" />
         <path
            style="fill:#666666;fill-opacity:1;stroke:none"
-           d="M 186.40625 190.34375 L 181.40625 199 L 182.90625 199 L 187.53125 191 L 186.40625 190.34375 z "
+           d="m 186.40625,190.34375 -5,8.65625 1.5,0 4.625,-8 -1.125,-0.65625 z"
            transform="matrix(0.87500003,0,0,0.87500003,-31.404212,324.37004)"
-           id="rect17622-9" />
+           id="rect17622-9"
+           inkscape:connector-curvature="0" />
         <path
            inkscape:transform-center-x="-5.7023913"
            inkscape:transform-center-y="-9.8768187"
@@ -1763,7 +1744,7 @@
        style="display:inline"
        id="media-playback-repeats"
        inkscape:label="media-playback-repeats"
-       transform="translate(32.999814,-280.00001)">
+       transform="translate(32.999814,-308.00001)">
       <rect
          y="487"
          x="120"
@@ -1812,7 +1793,7 @@
     <g
        style="display:inline"
        inkscape:label="go-next"
-       transform="matrix(1,0,0,-1,-23.00019,824.99999)"
+       transform="matrix(1,0,0,-1,-23.00019,796.99999)"
        id="go-next">
       <rect
          width="16"
@@ -1851,7 +1832,7 @@
     <g
        style="display:inline"
        inkscape:label="go-next-rtl"
-       transform="matrix(-1,0,0,-1,260.99981,824.99999)"
+       transform="matrix(-1,0,0,-1,260.99981,796.99999)"
        id="go-next-rtl">
       <rect
          width="16"
@@ -1889,7 +1870,7 @@
     </g>
     <g
        id="go-previous-rtl"
-       transform="matrix(1,0,0,-1,32.999814,824.99999)"
+       transform="matrix(1,0,0,-1,32.999814,796.99999)"
        inkscape:label="go-previous-rtl"
        style="display:inline">
       <rect
@@ -1930,7 +1911,7 @@
        style="display:inline"
        id="view-refresh"
        inkscape:label="view-refresh"
-       transform="translate(-59.00019,-227.00001)">
+       transform="translate(-59.00019,-255.00001)">
       <rect
          transform="matrix(0,-1,1,0,0,0)"
          style="color:#bebebe;fill:none;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
@@ -1947,7 +1928,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="translate(-31.00019,-227.00001)"
+       transform="translate(-31.00019,-255.00001)"
        inkscape:label="help-contents"
        id="help-contents"
        style="display:inline">
@@ -1973,7 +1954,7 @@
     <g
        id="edit-undo"
        inkscape:label="edit-undo"
-       transform="matrix(1,0,0,-1,189.00006,434.99995)"
+       transform="matrix(1,0,0,-1,189.00006,406.99995)"
        style="display:inline">
       <rect
          y="296"
@@ -1999,7 +1980,7 @@
          sodipodi:nodetypes="ccccccccccccc" />
     </g>
     <g
-       transform="matrix(1.1248527,0,0,-1.1248527,-268.58047,1411.6207)"
+       transform="matrix(1.1248527,0,0,-1.1248527,-268.58047,1383.6207)"
        id="document-save-as"
        inkscape:label="document-save-as">
       <rect
@@ -2054,7 +2035,7 @@
          ry="0" />
     </g>
     <g
-       transform="translate(104.99981,-275.00005)"
+       transform="translate(104.99981,-303.00005)"
        id="document-print"
        inkscape:label="document-print"
        style="display:inline">
@@ -2090,7 +2071,7 @@
     </g>
     <g
        style="display:inline"
-       transform="matrix(-1,0,0,-1,272.99956,434.99995)"
+       transform="matrix(-1,0,0,-1,272.99956,406.99995)"
        inkscape:label="edit-redo"
        id="edit-redo">
       <rect
@@ -2118,7 +2099,7 @@
     </g>
     <g
        style="display:inline"
-       transform="matrix(1,0,0,-1,245.00006,434.99995)"
+       transform="matrix(1,0,0,-1,245.00006,406.99995)"
        inkscape:label="edit-redo-rtl"
        id="edit-redo-rtl">
       <rect
@@ -2147,7 +2128,7 @@
     <g
        id="edit-undo-rtl"
        inkscape:label="edit-undo-rtl"
-       transform="matrix(-1,0,0,-1,328.99956,434.99995)"
+       transform="matrix(-1,0,0,-1,328.99956,406.99995)"
        style="display:inline">
       <rect
          y="296"
@@ -2174,7 +2155,7 @@
     </g>
     <g
        inkscape:label="format-indent-more-rtl"
-       transform="matrix(-1,0,0,1,709.99998,-178.00001)"
+       transform="matrix(-1,0,0,1,709.99998,-206.00001)"
        id="format-indent-more-rtl"
        style="display:inline">
       <rect
@@ -2218,7 +2199,7 @@
     </g>
     <g
        inkscape:label="format-indent-less-rtl"
-       transform="matrix(-1,0,0,1,757.99998,-178.00001)"
+       transform="matrix(-1,0,0,1,757.99998,-206.00001)"
        id="format-indent-less-rtl"
        style="display:inline">
       <rect
@@ -2263,7 +2244,7 @@
     <g
        style="display:inline"
        inkscape:label="sound-while-editing"
-       transform="translate(328.99979,-93.000001)"
+       transform="translate(328.99979,-121)"
        id="sound-while-editing">
       <path
          inkscape:connector-curvature="0"
@@ -2309,7 +2290,7 @@
          clip-path="url(#clipPath6265-3-4-1-7)" />
     </g>
     <g
-       transform="matrix(1.124993,0,0,1.124993,-138.7489,-195.7473)"
+       transform="matrix(1.124993,0,0,1.124993,-138.7489,-223.7473)"
        inkscape:label="note-sharp"
        id="note-sharp"
        style="display:inline">
@@ -2359,7 +2340,7 @@
        style="display:inline"
        id="note-8"
        inkscape:label="note-8"
-       transform="matrix(1.124993,0,0,1.124993,-419.62074,-195.69422)">
+       transform="matrix(1.124993,0,0,1.124993,-419.62074,-223.69422)">
       <g
          transform="matrix(0.88889442,0,0,0.88889442,275.93934,-473.32195)"
          id="g7518-8-8"
@@ -2402,7 +2383,7 @@
        style="display:inline"
        id="note-1"
        inkscape:label="note-1"
-       transform="matrix(1.124993,0,0,1.124993,-334.74653,-195.9972)">
+       transform="matrix(1.124993,0,0,1.124993,-334.74653,-223.9972)">
       <g
          transform="matrix(0.88889442,0,0,0.88889442,275.16226,-473.05264)"
          id="g4325-9-7"
@@ -2428,7 +2409,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="matrix(1.124993,0,0,1.124993,-391.99653,-195.7473)"
+       transform="matrix(1.124993,0,0,1.124993,-391.99653,-223.7473)"
        inkscape:label="note-4"
        id="note-4"
        style="display:inline">
@@ -2465,7 +2446,7 @@
          height="1" />
     </g>
     <g
-       transform="matrix(1.124993,0,0,1.124993,-447.9965,-195.7473)"
+       transform="matrix(1.124993,0,0,1.124993,-447.9965,-223.7473)"
        inkscape:label="note-16"
        id="note-16"
        style="display:inline">
@@ -2516,7 +2497,7 @@
        style="display:inline"
        id="note-32"
        inkscape:label="note-32"
-       transform="matrix(1.124993,0,0,1.124993,-475.9963,-195.7473)">
+       transform="matrix(1.124993,0,0,1.124993,-475.9963,-223.7473)">
       <g
          transform="matrix(0.88889442,0,0,0.88889442,276.27318,-473.27477)"
          id="g6993-7"
@@ -2566,7 +2547,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="matrix(1.124993,0,0,1.124993,-502.99614,-195.7473)"
+       transform="matrix(1.124993,0,0,1.124993,-502.99614,-223.7473)"
        inkscape:label="note-64"
        id="note-64"
        style="display:inline">
@@ -2627,7 +2608,7 @@
        style="display:inline"
        id="note-2"
        inkscape:label="note-2"
-       transform="matrix(1.124993,0,0,1.124993,-362.99699,-195.7473)">
+       transform="matrix(1.124993,0,0,1.124993,-362.99699,-223.7473)">
       <rect
          style="color:#bebebe;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect8781-7"
@@ -2653,7 +2634,7 @@
     </g>
     <g
        id="note-128"
-       transform="matrix(1.124993,0,0,1.124993,-124.99852,-281.99675)"
+       transform="matrix(1.124993,0,0,1.124993,-124.99852,-309.99675)"
        inkscape:label="note-128">
       <g
          style="fill:#333333;display:inline"
@@ -2714,7 +2695,7 @@
        style="display:inline"
        id="rest"
        inkscape:label="rest"
-       transform="matrix(1.124993,0,0,1.124993,-585.74611,-195.74728)">
+       transform="matrix(1.124993,0,0,1.124993,-585.74611,-223.74728)">
       <rect
          style="color:#666666;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect19498"
@@ -2729,7 +2710,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="matrix(1.124993,0,0,1.124993,-558.7461,-195.7473)"
+       transform="matrix(1.124993,0,0,1.124993,-558.7461,-223.7473)"
        inkscape:label="mode-repitch"
        id="mode-repitch"
        style="display:inline">
@@ -2774,7 +2755,7 @@
       </g>
     </g>
     <g
-       transform="matrix(1.124993,0,0,1.124993,-306.74653,-195.9972)"
+       transform="matrix(1.124993,0,0,1.124993,-306.74653,-223.9972)"
        inkscape:label="note-breve"
        id="note-breve"
        style="display:inline">
@@ -2818,7 +2799,7 @@
        style="display:inline"
        id="note-longa"
        inkscape:label="note-longa"
-       transform="matrix(1.124993,0,0,1.124993,-278.74653,-195.9972)">
+       transform="matrix(1.124993,0,0,1.124993,-278.74653,-223.9972)">
       <rect
          style="color:#bebebe;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect26439"
@@ -2856,7 +2837,7 @@
          height="1" />
     </g>
     <g
-       transform="matrix(1.124993,0,0,1.124993,-250.74653,-195.9972)"
+       transform="matrix(1.124993,0,0,1.124993,-250.74653,-223.9972)"
        inkscape:label="note-dot"
        id="note-dot"
        style="display:inline">
@@ -2882,7 +2863,7 @@
        style="display:inline"
        id="note-double-dot"
        inkscape:label="note-double-dot"
-       transform="matrix(1.124993,0,0,1.124993,-222.74653,-195.9972)">
+       transform="matrix(1.124993,0,0,1.124993,-222.74653,-223.9972)">
       <rect
          style="color:#bebebe;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect26481"
@@ -2915,7 +2896,7 @@
        style="display:inline"
        id="note-tie"
        inkscape:label="note-tie"
-       transform="matrix(1.124993,0,0,-1.124993,-195.99655,681.7473)">
+       transform="matrix(1.124993,0,0,-1.124993,-195.99655,653.7473)">
       <g
          transform="matrix(0.88889442,0,0,0.88889442,276.27338,-473.27477)"
          id="g26503"
@@ -2955,7 +2936,7 @@
          sodipodi:nodetypes="czcczcc" />
     </g>
     <g
-       transform="matrix(1.124993,0,0,1.124993,-167.99656,-195.7473)"
+       transform="matrix(1.124993,0,0,1.124993,-167.99656,-223.7473)"
        inkscape:label="note-double-sharp"
        id="note-double-sharp"
        style="display:inline">
@@ -2988,7 +2969,7 @@
        style="display:inline"
        id="stem-flip"
        inkscape:label="stem-flip"
-       transform="matrix(1.124993,0,0,1.124993,-27.996563,-195.7473)">
+       transform="matrix(1.124993,0,0,1.124993,-27.996563,-223.7473)">
       <rect
          style="color:#bebebe;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect26729"
@@ -3032,7 +3013,7 @@
        style="display:inline"
        id="note-flat2"
        inkscape:label="note-flat"
-       transform="matrix(1.124993,0,0,1.124993,-82.748902,-195.7473)">
+       transform="matrix(1.124993,0,0,1.124993,-82.748902,-223.7473)">
       <g
          transform="matrix(0.88889442,0,0,0.88889442,275.16434,-473.27477)"
          id="g26917"
@@ -3054,7 +3035,7 @@
          sodipodi:nodetypes="cccccccccccccc" />
     </g>
     <g
-       transform="matrix(1.124993,0,0,1.124993,-54.748901,-195.7473)"
+       transform="matrix(1.124993,0,0,1.124993,-54.748901,-223.7473)"
        inkscape:label="note-double-flat"
        id="note-double-flat"
        style="display:inline">
@@ -3091,7 +3072,7 @@
          style="display:inline" />
     </g>
     <g
-       transform="matrix(1.124993,0,0,1.124993,-110.7489,-195.7473)"
+       transform="matrix(1.124993,0,0,1.124993,-110.7489,-223.7473)"
        inkscape:label="note-natural"
        id="note-natural"
        style="display:inline">
@@ -3119,7 +3100,7 @@
        style="display:inline"
        inkscape:label="edit-paste"
        id="edit-paste"
-       transform="translate(16.999819,-367)">
+       transform="translate(16.999819,-395)">
       <rect
          width="16"
          height="16"
@@ -3182,7 +3163,7 @@
          id="g11083" />
     </g>
     <g
-       transform="translate(-11.000184,-367)"
+       transform="translate(-11.000184,-395)"
        id="edit-copy"
        inkscape:label="edit-copy"
        style="display:inline">
@@ -3226,7 +3207,7 @@
          y="-93.000175" />
     </g>
     <g
-       transform="translate(-38.9996,-367)"
+       transform="translate(-38.9996,-395)"
        id="edit-cut"
        inkscape:label="edit-cut"
        style="display:inline">
@@ -3294,7 +3275,7 @@
     </g>
     <g
        inkscape:label="mode-photo"
-       transform="matrix(1.125,0,0,1.125,298.49978,-122.12499)"
+       transform="matrix(1.125,0,0,1.125,298.49978,-150.12499)"
        id="mode-photo"
        style="display:inline">
       <path
@@ -3341,7 +3322,7 @@
     </g>
     <g
        style="display:inline"
-       transform="translate(-845.00019,-483.36219)"
+       transform="translate(-845.00019,-511.36219)"
        inkscape:label="align-vertical-bottom"
        id="align-vertical-bottom">
       <rect
@@ -3375,7 +3356,7 @@
     <g
        id="align-vertical-baseline"
        inkscape:label="align-vertical-baseline"
-       transform="translate(-817.00019,-483.36219)"
+       transform="translate(-817.00019,-511.36219)"
        style="display:inline">
       <rect
          style="font-size:12px;fill:none;stroke:none"
@@ -3407,7 +3388,7 @@
     </g>
     <g
        style="display:inline"
-       transform="translate(-789.00019,-483.36219)"
+       transform="translate(-789.00019,-511.36219)"
        inkscape:label="align-vertical-center"
        id="align-vertical-center">
       <rect
@@ -3441,7 +3422,7 @@
     <g
        id="align-vertical-top"
        inkscape:label="align-vertical-top"
-       transform="translate(-761.00022,-483.36219)"
+       transform="translate(-761.00022,-511.36219)"
        style="display:inline">
       <rect
          style="font-size:12px;fill:none;stroke:none"
@@ -3473,7 +3454,7 @@
     </g>
     <g
        style="display:inline"
-       transform="translate(-733.00021,-483.36218)"
+       transform="translate(-733.00021,-511.36218)"
        inkscape:label="format-text-superscript"
        id="format-text-superscript">
       <rect
@@ -3508,7 +3489,7 @@
     <g
        id="format-text-subscript"
        inkscape:label="format-text-subscript"
-       transform="translate(-705.00022,-483.36218)"
+       transform="translate(-705.00022,-511.36218)"
        style="display:inline">
       <rect
          style="font-size:12px;fill:none;stroke:none"
@@ -3543,7 +3524,7 @@
        style="display:inline"
        id="list-ordered"
        inkscape:label="list-ordered"
-       transform="translate(-43.000216,-327.36221)">
+       transform="translate(-43.000216,-355.36221)">
       <rect
          y="506.36221"
          x="448"
@@ -3588,7 +3569,7 @@
          sodipodi:nodetypes="cccccccccsccccccccccccccscsc" />
     </g>
     <g
-       transform="translate(-15.000217,-327.36221)"
+       transform="translate(-15.000217,-355.36221)"
        inkscape:label="list-unordered"
        id="list-unordered"
        style="display:inline">
@@ -3639,7 +3620,7 @@
          transform="matrix(0.96974644,0,0,1.1703837,59.543087,325.46726)" />
     </g>
     <g
-       transform="matrix(-1,0,0,1,924.99978,-327.36221)"
+       transform="matrix(-1,0,0,1,924.99978,-355.36221)"
        inkscape:label="list-ordered-rtl"
        id="list-ordered-rtl"
        style="display:inline">
@@ -3688,7 +3669,7 @@
     </g>
     <g
        inkscape:label="midi-input"
-       transform="matrix(1.5,0,0,1.5,346.00008,-208.49999)"
+       transform="matrix(1.5,0,0,1.5,346.00008,-236.49999)"
        id="midi-input"
        style="display:inline">
       <path
@@ -3775,7 +3756,7 @@
        style="display:inline"
        id="list-unordered-rtl"
        inkscape:label="list-unordered-rtl"
-       transform="matrix(-1,0,0,1,952.99978,-327.36221)">
+       transform="matrix(-1,0,0,1,952.99978,-355.36221)">
       <rect
          y="506.36221"
          x="448"
@@ -3823,7 +3804,7 @@
          sodipodi:type="arc" />
     </g>
     <g
-       transform="translate(40.999562,-308.00001)"
+       transform="translate(40.999562,-336.00001)"
        inkscape:label="insert-symbol"
        id="insert-symbol"
        style="display:inline">
@@ -3847,7 +3828,7 @@
        style="display:inline"
        id="rest-4"
        inkscape:label="rest-4"
-       transform="matrix(1.0909084,0,0,1.0909084,-370.63619,-154.42675)">
+       transform="matrix(1.0909084,0,0,1.0909084,-370.63619,-182.42675)">
       <rect
          style="color:#666666;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect4899-8"
@@ -3862,7 +3843,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="matrix(1.0909084,0,0,1.0909084,-258.63621,-154.45425)"
+       transform="matrix(1.0909084,0,0,1.0909084,-258.63621,-182.45425)"
        inkscape:label="rest-longa"
        id="rest-longa"
        style="display:inline">
@@ -3885,7 +3866,7 @@
        style="display:inline"
        id="rest-breve"
        inkscape:label="rest-breve"
-       transform="matrix(1.0909084,0,0,1.0909084,-286.63621,-154.45425)">
+       transform="matrix(1.0909084,0,0,1.0909084,-286.63621,-182.45425)">
       <rect
          style="color:#666666;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect5393"
@@ -3902,7 +3883,7 @@
          y="388.16666" />
     </g>
     <g
-       transform="matrix(1.0909084,0,0,1.0909084,-314.63619,-154.45428)"
+       transform="matrix(1.0909084,0,0,1.0909084,-314.63619,-182.45428)"
        inkscape:label="rest-1"
        id="rest-1"
        style="display:inline">
@@ -3936,7 +3917,7 @@
          style="fill:#666666;fill-opacity:1;stroke:none;display:inline" />
     </g>
     <g
-       transform="matrix(1.0909084,0,0,1.0909084,-398.63619,-154.45428)"
+       transform="matrix(1.0909084,0,0,1.0909084,-398.63619,-182.45428)"
        inkscape:label="rest-8"
        id="rest-8"
        style="display:inline">
@@ -3972,7 +3953,7 @@
        style="display:inline"
        id="rest-16"
        inkscape:label="rest-16"
-       transform="matrix(1.0909084,0,0,1.0909084,-426.63619,-154.45428)">
+       transform="matrix(1.0909084,0,0,1.0909084,-426.63619,-182.45428)">
       <rect
          style="color:#666666;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect5952"
@@ -4005,7 +3986,7 @@
        style="display:inline"
        id="rest-32"
        inkscape:label="rest-32"
-       transform="matrix(1.0909084,0,0,1.0909084,-454.63618,-154.45428)">
+       transform="matrix(1.0909084,0,0,1.0909084,-454.63618,-182.45428)">
       <rect
          style="color:#666666;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect6010"
@@ -4028,7 +4009,7 @@
        inkscape:label="rest-64"
        id="rest-64"
        style="display:inline"
-       transform="matrix(0.72727229,0,0,0.72727229,18.454703,41.181955)">
+       transform="matrix(0.72727229,0,0,0.72727229,18.454703,13.181955)">
       <path
          id="path110"
          style="fill:none;stroke:#666666;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;display:inline"
@@ -4049,7 +4030,8 @@
     </g>
     <g
        id="rest-128"
-       inkscape:label="rest-128">
+       inkscape:label="rest-128"
+       transform="translate(0,-28)">
       <g
          style="fill:#666666;fill-opacity:1;stroke:none"
          id="layer1"
@@ -4101,7 +4083,7 @@
     <g
        id="edit-reset"
        inkscape:label="edit-reset"
-       transform="matrix(1,0,0,-1,21.000039,630.99999)"
+       transform="matrix(1,0,0,-1,21.000039,602.99999)"
        style="display:inline">
       <rect
          y="296"
@@ -4136,7 +4118,7 @@
        style="display:inline"
        id="rest-2"
        inkscape:label="rest-2"
-       transform="matrix(1.0909084,0,0,-1.0909084,-342.63619,696.45425)">
+       transform="matrix(1.0909084,0,0,-1.0909084,-342.63619,668.45425)">
       <rect
          style="color:#666666;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect9886"
@@ -4170,7 +4152,7 @@
        style="display:inline"
        id="media-playback-loop"
        inkscape:label="media-playback-loop"
-       transform="translate(4.9998144,-280.00001)">
+       transform="translate(4.9998144,-308.00001)">
       <rect
          y="487"
          x="120"
@@ -4186,7 +4168,7 @@
          sodipodi:nodetypes="cccccccccccccccsc" />
     </g>
     <g
-       transform="translate(116.99981,-280.00001)"
+       transform="translate(116.99981,-308.00001)"
        inkscape:label="media-playback-loop-in"
        id="media-playback-loop-in"
        style="display:inline">
@@ -4209,7 +4191,7 @@
        style="display:inline"
        id="media-playback-loop-out"
        inkscape:label="media-playback-loop-out"
-       transform="translate(144.99981,-280.00001)">
+       transform="translate(144.99981,-308.00001)">
       <rect
          y="487"
          x="120"
@@ -4226,7 +4208,7 @@
     </g>
     <g
        style="display:inline"
-       transform="matrix(1,0,0,-1,49.000035,630.99999)"
+       transform="matrix(1,0,0,-1,49.000035,602.99999)"
        inkscape:label="window-close"
        id="window-close">
       <rect
@@ -4260,7 +4242,7 @@
     <g
        id="window-detach"
        inkscape:label="window-detach"
-       transform="matrix(1,0,0,-1,77.00006,630.99999)"
+       transform="matrix(1,0,0,-1,77.00006,602.99999)"
        style="display:inline">
       <rect
          y="296"
@@ -4274,9 +4256,10 @@
          id="g7671" />
       <path
          style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#666666;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-         d="M 65 304 L 65 305 L 65 311 L 65 312 L 66 312 L 72 312 L 73 312 L 73 311 L 73 309.8125 C 72.638249 309.65344 72.348416 309.40918 72.0625 309.15625 C 71.747065 309.46018 71.38529 309.67274 71 309.8125 L 71 310 L 70.15625 310 L 67 310 L 67 306 L 67.21875 306 C 67.348735 305.66028 67.54332 305.33089 67.8125 305.03125 C 67.544306 304.73779 67.331246 304.38852 67.1875 304 L 66 304 L 65 304 z "
+         d="m 65,304 0,1 0,6 0,1 1,0 6,0 1,0 0,-1 0,-1.1875 c -0.361751,-0.15906 -0.651584,-0.40332 -0.9375,-0.65625 -0.315435,0.30393 -0.67721,0.51649 -1.0625,0.65625 L 71,310 70.15625,310 67,310 l 0,-4 0.21875,0 c 0.129985,-0.33972 0.32457,-0.66911 0.59375,-0.96875 C 67.544306,304.73779 67.331246,304.38852 67.1875,304 L 66,304 l -1,0 z"
          id="rect7737"
-         transform="matrix(1,0,0,-1,-42.00006,610.99999)" />
+         transform="matrix(1,0,0,-1,-42.00006,610.99999)"
+         inkscape:connector-curvature="0" />
       <path
          style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#666666;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new;font-family:Sans;-inkscape-font-specification:Sans"
          d="m 26.99994,308.99999 c 0,0 0,-0.67185 0,-1 5.2e-5,-0.52358 0.476416,-0.99995 1,-1 l 1.5625,0 -3.03125,-3.03125 c -0.542821,-0.50131 -0.227027,-1.58685 0.5,-1.71875 0.332715,-0.0744 0.70066,0.036 0.9375,0.28125 l 3.03125,3.03125 0,-1.5625 c -0.01103,-0.4581 0.334096,-0.89986 0.78125,-1 0.40517,-0.0224 0.794021,0 1.21875,0 l 0,6 z"
@@ -4286,7 +4269,7 @@
     </g>
     <g
        style="display:inline"
-       transform="matrix(1,0,0,-1,105.00006,630.99999)"
+       transform="matrix(1,0,0,-1,105.00006,602.99999)"
        inkscape:label="window-attach"
        id="g8303">
       <rect
@@ -4315,7 +4298,7 @@
     </g>
     <g
        style="display:inline"
-       transform="matrix(1,0,0,-1,21.000039,658.99999)"
+       transform="matrix(1,0,0,-1,21.000039,630.99999)"
        inkscape:label="raster-vertical"
        id="raster-vertical">
       <rect
@@ -4364,7 +4347,7 @@
     <g
        id="raster-horizontal"
        inkscape:label="raster-horizontal"
-       transform="matrix(0,1,1,0,-227.00021,327.00013)"
+       transform="matrix(0,1,1,0,-227.00021,299.00013)"
        style="display:inline">
       <rect
          y="296"
@@ -4411,15 +4394,34 @@
     </g>
     <g
        id="edit"
-       transform="matrix(1.4545455,0,0,1.4545455,-291.95178,-569.40122)"
+       transform="matrix(1.4545455,0,0,1.4545455,-291.95178,-597.40122)"
        inkscape:label="edit">
       <path
          style="fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none"
-         d="m 75.09375,327 c -0.677736,0.68734 -1.361837,1.36746 -2.0625,2.03125 1.083156,0.87351 2.098699,1.85145 2.96875,2.9375 L 78,330 c 0,-0.0317 0.0014,-0.062 0,-0.0937 0,-0.15017 -0.0396,-0.28893 -0.0625,-0.4375 C 77.761051,328.3242 76.949472,327.28523 75.625,327.0625 75.4461,327.0174 75.275568,327 75.09375,327 z m -3.125,3.09375 L 62,340 l 0,3 3,0 9.90625,-9.9375 c -0.858196,-1.10346 -1.837631,-2.10619 -2.9375,-2.96875 z"
+         d="m 75.09375,327 c -0.677736,0.68734 -1.361837,1.36746 -2.0625,2.03125 1.083156,0.87351 2.098699,1.85145 2.96875,2.9375 L 78,330 c 0,-0.0317 0.0014,-0.062 0,-0.0937 0,-0.15017 -0.0396,-0.28893 -0.0625,-0.4375 -0.176449,-1.1446 -0.988028,-2.18357 -2.3125,-2.4063 C 75.4461,327.0174 75.275568,327 75.09375,327 z m -3.125,3.09375 L 62,340 l 0,3 3,0 9.90625,-9.9375 c -0.858196,-1.10346 -1.837631,-2.10619 -2.9375,-2.96875 z"
          transform="matrix(0.68749998,0,0,0.68749998,224.77934,405.21333)"
          id="path18952"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccccscccccccc" />
+    </g>
+    <g
+       style="display:inline"
+       id="g14485"
+       inkscape:label="object-select"
+       transform="translate(-20.000291,-407.6863)">
+      <path
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#666666;fill-opacity:1;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+         d="M 72.9375,790.9375 68,795.875 l -1.9375,-1.9375 -2.125,2.125 3,3 1.0625,1.0625 1.0625,-1.0625 6,-6 -2.125,-2.125 z"
+         id="path8913-6-7-1-5"
+         inkscape:connector-curvature="0" />
+      <rect
+         inkscape:label="a"
+         y="787"
+         x="61.000198"
+         height="16"
+         width="16"
+         id="rect8856-7"
+         style="color:#bebebe;fill:none;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible" />
     </g>
   </g>
 </svg>
