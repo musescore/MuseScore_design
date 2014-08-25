@@ -43,12 +43,12 @@
      id="namedview88"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="323.05271"
-     inkscape:cy="186.21632"
+     inkscape:cx="546.03902"
+     inkscape:cy="148.89479"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="actions"
+     inkscape:current-layer="note-flat2"
      showborder="false"
      inkscape:snap-nodes="true"
      inkscape:snap-bbox="true"
@@ -3029,7 +3029,7 @@
       </g>
       <path
          style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#666666;stroke:none;display:inline;font-family:MScore1;-inkscape-font-specification:MScore1"
-         d="m 588.22498,384.66669 -1.5e-4,11.5556 c 0,0 3.10847,-2.25732 4.12073,-3.89217 0.39462,-0.70208 0.56688,-1.13366 0.32863,-1.91637 -0.19863,-0.72718 -1.00664,-1.22172 -1.74013,-1.01234 -0.63155,0.11228 -1.82021,0.59897 -1.82021,0.59897 l 0,-5.33366 z m 2.22234,6 c 0.57046,-0.12669 1.08156,0.46555 0.93027,1.01563 -0.12008,0.6263 -1.11419,1.4288 -1.11419,1.4288 l -1.14941,0.8889 0,-2.66666 c 0,0 0.81799,-0.64117 1.33333,-0.66667 z"
+         d="m 587.78053,384.66669 -1.5e-4,11.5556 c 0,0 3.55292,-2.25732 4.56518,-3.89217 0.39462,-0.70208 0.56688,-1.13366 0.32863,-1.91637 -0.19863,-0.72718 -1.00664,-1.22172 -1.74013,-1.01234 -0.63155,0.11228 -1.82021,0.59897 -1.82021,0.59897 l 0,-5.33366 z m 2.66679,6 c 0.57046,-0.12669 1.08156,0.46555 0.93027,1.01563 -0.12008,0.6263 -1.11419,1.4288 -1.11419,1.4288 l -1.14941,0.8889 0,-2.66666 c 0,0 0.81799,-0.64117 1.33333,-0.66667 z"
          id="flat"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccccccccccccc" />
