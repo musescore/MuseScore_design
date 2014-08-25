@@ -42,12 +42,12 @@
      id="namedview88"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="728.94773"
-     inkscape:cy="77.264568"
+     inkscape:cx="234.31009"
+     inkscape:cy="178.18124"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="actions"
+     inkscape:current-layer="edit-paste"
      showborder="false"
      inkscape:snap-nodes="true"
      inkscape:snap-bbox="true"
@@ -766,7 +766,7 @@
          id="path9727-3" />
       <path
          style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#666666;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
-         d="m 65.333346,517.31305 0,0.66694 c 0,0.17692 0.062,0.35385 0.1875,0.47936 l 2.479167,2.48018 c 0,0 1.65278,-1.65346 2.479166,-2.48018 0.125428,-0.1255 0.18748,-0.30242 0.1875,-0.47936 l 0,-0.66694 -0.666666,0 c -0.176867,0 -0.35372,0.0621 -0.479167,0.18757 l -1.520833,1.52146 -1.520834,-1.52146 c -0.125452,-0.12545 -0.302293,-0.1876 -0.479167,-0.18757 z"
+         d="m 65.333346,518.64693 0,0.66694 c 0,0.17692 0.062,0.35385 0.1875,0.47936 l 2.479167,2.48018 c 0,0 1.65278,-1.65346 2.479166,-2.48018 0.125428,-0.1255 0.18748,-0.30242 0.1875,-0.47936 l 0,-0.66694 -0.666666,0 c -0.176867,0 -0.35372,0.0621 -0.479167,0.18757 l -1.520833,1.52146 -1.520834,-1.52146 c -0.125452,-0.12545 -0.302293,-0.1876 -0.479167,-0.18757 z"
          id="path3613-6-6-5-4"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cscccccsccccc" />
@@ -776,7 +776,7 @@
          width="1.3333334"
          height="5.3355093"
          x="67.333344"
-         y="514.66614" />
+         y="516" />
     </g>
     <g
        style="display:inline"
