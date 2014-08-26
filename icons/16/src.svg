@@ -42,9 +42,9 @@
      inkscape:window-height="1014"
      id="namedview88"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="39.626633"
-     inkscape:cy="59.198849"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="125.08049"
+     inkscape:cy="23.218142"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -4024,7 +4024,7 @@
        style="display:inline"
        id="object-select"
        inkscape:label="object-select"
-       transform="translate(-20.000291,-407.6863)">
+       transform="translate(-20.000291,-411.99989)">
       <path
          style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#666666;fill-opacity:1;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
          d="M 72.9375,790.9375 68,795.875 l -1.9375,-1.9375 -2.125,2.125 3,3 1.0625,1.0625 1.0625,-1.0625 6,-6 -2.125,-2.125 z"
@@ -4068,7 +4068,7 @@
     <g
        style="display:inline"
        inkscape:label="instrument-keyboards"
-       transform="translate(-244.00229,-780.0485)"
+       transform="translate(-244.00229,-784.36209)"
        id="instrument-keyboards">
       <path
          style="color:#000000;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -4088,7 +4088,7 @@
        style="display:inline"
        inkscape:label="instrument-strings-plucked"
        id="instrument-strings-plucked"
-       transform="matrix(1.1248527,0,0,-1.1248527,-324.58047,1639.9345)">
+       transform="matrix(1.1248527,0,0,-1.1248527,-324.58047,1635.6208)">
       <rect
          width="14.224085"
          height="14.224085"
@@ -4105,7 +4105,7 @@
          sodipodi:nodetypes="zzzzz" />
     </g>
     <g
-       transform="translate(76.99981,-46.686295)"
+       transform="translate(76.99981,-50.999908)"
        id="instrument-percussion-pitched"
        inkscape:label="instrument-percussion-pitched"
        style="display:inline">
@@ -4128,7 +4128,7 @@
     <g
        style="display:inline"
        id="instrument-percussion-unpitched"
-       transform="translate(50.47675,250.21312)"
+       transform="translate(50.47675,245.89951)"
        inkscape:label="instrument-percussion-unpitched">
       <g
          transform="matrix(0.16734729,-0.04484056,0.04484056,0.16734729,77.77861,73.461361)"
@@ -4165,7 +4165,7 @@
     </g>
     <g
        style="display:inline"
-       transform="matrix(-1,0,0,-1,326.99956,662.3137)"
+       transform="matrix(-1,0,0,-1,326.99956,658.99996)"
        inkscape:label="instrument-electronic"
        id="instrument-electronic">
       <path
@@ -4194,7 +4194,7 @@
     <g
        style="display:inline"
        id="instrument-vocals"
-       transform="matrix(-1,0,0,1,488,228.31375)"
+       transform="matrix(-1,0,0,1,488,224.00009)"
        inkscape:label="instrument-vocals">
       <rect
          y="-139"
@@ -4230,7 +4230,7 @@
     <g
        style="display:inline"
        id="instrument-strings"
-       transform="translate(-83.99992,227.31373)"
+       transform="translate(-83.99992,223.0001)"
        inkscape:label="instrument-strings">
       <rect
          inkscape:label="audio-volume-high"
@@ -4311,7 +4311,7 @@
     <g
        style="display:inline"
        id="instrument-freereeds"
-       transform="translate(-57.99981,228.31375)"
+       transform="translate(-57.99981,224.00014)"
        inkscape:label="instrument-freereeds">
       <rect
          style="color:#bebebe;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible"
@@ -4352,7 +4352,7 @@
          y="133" />
     </g>
     <g
-       transform="translate(-104.00018,-780.0485)"
+       transform="translate(-104.00018,-784.36209)"
        id="instrument-woodwinds"
        inkscape:label="instrument-woodwinds"
        style="display:inline">
@@ -4384,7 +4384,7 @@
          style="fill:#666666;fill-opacity:1;stroke:none" />
     </g>
     <g
-       transform="translate(-2,228.31375)"
+       transform="translate(-2,224.00014)"
        style="display:inline"
        id="instrument-brass"
        inkscape:label="instrument-brass">
