@@ -43,8 +43,8 @@
      id="namedview88"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="93.337742"
-     inkscape:cy="235.83221"
+     inkscape:cx="39.626633"
+     inkscape:cy="59.198849"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -3951,38 +3951,26 @@
       <g
          id="g21314"
          style="opacity:0.25" />
-      <rect
-         style="color:#000000;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
-         id="rect21322"
-         width="16"
-         height="2"
-         x="19.999962"
-         y="-311"
-         transform="scale(1,-1)" />
-      <rect
+      <path
          transform="scale(1,-1)"
-         y="-307"
-         x="19.999962"
-         height="2"
-         width="16"
-         id="rect21832"
-         style="color:#000000;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
-      <rect
          style="color:#000000;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
-         id="rect21834"
-         width="16"
-         height="2"
-         x="19.999962"
-         y="-303"
-         transform="scale(1,-1)" />
-      <rect
+         d="m 19.999962,-311 16,0 0,2 -16,0 z"
+         id="rect21322" />
+      <path
          transform="scale(1,-1)"
-         y="-299"
-         x="19.999962"
-         height="2"
-         width="16"
-         id="rect21836"
-         style="color:#000000;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
+         style="color:#000000;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+         d="m 19.999962,-307 16,0 0,2 -16,0 z"
+         id="rect21832" />
+      <path
+         transform="scale(1,-1)"
+         style="color:#000000;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+         d="m 19.999962,-303 16,0 0,2 -16,0 z"
+         id="rect21834" />
+      <path
+         transform="scale(1,-1)"
+         style="color:#000000;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+         d="m 19.999962,-299 16,0 0,2 -16,0 z"
+         id="rect21836" />
     </g>
     <g
        id="raster-horizontal"
@@ -3999,38 +3987,26 @@
       <g
          style="opacity:0.25"
          id="g21842" />
-      <rect
+      <path
          transform="scale(1,-1)"
-         y="-311"
-         x="19.999962"
-         height="2"
-         width="16"
-         id="rect21844"
-         style="color:#000000;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
-      <rect
          style="color:#000000;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
-         id="rect21846"
-         width="16"
-         height="2"
-         x="19.999962"
-         y="-307"
-         transform="scale(1,-1)" />
-      <rect
+         d="m 19.999962,-311 16,0 0,2 -16,0 z"
+         id="rect21844" />
+      <path
          transform="scale(1,-1)"
-         y="-303"
-         x="19.999962"
-         height="2"
-         width="16"
-         id="rect21848"
-         style="color:#000000;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
-      <rect
          style="color:#000000;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
-         id="rect21850"
-         width="16"
-         height="2"
-         x="19.999962"
-         y="-299"
-         transform="scale(1,-1)" />
+         d="m 19.999962,-307 16,0 0,2 -16,0 z"
+         id="rect21846" />
+      <path
+         transform="scale(1,-1)"
+         style="color:#000000;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+         d="m 19.999962,-303 16,0 0,2 -16,0 z"
+         id="rect21848" />
+      <path
+         transform="scale(1,-1)"
+         style="color:#000000;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+         d="m 19.999962,-299 16,0 0,2 -16,0 z"
+         id="rect21850" />
     </g>
     <g
        id="edit"
