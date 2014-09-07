@@ -37,7 +37,7 @@
      style="display:inline">
     <path
        d="m 474.00015,185 0,1 -2.99994,1e-5 0,-1 1.00017,-1e-5 0,-1.89701 c -0.38366,0.36411 -0.9998,0.697 -0.9998,0.697 l 0,-1.08671 c 0,0 0.57879,-0.40397 0.9998,-0.71319 l 1.0004,0 0,2.99991"
-       inkscape:connector-curvature="0"
+       
        id="path5777"
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;font-family:Raleway;-inkscape-font-specification:Raleway" />
     <rect
@@ -56,7 +56,7 @@
        style="color:#bebebe;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible" />
     <path
        d="m 472.5002,188.00007 c -0.43697,0 -0.84103,0.0739 -1.21706,0.25197 l -0.0849,0.0314 -0.19813,0.0944 0.0849,0.22047 0.16982,0.53544 0.0849,0.22047 0.19813,-0.0944 0.0849,-0.0314 c 0.32804,-0.12534 0.58756,-0.18898 0.7925,-0.18898 0.16603,0 0.301,0.0588 0.39625,0.12598 0.1,0.0686 0.0849,0.0993 0.0849,0.12599 0,-0.007 0.0256,-0.003 0,0.0314 -0.0331,0.0435 -0.0978,0.0988 -0.16982,0.15748 -0.0802,0.0637 -0.1547,0.11477 -0.25473,0.18898 -0.10888,0.079 -0.22009,0.17772 -0.33965,0.28347 -0.44635,0.35437 -0.66871,0.79522 -0.96232,1.27669 l 0,0.77056 2.83036,0 0,-1 -1.41518,0 c 0.18828,-0.35195 0.51138,-0.55763 0.7925,-0.79528 0.0993,-0.0838 0.17391,-0.16019 0.25473,-0.25196 0.0919,-0.10221 0.17375,-0.21664 0.22643,-0.34646 0.0568,-0.13514 0.0849,-0.29018 0.0849,-0.44095 0,-0.34431 -0.16379,-0.63719 -0.42456,-0.85039 -0.26603,-0.2195 -0.61749,-0.31496 -1.01893,-0.31496 z"
-       inkscape:connector-curvature="0"
+       
        id="path5783"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:125%;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
   </g>

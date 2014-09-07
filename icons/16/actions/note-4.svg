@@ -102,12 +102,12 @@
      style="display:inline">
     <path
        d="m 272.00544,245.97581 c -0.97331,0 -1.88428,0.35634 -2.73294,1.06898 -0.84867,0.71265 -1.273,1.47875 -1.273,2.29829 0,0.49886 0.18398,0.89972 0.55193,1.2026 0.36795,0.30287 0.84866,0.45431 1.44214,0.45431 0.9733,0 1.88426,-0.35632 2.73293,-1.06897 0.84867,-0.71265 1.273,-1.47875 1.273,-2.29829 0,-0.49886 -0.18397,-0.89972 -0.55193,-1.20259 -0.36795,-0.30288 -0.84867,-0.45433 -1.44213,-0.45433"
-       inkscape:connector-curvature="0"
+       
        id="path3633"
        style="font-size:83.33329773px;font-style:normal;font-weight:400;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:MScore" />
     <path
        d="m 272.00033,235.00776 1.99918,0 0,12.83131 -1.99918,0 z"
-       inkscape:connector-curvature="0"
+       
        id="use4354-4-3-2"
        style="color:#000000;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.50800002;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
   </g>

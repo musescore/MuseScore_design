@@ -37,17 +37,17 @@
      style="display:inline">
     <path
        d="m 101.81782,238.51352 3.18198,-3.18199 3.18197,3.18196 c 0,0 -0.35801,0.358 -0.53032,0.53032 -0.27944,0.27467 -0.78136,0.27503 -1.06067,0 l -1.59098,-1.59098 -1.59097,1.59098 c -0.25967,0.25967 -0.7774,0.28342 -1.06068,3e-5 -0.17299,-0.17616 -0.53033,-0.53032 -0.53033,-0.53032 z"
-       inkscape:connector-curvature="0"
+       
        id="path12113-9"
        style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#666666;stroke:none;stroke-width:1.33360577;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new;font-family:Sans;-inkscape-font-specification:Sans" />
     <path
        d="m 108.18177,247.48637 -3.18199,3.18199 -3.18196,-3.18195 c 0,0 0.358,-0.35801 0.53032,-0.53032 0.27944,-0.27467 0.78135,-0.27503 1.06066,0 l 1.59098,1.59097 1.59098,-1.59097 c 0.25967,-0.25967 0.77739,-0.28342 1.06067,-4e-5 0.17299,0.17617 0.53034,0.53032 0.53034,0.53032 z"
-       inkscape:connector-curvature="0"
+       
        id="path15492"
        style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#666666;stroke:none;stroke-width:1.33360577;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new;font-family:Sans;-inkscape-font-specification:Sans" />
     <path
        d="m 106.00573,240.48786 c -0.97331,0 -1.88428,0.35634 -2.73294,1.06898 -0.84867,0.71265 -1.273,1.47875 -1.273,2.29829 0,0.49886 0.18398,0.89972 0.55193,1.2026 0.36795,0.30287 0.84866,0.45431 1.44214,0.45431 0.9733,0 1.88426,-0.35632 2.73293,-1.06897 0.84867,-0.71265 1.273,-1.47875 1.273,-2.29829 0,-0.49886 -0.18397,-0.89972 -0.55193,-1.20259 -0.36795,-0.30288 -0.84867,-0.45433 -1.44213,-0.45433"
-       inkscape:connector-curvature="0"
+       
        id="path44-6-7"
        style="font-size:83.33329773px;font-style:normal;font-weight:400;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:MScore" />
   </g>

@@ -34,12 +34,12 @@
      style="display:inline">
     <path
        d="m 488,208 0,2 4.10988,0 c 0.86898,0.0276 0.89013,0.13785 0.89013,1 l -3.57726,0 c -0.73542,0 -1.4166,0.50091 -1.82812,0.96875 -0.41153,0.46783 -0.56762,1.06413 -0.5625,1.64062 0.005,0.5765 0.19951,1.13093 0.60937,1.59375 0.40986,0.46283 1.05464,0.79688 1.78125,0.79688 l 4.78125,0 0.79601,0 0,-0.79688 0,-4.82812 c 0,-1.30748 -1.04561,-2.37045 -2.38976,-2.375 z m 1.42275,5 3.57737,0 0,1 -3.57737,0 c 0,0 -0.42274,-0.0558 -0.42274,-0.50001 0,-0.44421 0.42274,-0.49999 0.42274,-0.49999 z"
-       inkscape:connector-curvature="0"
+       
        id="path19696-8"
        style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#666666;stroke:none;stroke-width:1.06666565;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
     <path
        d="m 477,202 0,2 6,0 c 0.42818,0 1,0.61414 1,1 l 0,1 -5,0 c -0.91927,0 -1.7356,0.38397 -2.25,0.96875 -0.5144,0.58478 -0.75639,1.31063 -0.75,2.03125 0.006,0.72062 0.26893,1.45271 0.78125,2.03125 C 477.29357,211.60979 478.09172,212 479,212 l 6,0 1,0 0,-1 0,-6 c 0,-1.63434 -1.3198,-3 -3,-3 l -6,0 z m 2,6 5,0 0,2 -5,0 c -0.39788,0 -0.56691,-0.10979 -0.71875,-0.28125 C 478.12941,209.54729 478.00248,209.27938 478,209 c -0.002,-0.27938 0.10467,-0.55354 0.25,-0.71875 C 478.39533,208.11604 478.57764,208 479,208 z"
-       inkscape:connector-curvature="0"
+       
        id="path11643-3-2-9-3"
        style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#666666;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
   </g>

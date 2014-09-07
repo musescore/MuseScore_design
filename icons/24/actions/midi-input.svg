@@ -66,7 +66,7 @@
        style="color:#000000;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <path
        d="m 485.00799,125 c -5.52285,0 -10,4.47715 -10,10 0,5.52285 4.47715,9.99999 10,9.99999 5.52285,0 10,-4.47714 10,-9.99999 0,-5.52285 -4.47715,-10 -10,-10 z m 0,1.99999 c 4.41828,0 8,3.58173 8,8.00001 0,4.41828 -3.58172,7.99999 -8,7.99999 -4.41828,0 -8,-3.58171 -8,-7.99999 0,-4.41828 3.58172,-8.00001 8,-8.00001 z"
-       inkscape:connector-curvature="0"
+       
        id="path3546"
        style="fill:#666666;fill-opacity:1;stroke:none" />
   </g>

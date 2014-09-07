@@ -37,12 +37,12 @@
      style="display:inline">
     <path
        d="m 46.007124,244.98167 c -0.973191,0 -1.884046,0.35628 -2.732604,1.06884 -0.848559,0.71256 -1.272838,1.47856 -1.272837,2.29801 0,0.49879 0.183953,0.8996 0.551861,1.20244 0.367906,0.30283 0.848556,0.45426 1.441954,0.45426 0.973179,0 1.884024,-0.35628 2.732589,-1.06884 0.848565,-0.71256 1.272848,-1.47856 1.272848,-2.29801 0,-0.49879 -0.183954,-0.8996 -0.551863,-1.20244 -0.367908,-0.30284 -0.848565,-0.45426 -1.441948,-0.45426"
-       inkscape:connector-curvature="0"
+       
        id="path3631"
        style="font-size:83.33329773px;font-style:normal;font-weight:400;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:MScore" />
     <path
        d="m 47.999828,241.49344 0,5.09864 -1.999999,0 0,-9.59212 1.999999,0 5.999998,7.675 0,-7.675 2,0 0,12 -1.912632,0"
-       inkscape:connector-curvature="0"
+       
        id="path4374"
        style="font-size:14.66666698px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;font-family:Raleway;-inkscape-font-specification:Raleway" />
   </g>

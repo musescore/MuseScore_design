@@ -37,17 +37,17 @@
      style="display:inline">
     <path
        d="m 154.99981,126.99995 c -0.5,0 -1,0.5 -1,1 l 0,4 c 0,0.5 0.5,1 1,1 l 1,0 0,-2 10,0 0,2 1,0 c 0.5,0 1,-0.5 1,-1 l 0,-4 c 0,-0.5 -0.5,-1 -1,-1 l -12,0 z"
-       inkscape:connector-curvature="0"
+       
        id="path3520"
        style="fill:#666666;fill-opacity:1;stroke:none" />
     <path
        d="m 156.99981,123.99995 0,2 8,0 0,-2 -8,0 z"
-       inkscape:connector-curvature="0"
+       
        id="path4804"
        style="fill:#666666;fill-opacity:1;stroke:none" />
     <path
        d="m 157,132 0,5 8,0 0,-5 -8,0 z m 1,1 6,0 0,1 -6,0 0,-1 z m 0,2 6,0 0,1 -6,0 0,-1 z"
-       inkscape:connector-curvature="0"
+       
        id="path4806"
        style="fill:#666666;fill-opacity:1;stroke:none" />
   </g>

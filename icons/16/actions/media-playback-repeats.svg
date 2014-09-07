@@ -37,23 +37,23 @@
      style="display:inline">
     <path
        d="m 132.99981,207.99999 0,14 2,0 0,-14 -2,0 z"
-       inkscape:connector-curvature="0"
+       
        id="path25034"
        style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0pt;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;text-anchor:start;color:#bebebe;fill:#666666;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;font-family:Andale Mono" />
     <path
        d="m 130.99981,207.99999 0,14 1,0 0,-14 -1,0 z"
-       inkscape:connector-curvature="0"
+       
        id="path25038"
        style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0pt;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;text-anchor:start;color:#bebebe;fill:#666666;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;font-family:Andale Mono" />
     <path
        d="m -42.75,-13.625 a 1.875,1.875 0 1 1 -3.75,0 1.875,1.875 0 1 1 3.75,0 z"
-       inkscape:connector-curvature="0"
+       
        transform="matrix(0.53333333,0,0,0.53333333,150.8,224.26665)"
        id="path8093-4"
        style="fill:#666666;stroke:none" />
     <path
        d="m -42.75,-13.625 a 1.875,1.875 0 1 1 -3.75,0 1.875,1.875 0 1 1 3.75,0 z"
-       inkscape:connector-curvature="0"
+       
        transform="matrix(0.53333333,0,0,0.53333333,150.8,220.26666)"
        id="path8095-5"
        style="fill:#666666;stroke:none" />

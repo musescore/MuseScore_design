@@ -35,7 +35,7 @@
      style="display:inline">
     <path
        d="m 660.50023,282.24998 0,2.50001 7.99983,-2.50001 1.6e-4,-2.49997 z"
-       inkscape:connector-curvature="0"
+       
        id="path10408"
        style="fill:#666666;fill-opacity:1;stroke:none;display:inline" />
     <use
@@ -48,7 +48,7 @@
        xlink:href="#path10408" />
     <path
        d="m 662.00012,271 0,16.99999 1.49981,0 0,-16.99999 z"
-       inkscape:connector-curvature="0"
+       
        id="path19771-6-6"
        style="fill:#666666;fill-opacity:1;stroke:none;display:inline" />
     <use
