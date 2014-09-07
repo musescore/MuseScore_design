@@ -1,26 +1,51 @@
-<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
-<svg xmlns:cc='http://creativecommons.org/ns#' xmlns:dc='http://purl.org/dc/elements/1.1/' sodipodi:docname='media-playback-metronome.svg' height='24' id='svg7384' xmlns:inkscape='http://www.inkscape.org/namespaces/inkscape' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:sodipodi='http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd' xmlns:svg='http://www.w3.org/2000/svg' inkscape:version='0.48.4 r9939' version='1.1' width='24' xmlns='http://www.w3.org/2000/svg'>
-  <metadata id='metadata90'>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="24"
+   height="24"
+   id="svg7384">
+  <title
+     id="title9167">MuseScore Icon Theme</title>
+  <metadata
+     id="metadata90">
     <rdf:RDF>
-      <cc:Work rdf:about=''>
+      <cc:Work
+         rdf:about="">
         <dc:format>image/svg+xml</dc:format>
-        <dc:type rdf:resource='http://purl.org/dc/dcmitype/StillImage'/>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <dc:title>MuseScore Icon Theme</dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <sodipodi:namedview inkscape:bbox-nodes='true' inkscape:bbox-paths='true' bordercolor='#666666' borderopacity='1' inkscape:current-layer='actions' inkscape:cx='14.31019' inkscape:cy='64.18124' fit-margin-bottom='6' fit-margin-left='6' fit-margin-right='6' fit-margin-top='6' gridtolerance='10' inkscape:guide-bbox='true' guidetolerance='10' id='namedview88' inkscape:object-nodes='true' inkscape:object-paths='true' objecttolerance='10' pagecolor='#222222' inkscape:pageopacity='0' inkscape:pageshadow='2' showborder='false' showgrid='false' showguides='true' inkscape:snap-bbox='true' inkscape:snap-bbox-edge-midpoints='true' inkscape:snap-bbox-midpoints='true' inkscape:snap-global='true' inkscape:snap-grids='true' inkscape:snap-intersection-paths='true' inkscape:snap-midpoints='false' inkscape:snap-nodes='true' inkscape:snap-others='false' inkscape:snap-smooth-nodes='true' inkscape:snap-to-guides='true' inkscape:window-height='1014' inkscape:window-maximized='1' inkscape:window-width='1920' inkscape:window-x='0' inkscape:window-y='27' inkscape:zoom='1'>
-    <inkscape:grid empspacing='2' enabled='true' id='grid4866' originx='-221.9999px' originy='-114px' snapvisiblegridlinesonly='true' spacingx='1px' spacingy='1px' type='xygrid' visible='true'/>
-  </sodipodi:namedview>
-  <title id='title9167'>MuseScore Icon Theme</title>
-  <defs id='defs7386'/>
-  <g inkscape:groupmode='layer' id='actions' inkscape:label='actions' style='display:inline' transform='translate(-256.9999,-231)'>
-    
-    
-    <path inkscape:connector-curvature='0' d='m 265.5625,233 -3.75,20 13.84375,0 -1.53125,-8 -1.6875,2.90625 L 273,251 l -8.53125,0 2.9375,-16 2.65625,0 0.34375,2 c 0.48059,-0.54077 1.10145,-0.96278 1.8125,-1.21875 0.0526,-0.0189 0.10257,-0.0455 0.15625,-0.0625 C 272.33258,235.56041 271.90625,233 271.90625,233 z' id='path17616-0' sodipodi:nodetypes='cccccccccccccc' style='font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#666666;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans'/>
-    <path inkscape:connector-curvature='0' d='M 274.71875,236.59375 268.125,248 l 1.96875,0 6.09375,-10.5625 -1.46875,-0.84375 z' id='rect17622-4' style='fill:#666666;fill-opacity:1;stroke:none'/>
-    <path sodipodi:cx='239.02419' sodipodi:cy='216.08603' d='m 241.07921,216.08603 a 2.0550292,2.0550292 0 1 1 -4.11005,0 2.0550292,2.0550292 0 1 1 4.11005,0 z' id='path17657-3-4' sodipodi:rx='2.0550292' sodipodi:ry='2.0550292' style='fill:#666666;fill-opacity:1;stroke:none;display:inline' transform='matrix(0.31478243,1.174784,-1.174784,0.31478243,452.34848,-108.79999)' inkscape:transform-center-x='-6.413601' inkscape:transform-center-y='-11.108665' sodipodi:type='arc'/>
+  <defs
+     id="defs7386" />
+  <g
+     transform="translate(-256.9999,-231)"
+     id="actions"
+     style="display:inline">
+    <path
+       d="m 265.5625,233 -3.75,20 13.84375,0 -1.53125,-8 -1.6875,2.90625 L 273,251 l -8.53125,0 2.9375,-16 2.65625,0 0.34375,2 c 0.48059,-0.54077 1.10145,-0.96278 1.8125,-1.21875 0.0526,-0.0189 0.10257,-0.0455 0.15625,-0.0625 C 272.33258,235.56041 271.90625,233 271.90625,233 z"
+       inkscape:connector-curvature="0"
+       id="path17616-0"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#666666;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+    <path
+       d="M 274.71875,236.59375 268.125,248 l 1.96875,0 6.09375,-10.5625 -1.46875,-0.84375 z"
+       inkscape:connector-curvature="0"
+       id="rect17622-4"
+       style="fill:#666666;fill-opacity:1;stroke:none" />
+    <path
+       d="m 241.07921,216.08603 a 2.0550292,2.0550292 0 1 1 -4.11005,0 2.0550292,2.0550292 0 1 1 4.11005,0 z"
+       transform="matrix(0.31478243,1.174784,-1.174784,0.31478243,452.34848,-108.79999)"
+       id="path17657-3-4"
+       style="fill:#666666;fill-opacity:1;stroke:none;display:inline" />
   </g>
 </svg>
