@@ -1,51 +1,114 @@
-<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
-<svg xmlns:cc='http://creativecommons.org/ns#' xmlns:dc='http://purl.org/dc/elements/1.1/' sodipodi:docname='align-vertical-center.svg' height='16' id='svg7384' xmlns:inkscape='http://www.inkscape.org/namespaces/inkscape' xmlns:osb='http://www.openswatchbook.org/uri/2009/osb' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:sodipodi='http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd' xmlns:svg='http://www.w3.org/2000/svg' inkscape:version='0.48.4 r9939' version='1.1' width='16' xmlns='http://www.w3.org/2000/svg'>
-  <metadata id='metadata90'>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="16"
+   height="16"
+   id="svg7384">
+  <title
+     id="title9167">MuseScore Icon Theme</title>
+  <metadata
+     id="metadata90">
     <rdf:RDF>
-      <cc:Work rdf:about=''>
+      <cc:Work
+         rdf:about="">
         <dc:format>image/svg+xml</dc:format>
-        <dc:type rdf:resource='http://purl.org/dc/dcmitype/StillImage'/>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <dc:title>MuseScore Icon Theme</dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <sodipodi:namedview inkscape:bbox-nodes='false' inkscape:bbox-paths='true' bordercolor='#666666' borderopacity='1' inkscape:current-layer='actions' inkscape:cx='-30.96608' inkscape:cy='11.199973' fit-margin-bottom='6' fit-margin-left='6' fit-margin-right='6' fit-margin-top='6' gridtolerance='10' inkscape:guide-bbox='true' guidetolerance='10' id='namedview88' inkscape:object-nodes='false' inkscape:object-paths='false' objecttolerance='10' pagecolor='#222222' inkscape:pageopacity='0' inkscape:pageshadow='2' showborder='false' showgrid='false' showguides='true' inkscape:snap-bbox='true' inkscape:snap-bbox-midpoints='false' inkscape:snap-global='false' inkscape:snap-grids='true' inkscape:snap-nodes='false' inkscape:snap-others='false' inkscape:snap-to-guides='true' inkscape:window-height='1021' inkscape:window-maximized='1' inkscape:window-width='1920' inkscape:window-x='0' inkscape:window-y='27' inkscape:zoom='1'>
-    <inkscape:grid empspacing='2' enabled='true' id='grid4866' originx='-257.99981px' originy='-174.00001px' snapvisiblegridlinesonly='true' spacingx='1px' spacingy='1px' type='xygrid' visible='true'/>
-  </sodipodi:namedview>
-  <title id='title9167'>MuseScore Icon Theme</title>
-  <defs id='defs7386'>
-    <linearGradient gradientTransform='matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)' id='linearGradient19282' osb:paint='solid'>
-      <stop id='stop19284' offset='0' style='stop-color:#666666;stop-opacity:1;'/>
+  <defs
+     id="defs7386">
+    <linearGradient
+       id="linearGradient19282"
+       gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)">
+      <stop
+         id="stop19284"
+         style="stop-color:#666666;stop-opacity:1"
+         offset="0" />
     </linearGradient>
-    <linearGradient gradientTransform='matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)' id='linearGradient12335' osb:paint='solid'>
-      <stop id='stop12337' offset='0' style='stop-color:#666666;stop-opacity:1;'/>
+    <linearGradient
+       id="linearGradient12335"
+       gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)">
+      <stop
+         id="stop12337"
+         style="stop-color:#666666;stop-opacity:1"
+         offset="0" />
     </linearGradient>
-    <linearGradient gradientTransform='matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)' id='linearGradient12339' osb:paint='solid'>
-      <stop id='stop12341' offset='0' style='stop-color:#666666;stop-opacity:1;'/>
+    <linearGradient
+       id="linearGradient12339"
+       gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)">
+      <stop
+         id="stop12341"
+         style="stop-color:#666666;stop-opacity:1"
+         offset="0" />
     </linearGradient>
-    <linearGradient gradientTransform='matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,263.493,-969.46532)' id='linearGradient19282-9' osb:paint='solid'>
-      <stop id='stop19284-8' offset='0' style='stop-color:#666666;stop-opacity:1;'/>
+    <linearGradient
+       id="linearGradient19282-9"
+       gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,263.493,-969.46532)">
+      <stop
+         id="stop19284-8"
+         style="stop-color:#666666;stop-opacity:1"
+         offset="0" />
     </linearGradient>
-    <linearGradient gradientTransform='matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)' id='linearGradient21935' osb:paint='solid'>
-      <stop id='stop21937' offset='0' style='stop-color:#666666;stop-opacity:1;'/>
+    <linearGradient
+       id="linearGradient21935"
+       gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)">
+      <stop
+         id="stop21937"
+         style="stop-color:#666666;stop-opacity:1"
+         offset="0" />
     </linearGradient>
-    <linearGradient gradientTransform='matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)' id='linearGradient21939' osb:paint='solid'>
-      <stop id='stop21941' offset='0' style='stop-color:#666666;stop-opacity:1;'/>
+    <linearGradient
+       id="linearGradient21939"
+       gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)">
+      <stop
+         id="stop21941"
+         style="stop-color:#666666;stop-opacity:1"
+         offset="0" />
     </linearGradient>
-    <linearGradient gradientTransform='matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,263.493,-969.46532)' id='linearGradient19282-9-9' osb:paint='solid'>
-      <stop id='stop19284-8-1' offset='0' style='stop-color:#666666;stop-opacity:1;'/>
+    <linearGradient
+       id="linearGradient19282-9-9"
+       gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,263.493,-969.46532)">
+      <stop
+         id="stop19284-8-1"
+         style="stop-color:#666666;stop-opacity:1"
+         offset="0" />
     </linearGradient>
-    <linearGradient gradientTransform='matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,263.493,-969.46532)' id='linearGradient8782' osb:paint='solid'>
-      <stop id='stop8784' offset='0' style='stop-color:#666666;stop-opacity:1;'/>
+    <linearGradient
+       id="linearGradient8782"
+       gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,263.493,-969.46532)">
+      <stop
+         id="stop8784"
+         style="stop-color:#666666;stop-opacity:1"
+         offset="0" />
     </linearGradient>
   </defs>
-  <g inkscape:groupmode='layer' id='instruments' inkscape:label='instruments' transform='translate(-257.99981,-158.99999)'/>
-  <g inkscape:groupmode='layer' id='actions' inkscape:label='actions' style='display:inline' transform='translate(-292.99981,-178.99999)'>
-    
-    
-    <path inkscape:connector-curvature='0' d='m 293.99981,188.01281 0.5,0 1,0 0.5,0 0,-1 -0.5,0 -1,0 -0.5,0 z m 3,0 0.5,0 1,0 0.5,0 0,-1 -0.5,0 -1,0 -0.5,0 z m 3,0 0.5,0 1,0 0.5,0 0,-1 -0.5,0 -1,0 -0.5,0 z m 3,0 0.5,0 1,0 0.5,0 0,-1 -0.5,0 -1,0 -0.5,0 z m 3,0 0.5,0 1,0 0.5,0 0,-1 -0.5,0 -1,0 -0.5,0 z' id='path4282' style='font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans'/>
-    <path inkscape:connector-curvature='0' d='m 297.99941,184 0,0.99988 4.3439,0 c 0.2684,0 0.6561,0.4174 0.6562,0.65625 l 0,1.06262 -3.3746,0 c -0.6559,0 -1.2245,0.26766 -1.5938,0.6875 -0.3693,0.41984 -0.5358,0.95329 -0.5312,1.46875 0,0.51546 0.1636,1.02234 0.5312,1.4375 0.3676,0.41516 0.9452,0.6875 1.5938,0.6875 l 3.7183,0 0.6562,0 0,-0.75 0,-4.1875 c 0,-1.17527 -0.855,-2.0625 -2.0625,-2.0625 z m 1.25,4 c 0.4139,0 3.75,0 3.75,0 l 0,2 -3.75,0 c -0.3177,0 -0.7499,-0.34493 -0.7499,-1 0,-0.65507 0.336,-1 0.7499,-1 z' id='path4284' sodipodi:nodetypes='ccsscsscsscccssczccszz' style='font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans'/>
+  <g
+     transform="translate(-257.99981,-158.99999)"
+     id="instruments" />
+  <g
+     transform="translate(-292.99981,-178.99999)"
+     id="actions"
+     style="display:inline">
+    <path
+       d="m 293.99981,188.01281 0.5,0 1,0 0.5,0 0,-1 -0.5,0 -1,0 -0.5,0 z m 3,0 0.5,0 1,0 0.5,0 0,-1 -0.5,0 -1,0 -0.5,0 z m 3,0 0.5,0 1,0 0.5,0 0,-1 -0.5,0 -1,0 -0.5,0 z m 3,0 0.5,0 1,0 0.5,0 0,-1 -0.5,0 -1,0 -0.5,0 z m 3,0 0.5,0 1,0 0.5,0 0,-1 -0.5,0 -1,0 -0.5,0 z"
+       inkscape:connector-curvature="0"
+       id="path4282"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+    <path
+       d="m 297.99941,184 0,0.99988 4.3439,0 c 0.2684,0 0.6561,0.4174 0.6562,0.65625 l 0,1.06262 -3.3746,0 c -0.6559,0 -1.2245,0.26766 -1.5938,0.6875 -0.3693,0.41984 -0.5358,0.95329 -0.5312,1.46875 0,0.51546 0.1636,1.02234 0.5312,1.4375 0.3676,0.41516 0.9452,0.6875 1.5938,0.6875 l 3.7183,0 0.6562,0 0,-0.75 0,-4.1875 c 0,-1.17527 -0.855,-2.0625 -2.0625,-2.0625 z m 1.25,4 c 0.4139,0 3.75,0 3.75,0 l 0,2 -3.75,0 c -0.3177,0 -0.7499,-0.34493 -0.7499,-1 0,-0.65507 0.336,-1 0.7499,-1 z"
+       inkscape:connector-curvature="0"
+       id="path4284"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
   </g>
 </svg>
