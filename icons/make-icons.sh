@@ -5,7 +5,6 @@
 for f in ./*/actions/*.svg;
 	do inkscape -f $f --vacuum-defs -l $f;
 done
-inkscape:connector-curvature="0"
 
 sed -i 's/inkscape:connector-curvature="0"//g' ./16/actions/*
 sed -i 's/inkscape:connector-curvature="0"//g' ./24/actions/*
