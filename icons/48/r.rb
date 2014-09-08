@@ -29,7 +29,7 @@ def chopSVG(icon)
 				rect.remove
 			end
 		end
-		system("sed "s/<title id='[a-zA-Z1-9]*'>/<title>/g" dialog-question.svg")
+		system("awk '/metadata/{getline; while($0!~/metadata/) {getline}; getline}1' dialog-question.svg > #{icon[:file]}.tmp; rm #{icon[:file]}; mv #{icon[:file]}.tmp #{icon[:file]})
     icon_f = File.new(icon[:file],'w+')
     icon_f.puts svgcrop
     icon_f.close
