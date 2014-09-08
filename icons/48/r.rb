@@ -14,7 +14,6 @@ def chopSVG(icon)
 	unless (File.exists?(icon[:file]) && !icon[:forcerender])
 		FileUtils.cp(SRC,icon[:file]) 
 		puts " >> #{icon[:name]}"
-		cmd = "sed 's/font-variant:normal;//g'; sed 's/font-style:normal;//g'"
 		cmd = "#{INKSCAPE} -f #{icon[:file]} --select #{icon[:id]} --verb=FitCanvasToSelection  --verb=EditInvertInAllLayers "
 		cmd += "--verb=EditDelete --verb=EditSelectAll --verb=SelectionUnGroup --verb=SelectionUnGroup --verb=SelectionUnGroup --verb=StrokeToPath --verb=FileVacuum "
 		cmd += "--verb=FileSave --verb=FileClose > /dev/null 2>&1"
@@ -30,6 +29,7 @@ def chopSVG(icon)
 				rect.remove
 			end
 		end
+		system("sed "s/<title id='[a-zA-Z1-9]*'>/<title>/g" dialog-question.svg")
     icon_f = File.new(icon[:file],'w+')
     icon_f.puts svgcrop
     icon_f.close
