@@ -17,9 +17,6 @@ def chopSVG(icon)
 		cmd += "--verb=EditDelete --verb=EditSelectAll --verb=SelectionUnGroup --verb=SelectionUnGroup --verb=SelectionUnGroup --verb=StrokeToPath --verb=FileVacuum "
 		cmd += "--verb=FileSave --verb=FileClose > /dev/null 2>&1"
 		system(cmd)
-		#saving as plain SVG gets rid of the classes :/
-		cmd = "#{INKSCAPE} -f #{icon[:file]} -z --vacuum-defs -l #{icon[:file]} > /dev/null 2>&1"
-		system(cmd)
 		svgcrop = Document.new(File.new(icon[:file], 'r'))
 #!	should check opacity instead
 		svgcrop.root.each_element("//rect") do |rect| 
@@ -29,6 +26,9 @@ def chopSVG(icon)
 				rect.remove
 			end
 		end
+		#saving as plain SVG gets rid of the classes :/
+		cmd = "#{INKSCAPE} -f #{icon[:file]} -z --vacuum-defs -l #{icon[:file]} > /dev/null 2>&1"
+		system(cmd)
     icon_f = File.new(icon[:file],'w+')
     icon_f.puts svgcrop
     icon_f.close
