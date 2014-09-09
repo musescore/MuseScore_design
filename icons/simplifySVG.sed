@@ -8,7 +8,7 @@ s/font-size:[0-9\.a-z]*[ ]*[;\ ]//g
 s/font-stretch:[a-z]*[ ]*[;\ ]//g
 s/font-style:[a-z]*[ ]*[;\ ]//g
 s/font-variant:[a-z]*[ ]*[;\ ]//g
-s/font-weight:[0-9]*[ ]*[;\ ]//g
+s/font-weight:[0-9a-z]*[ ]*[;\ ]//g
 s/letter-spacing:[a-z]*[ ]*[;\ ]//g
 s/line-height:[0-9%]*[ ]*[;\ ]//g
 s/text-align:[a-z]*[ ]*[;\ ]//g
