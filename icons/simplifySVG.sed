@@ -18,3 +18,6 @@ s/text-indent:[a-z]*[ ]*[;\ ]//g
 s/text-transform:[a-z]*[ ]*[;\ ]//g
 s/word-spacing:[a-z]*[ ]*[;\ ]//g
 s/writing-mode:[a-z\-]*[ ]*[;\ ]//g
+
+#inkscape
+s/inkscape:connector-curvature=[\"0-9]*
