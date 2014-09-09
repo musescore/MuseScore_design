@@ -26,3 +26,4 @@ s/writing-mode:[a-z\-]*[ ]*[;\ ]//g
 
 #inkscape
 s/inkscape:connector-curvature=[\"0-9]*//g
+s/stroke:none;stroke-width:1;/stroke:none;/g
