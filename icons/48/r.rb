@@ -36,6 +36,7 @@ def chopSVG(icon)
     cmd += " | tr -d '\n' | tr -s ' '"
     cmd += " | sed 's/inkscape:[^ ]*//g' "
     cmd += " | sed 's/<!-- Created with Inkscape (http:\/\/www.inkscape.org\/) -->//'"
+    cmd += " | sed 's/font-variant:normal;//g' "
     cmd += " > #{icon[:file]}.tmp; mv -f #{icon[:file]}.tmp #{icon[:file]}"
 	system(cmd)
 	else
