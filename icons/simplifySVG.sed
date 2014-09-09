@@ -38,3 +38,6 @@ s/<!--.*-->//g
 s/<?xml version='1.0'[^>]>/<?xml version='1.0'?>/g
 s/<title id='title9167'>.*<\/title>//g
 s/<defs[^>]*>//g
+s/id=[\"'][^ ]*[\"'][ ]*//g
+
+<svg xmlns:cc='http://creativecommons.org/ns#' xmlns:dc='http://purl.org/dc/elements/1.1/' height='24' id='svg7384' xmlns:inkscape='http://www.inkscape.org/namespaces/inkscape' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:svg='http://www.w3.org/2000/svg' version='1.1' width='24' xmlns='http://www.w3.org/2000/svg'>
