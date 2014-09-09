@@ -50,8 +50,8 @@ if (ARGV[0].nil?)
   puts "\nno folder to export"
 else
   ARGV.each do |folder|
-  puts "Rendering from icons in #{folder}/#{SRC}"
         svg = Document.new(File.new($folder/SRC, 'r'))
+        puts "Rendering from icons in #{folder}/#{SRC}"
 	# Go through every layer.
 	svg.root.each_element("/svg/g[@inkscape:groupmode='layer']") do |context| 
 		context_name = context.attributes.get_attribute("id").value  
