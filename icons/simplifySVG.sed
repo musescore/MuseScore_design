@@ -1,5 +1,6 @@
 #text
 s/-inkscape-font-specification:[a-zA-Z0-9]*[ ]*[;\ ]//g
+s/-inkscape-font-specification:[a-zA-Z0-9]*\"/\"/g
 s/baseline-shift:[a-z]*[ ]*[;\ ]//g
 s/block-progression:[a-z]*[ ]*[;\ ]//g
 s/direction:[a-z]*[ ]*[;\ ]//g
