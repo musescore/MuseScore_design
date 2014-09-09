@@ -38,3 +38,4 @@ s/<!--.*-->//g
 s/<g[^>]*>//g
 s/<\/g>//g
 s/<?xml version='1.0'[^>]>/<?xml version='1.0'?>/g
+s/<title id='title9167'>.*<\/title>//g
