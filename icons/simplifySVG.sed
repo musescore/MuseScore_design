@@ -35,3 +35,5 @@ s/marker:none;//g
 s/visibility:visible;//g
 s/enable-background:accumulate;//g
 s/<!--.*-->//g
+s/<g[^>]*>//g
+s/<\/g>//g
