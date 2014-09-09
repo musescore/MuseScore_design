@@ -12,8 +12,8 @@ s/letter-spacing:[a-z]*[ ]*[;"]//g
 s/line-height:[0-9%]*[ ]*[;"]//g
 s/text-align:[a-z]*[ ]*[;"]//g
 s/text-anchor:[a-z]*[ ]*[;"]//g
+s/text-decoration:[a-z]*[ ]*[;"]//g
 s/text-indent:[a-z]*[ ]*[;"]//g
 s/text-transform:[a-z]*[ ]*[;"]//g
-s/text-decoration:[a-z]*[ ]*[;"]//g
 s/word-spacing:[a-z]*[ ]*[;"]//g
 s/writing-mode:[a-z\-]*[ ]*[;"]//g
