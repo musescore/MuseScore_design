@@ -1,3 +1,4 @@
+#text
 s/-inkscape-font-specification:[a-zA-Z0-9]*[ ]*[;"]//g
 s/baseline-shift:[a-z]*[ ]*[;"]//g
 s/block-progression:[a-z]*[ ]*[;"]//g
@@ -17,3 +18,6 @@ s/text-indent:[a-z]*[ ]*[;"]//g
 s/text-transform:[a-z]*[ ]*[;"]//g
 s/word-spacing:[a-z]*[ ]*[;"]//g
 s/writing-mode:[a-z\-]*[ ]*[;"]//g
+
+#inkscape
+s/inkscape:[^ ]*//g
