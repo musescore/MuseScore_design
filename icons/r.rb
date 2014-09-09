@@ -12,7 +12,7 @@ SRC = "src.svg"
 def chopSVG(icon)
 	FileUtils.mkdir_p(icon[:dir]) unless File.exists?(icon[:dir])
 	unless (File.exists?(icon[:file]) && !icon[:forcerender])
-		FileUtils.cp(SRC,icon[:file]) 
+		FileUtils.cp("icon[:dir]/../#{SRC}",icon[:file]) 
 		puts " >> #{icon[:name]}"
 		cmd = "#{INKSCAPE} -f #{icon[:file]} --select #{icon[:id]} --verb=FitCanvasToSelection  --verb=EditInvertInAllLayers "
 		cmd += "--verb=EditDelete --verb=EditSelectAll --verb=SelectionUnGroup --verb=SelectionUnGroup --verb=SelectionUnGroup --verb=StrokeToPath --verb=FileVacuum "
