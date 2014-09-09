@@ -33,7 +33,7 @@ def chopSVG(icon)
     icon_f.puts svgcrop
     icon_f.close
     cmd = "awk '/metadata/{getline; while($0!~/\\metadata\>/) {getline}; getline}1' #{icon[:file]}" 
-    cmd += " | tr -d '\n' | tr -s ' ' | sed -f simplifySVG.sed"
+    cmd += " | tr -d '\n' | sed -f simplifySVG.sed | tr -s ' ' | tr -s ';' "
     cmd += " > #{icon[:file]}.tmp; mv -f #{icon[:file]}.tmp #{icon[:file]}"
 	system(cmd)
 	else
