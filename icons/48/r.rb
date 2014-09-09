@@ -34,7 +34,6 @@ def chopSVG(icon)
     icon_f.close
     cmd = "awk '/metadata/{getline; while($0!~/\\metadata\>/) {getline}; getline}1' #{icon[:file]}" 
     cmd += " | tr -d '\n' | tr -s ' '"
-    cmd += " | sed 's/inkscape:[^ ]*//g' "
 #    cmd += " | sed 's/<!-- Created with Inkscape (http:\/\/www.inkscape.org\/) -->//'"
     cmd += " > #{icon[:file]}.tmp; mv -f #{icon[:file]}.tmp #{icon[:file]}"
 	system(cmd)
