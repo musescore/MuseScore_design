@@ -29,13 +29,11 @@ def chopSVG(icon)
 				rect.remove
 			end
 		end
-		cmd = "awk '/metadata/{getline; while($0!~/\\metadata\>/) {getline}; getline}1' #{icon[:file]} | tr -d '\n' | tr -s ' ' > #{icon[:file]}.tmp "
-		system(cmd)
-		cmd = "mv -f #{icon[:file]}.tmp #{icon[:file]}"
-		system(cmd)
     icon_f = File.new(icon[:file],'w+')
     icon_f.puts svgcrop
     icon_f.close
+    cmd = "awk '/metadata/{getline; while($0!~/\\metadata\>/) {getline}; getline}1' #{icon[:file]} | tr -d '\n' | tr -s ' ' > #{icon[:file]}.tmp "
+	system(cmd)
 	else
 		puts " -- #{icon[:name]} already exists"
 	end
