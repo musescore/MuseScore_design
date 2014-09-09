@@ -27,5 +27,7 @@ s/writing-mode:[a-z\-]*[ ]*[;\ ]//g
 #misc
 s/display:[a-z]*[ ]*[;\ ]//g
 s/inkscape:connector-curvature=[\"0-9]*//g
-s/stroke:none;stroke-width:[0-9];/stroke:none;/g
+s/stroke:none;stroke-width:[0-9];//g
+s/stroke:none//g
+s/fill-opacity:1;//g
 s/overflow:[a-z]*[ ]*[;\ ]//g
