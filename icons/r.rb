@@ -7,7 +7,7 @@ include REXML
 
 INKSCAPE = '/usr/bin/inkscape'
 #INKSCAPE = '/usr/bin/inkscape' # like this works for me, while using `which` inkscape hangs
-#SRC = "src.svg"
+SRC = "src.svg"
 
 def chopSVG(icon)
 	FileUtils.mkdir_p(icon[:dir]) unless File.exists?(icon[:dir])
@@ -45,13 +45,13 @@ end #end of function
 
 #main
 # Open SVG file.
-svg = Document.new(File.new(SRC, 'r'))
 
 if (ARGV[0].nil?)
   puts "\nno folder to export"
 else
   ARGV.each do |folder|
   puts "Rendering from icons in #{folder}/#{SRC}"
+        svg = Document.new(File.new($folder/SRC, 'r'))
 	# Go through every layer.
 	svg.root.each_element("/svg/g[@inkscape:groupmode='layer']") do |context| 
 		context_name = context.attributes.get_attribute("id").value  
