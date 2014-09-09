@@ -31,3 +31,6 @@ s/stroke:none;stroke-width:[0-9];//g
 s/stroke:none//g
 s/fill-opacity:1;//g
 s/overflow:[a-z]*[ ]*[;\ ]//g
+s/marker:none;//g
+s/visibility:visible;//g
+s/enable-background:accumulate;//g
