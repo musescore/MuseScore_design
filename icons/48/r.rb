@@ -29,7 +29,7 @@ def chopSVG(icon)
 				rect.remove
 			end
 		end
-		cmd = "awk '/metadata/{getline; while($0!~/\\metadata\>/) {getline}; getline}1' #{icon[:file]}"
+		cmd = "awk '/metadata/{getline; while($0!~/\\metadata\>/) {getline}; getline}1' #{icon[:file]} > #{icon[:file]}.tmp"
 		system(cmd)
     icon_f = File.new(icon[:file],'w+')
     icon_f.puts svgcrop
