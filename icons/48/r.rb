@@ -48,7 +48,9 @@ end #end of function
 svg = Document.new(File.new(SRC, 'r'))
 
 if (ARGV[0].nil?) #render all SVGs
-  puts "Rendering from icons in #{SRC}"
+  puts "\nno folder to export"
+else #only render the icons passed
+puts "Rendering from icons in #{SRC}"
 	# Go through every layer.
 	svg.root.each_element("/svg/g[@inkscape:groupmode='layer']") do |context| 
 		context_name = context.attributes.get_attribute("id").value  
@@ -64,16 +66,4 @@ if (ARGV[0].nil?) #render all SVGs
 		end
 	end
   puts "\nrendered all SVGs"
-else #only render the icons passed
-  icons = ARGV
-  ARGV.each do |icon_name|
-  	icon = svg.root.elements["//g[@id='#{icon_name}']"]
-  	dir = "#{icon.parent.attributes['id']}"
-		chopSVG({	:name => icon_name,
-		 					:id => icon.attributes["id"],
-		 					:dir => dir,
-		 					:file => "#{dir}/#{icon_name}.svg",
-		 					:forcerender => true})
-	end
-  puts "\nrendered #{ARGV.length} icons"
 end
