@@ -36,7 +36,6 @@ def chopSVG(icon)
     cmd += " | tr -d '\n' | tr -s ' ' | sed -f simplifySVG.sed"
     cmd += " > #{icon[:file]}.tmp; mv -f #{icon[:file]}.tmp #{icon[:file]}"
 	system(cmd)
-	system("")
 	else
 		puts " -- #{icon[:name]} already exists"
 	end
