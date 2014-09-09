@@ -24,6 +24,7 @@ s/text-transform:[a-z]*[ ]*[;\ ]//g
 s/word-spacing:[a-z]*[ ]*[;\ ]//g
 s/writing-mode:[a-z\-]*[ ]*[;\ ]//g
 
-#inkscape
+#misc
 s/inkscape:connector-curvature=[\"0-9]*//g
 s/stroke:none;stroke-width:[0-9];/stroke:none;/g
+s/overflow:[a-z\-]*[ ]*[;\ ]//g
