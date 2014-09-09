@@ -37,3 +37,4 @@ s/enable-background:accumulate;//g
 s/<!--.*-->//g
 s/<g[^>]*>//g
 s/<\/g>//g
+s/<?xml version='1.0'[^>]>/<?xml version="1.0"?>/g
