@@ -631,7 +631,7 @@
          id="path10839-3"
          transform="translate(-21,161)"
          d="m 69,358.03125 c -3.85327,0 -6.96875,3.11547 -6.96875,6.96875 0,3.85327 3.11548,6.96875 6.96875,6.96875 3.85327,0 6.96875,-3.11548 6.96875,-6.96875 0,-3.85328 -3.11548,-6.96875 -6.96875,-6.96875 z M 65,364 l 8,0 0,2 -8,0 0,-2 z"
-         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#bebebe;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78124988;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
+         style="fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;" />
     </g>
   </g>
 </svg>
