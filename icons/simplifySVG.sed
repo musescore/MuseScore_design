@@ -38,7 +38,7 @@ s/ry="0"//g
 s/id=[\"'][^ ]*[\"'][ ]*//g
 s/xmlns:[^ ]*//g
 s/standalone='no'//g
-s/<title id='title9167'>.*<\/title>//g
+s/<title.*<\/title>//g
 
 #finishing cleanup
 s/style=''//g
