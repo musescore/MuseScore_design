@@ -1,49 +1,49 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   width="16"
-   height="16.000017"
-   id="svg7384">
-  <title
-     id="title9167">MuseScore Icon Theme</title>
-  <metadata
-     id="metadata90">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>MuseScore Icon Theme</dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs7386" />
-  <g
-     transform="translate(-257.99979,-214.99998)"
-     id="instruments" />
-  <g
-     transform="translate(-292.99979,-234.99998)"
-     id="actions"
-     style="display:inline">
-    <path
-       d="m 300.99972,235 1.99918,0 0,11.11266 -1.99918,0 z"
-       
-       id="use4354-4-5-2"
-       style="color:#000000;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.50800002;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
-    <path
-       d="m 301.3125,245.46875 c -1.54383,1e-5 -2.81907,0.36001 -3.8125,1.03125 -0.46985,0.32218 -0.82526,0.7753 -1.09375,1.40625 -0.26849,0.61753 -0.40625,1.1864 -0.40625,1.65625 0,0.96657 0.55984,1.4375 1.6875,1.4375 1.53038,0 2.78781,-0.32877 3.78125,-1 0.46984,-0.3222 0.8565,-0.80653 1.125,-1.4375 0.26849,-0.63094 0.40624,-1.18639 0.40625,-1.65625 0.0107,-0.4163 0,-0.96875 0,-0.96875 0,0 -0.55286,-0.1798 -0.65625,-0.25 -0.25507,-0.13421 -0.60166,-0.21874 -1.03125,-0.21875 z m 0.1875,1.09375 c 0.13329,1e-5 0.16057,0.0119 0.25,0.0937 0.0713,0.0595 0.11862,0.11643 0.125,0.21875 l 0,0.0625 c 0,0.1254 -0.0144,0.13152 -0.0937,0.21875 -0.19932,0.23556 -0.9807,0.87384 -2.1875,1.65625 -0.59266,0.38192 -1.06398,0.66016 -1.4375,0.84375 -0.1836,0.0902 -0.34434,0.14429 -0.46875,0.1875 -0.1244,0.0432 -0.23602,0.0625 -0.21875,0.0625 -0.14146,0 -0.14259,0.006 -0.25,-0.0937 -0.084,-0.0839 -0.125,-0.17125 -0.125,-0.28125 0,-0.0659 0.0124,-0.0857 0.125,-0.21875 0.19405,-0.22934 0.99267,-0.85499 2.1875,-1.625 0.59502,-0.39008 1.06877,-0.69066 1.4375,-0.875 0.18488,-0.0925 0.35211,-0.14493 0.46875,-0.1875 0.11663,-0.0425 0.20415,-0.0625 0.1875,-0.0625 z"
-       
-       id="path8816-4"
-       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#666666;fill-opacity:1;stroke:none;font-family:MScore1;-inkscape-font-specification:MScore1" />
-  </g>
+ 
+ 
+ 
+ 
+ xmlns="http://www.w3.org/2000/svg"
+ 
+ version="1.1"
+ width="16"
+ height="16.000017"
+ >
+ <title
+ >MuseScore Icon Theme</title>
+ <metadata
+ >
+ <rdf:RDF>
+ <cc:Work
+ rdf:about="">
+ <dc:format>image/svg+xml</dc:format>
+ <dc:type
+ rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+ <dc:title>MuseScore Icon Theme</dc:title>
+ </cc:Work>
+ </rdf:RDF>
+ </metadata>
+ <defs
+ />
+ <g
+ transform="translate(-257.99979,-214.99998)"
+ />
+ <g
+ transform="translate(-292.99979,-234.99998)"
+ 
+ style="">
+ <path
+ d="m 300.99972,235 1.99918,0 0,11.11266 -1.99918,0 z"
+ 
+ 
+ style="fill:#666666;fill-rule:nonzero;stroke-width:1.50800002;enable-background:new" />
+ <path
+ d="m 301.3125,245.46875 c -1.54383,1e-5 -2.81907,0.36001 -3.8125,1.03125 -0.46985,0.32218 -0.82526,0.7753 -1.09375,1.40625 -0.26849,0.61753 -0.40625,1.1864 -0.40625,1.65625 0,0.96657 0.55984,1.4375 1.6875,1.4375 1.53038,0 2.78781,-0.32877 3.78125,-1 0.46984,-0.3222 0.8565,-0.80653 1.125,-1.4375 0.26849,-0.63094 0.40624,-1.18639 0.40625,-1.65625 0.0107,-0.4163 0,-0.96875 0,-0.96875 0,0 -0.55286,-0.1798 -0.65625,-0.25 -0.25507,-0.13421 -0.60166,-0.21874 -1.03125,-0.21875 z m 0.1875,1.09375 c 0.13329,1e-5 0.16057,0.0119 0.25,0.0937 0.0713,0.0595 0.11862,0.11643 0.125,0.21875 l 0,0.0625 c 0,0.1254 -0.0144,0.13152 -0.0937,0.21875 -0.19932,0.23556 -0.9807,0.87384 -2.1875,1.65625 -0.59266,0.38192 -1.06398,0.66016 -1.4375,0.84375 -0.1836,0.0902 -0.34434,0.14429 -0.46875,0.1875 -0.1244,0.0432 -0.23602,0.0625 -0.21875,0.0625 -0.14146,0 -0.14259,0.006 -0.25,-0.0937 -0.084,-0.0839 -0.125,-0.17125 -0.125,-0.28125 0,-0.0659 0.0124,-0.0857 0.125,-0.21875 0.19405,-0.22934 0.99267,-0.85499 2.1875,-1.625 0.59502,-0.39008 1.06877,-0.69066 1.4375,-0.875 0.18488,-0.0925 0.35211,-0.14493 0.46875,-0.1875 0.11663,-0.0425 0.20415,-0.0625 0.1875,-0.0625 z"
+ 
+ 
+ style="fill:#666666" />
+ </g>
 </svg>

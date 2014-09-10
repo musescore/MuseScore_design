@@ -1,59 +1,59 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   width="16"
-   height="16"
-   id="svg7384">
-  <title
-     id="title9167">MuseScore Icon Theme</title>
-  <metadata
-     id="metadata90">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>MuseScore Icon Theme</dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs7386" />
-  <g
-     transform="translate(-117.99982,-331.3137)"
-     id="instruments">
-    <path
-       d="m 131.45647,341.14889 c 0,0 0.57632,0.38366 1.13861,0.233 0.56229,-0.15066 1.56854,-0.84 1.38201,-1.53616 -0.18654,-0.69617 -1.37588,-0.79719 -1.96494,-0.63936 -0.58906,0.15784 -0.86956,0.77109 -0.86956,0.77109 z"
-       
-       id="path5614"
-       style="fill:#666666;fill-opacity:1;stroke:none" />
-    <path
-       d="m 131.14259,339.97746 c 0,0 -7.09448,1.54224 -9.46113,2.17638 -2.36664,0.63414 -3.68164,0.98649 -3.68164,0.98649 l 0.49325,1.84082 c 0,0 1.31499,-0.35235 3.68164,-0.98649 2.36664,-0.63414 9.28176,-2.84577 9.28176,-2.84577 z"
-       
-       id="path5616"
-       style="fill:#666666;fill-opacity:1;stroke:none" />
-    <path
-       d="m 124.16463,333.85705 c 0,0 -0.38366,-0.57632 -0.233,-1.13861 0.15066,-0.56229 0.84,-1.56854 1.53616,-1.38201 0.69617,0.18654 0.79719,1.37588 0.63936,1.96494 -0.15784,0.58906 -0.77109,0.86956 -0.77109,0.86956 z"
-       
-       id="path5630"
-       style="fill:#666666;fill-opacity:1;stroke:none" />
-    <path
-       d="m 125.33606,334.17093 c 0,0 -1.54224,7.09448 -2.17638,9.46113 -0.63414,2.36664 -0.98649,3.68164 -0.98649,3.68164 l -1.84082,-0.49325 c 0,0 0.35235,-1.31499 0.98649,-3.68164 0.63414,-2.36664 2.84577,-9.28176 2.84577,-9.28176 z"
-       
-       id="path5632"
-       style="fill:#666666;fill-opacity:1;stroke:none" />
-  </g>
-  <g
-     transform="translate(-152.99982,-351.3137)"
-     id="actions"
-     style="display:inline" />
+ 
+ 
+ 
+ 
+ xmlns="http://www.w3.org/2000/svg"
+ 
+ version="1.1"
+ width="16"
+ height="16"
+ >
+ <title
+ >MuseScore Icon Theme</title>
+ <metadata
+ >
+ <rdf:RDF>
+ <cc:Work
+ rdf:about="">
+ <dc:format>image/svg+xml</dc:format>
+ <dc:type
+ rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+ <dc:title>MuseScore Icon Theme</dc:title>
+ </cc:Work>
+ </rdf:RDF>
+ </metadata>
+ <defs
+ />
+ <g
+ transform="translate(-117.99982,-331.3137)"
+ >
+ <path
+ d="m 131.45647,341.14889 c 0,0 0.57632,0.38366 1.13861,0.233 0.56229,-0.15066 1.56854,-0.84 1.38201,-1.53616 -0.18654,-0.69617 -1.37588,-0.79719 -1.96494,-0.63936 -0.58906,0.15784 -0.86956,0.77109 -0.86956,0.77109 z"
+ 
+ 
+ style="fill:#666666" />
+ <path
+ d="m 131.14259,339.97746 c 0,0 -7.09448,1.54224 -9.46113,2.17638 -2.36664,0.63414 -3.68164,0.98649 -3.68164,0.98649 l 0.49325,1.84082 c 0,0 1.31499,-0.35235 3.68164,-0.98649 2.36664,-0.63414 9.28176,-2.84577 9.28176,-2.84577 z"
+ 
+ 
+ style="fill:#666666" />
+ <path
+ d="m 124.16463,333.85705 c 0,0 -0.38366,-0.57632 -0.233,-1.13861 0.15066,-0.56229 0.84,-1.56854 1.53616,-1.38201 0.69617,0.18654 0.79719,1.37588 0.63936,1.96494 -0.15784,0.58906 -0.77109,0.86956 -0.77109,0.86956 z"
+ 
+ 
+ style="fill:#666666" />
+ <path
+ d="m 125.33606,334.17093 c 0,0 -1.54224,7.09448 -2.17638,9.46113 -0.63414,2.36664 -0.98649,3.68164 -0.98649,3.68164 l -1.84082,-0.49325 c 0,0 0.35235,-1.31499 0.98649,-3.68164 0.63414,-2.36664 2.84577,-9.28176 2.84577,-9.28176 z"
+ 
+ 
+ style="fill:#666666" />
+ </g>
+ <g
+ transform="translate(-152.99982,-351.3137)"
+ 
+ style="" />
 </svg>

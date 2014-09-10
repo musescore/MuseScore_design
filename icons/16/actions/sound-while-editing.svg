@@ -1,143 +1,143 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   width="16"
-   height="16"
-   id="svg7384">
-  <title
-     id="title9167">MuseScore Icon Theme</title>
-  <metadata
-     id="metadata90">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>MuseScore Icon Theme</dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs7386">
-    <linearGradient
-       id="linearGradient19282"
-       gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)">
-      <stop
-         id="stop19284"
-         style="stop-color:#666666;stop-opacity:1"
-         offset="0" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient12335"
-       gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)">
-      <stop
-         id="stop12337"
-         style="stop-color:#666666;stop-opacity:1"
-         offset="0" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient12339"
-       gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)">
-      <stop
-         id="stop12341"
-         style="stop-color:#666666;stop-opacity:1"
-         offset="0" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient19282-9"
-       gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,263.493,-969.46532)">
-      <stop
-         id="stop19284-8"
-         style="stop-color:#666666;stop-opacity:1"
-         offset="0" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient21935"
-       gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)">
-      <stop
-         id="stop21937"
-         style="stop-color:#666666;stop-opacity:1"
-         offset="0" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient21939"
-       gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)">
-      <stop
-         id="stop21941"
-         style="stop-color:#666666;stop-opacity:1"
-         offset="0" />
-    </linearGradient>
-    <clipPath
-       id="clipPath6279-7-9-1-0">
-      <rect
-         width="3.8250003"
-         height="6.3750005"
-         x="26.85"
-         y="220.75"
-         id="rect6281-1-9-1-6"
-         style="color:#bebebe;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible" />
-    </clipPath>
-    <clipPath
-       id="clipPath6265-3-4-1-7">
-      <rect
-         width="2.8977277"
-         height="5.21591"
-         x="26.96591"
-         y="221.32954"
-         id="rect6267-1-9-4-9"
-         style="color:#bebebe;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible" />
-    </clipPath>
-    <linearGradient
-       id="linearGradient19282-9-9"
-       gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,263.493,-969.46532)">
-      <stop
-         id="stop19284-8-1"
-         style="stop-color:#666666;stop-opacity:1"
-         offset="0" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient8782"
-       gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,263.493,-969.46532)">
-      <stop
-         id="stop8784"
-         style="stop-color:#666666;stop-opacity:1"
-         offset="0" />
-    </linearGradient>
-  </defs>
-  <g
-     transform="translate(-313.99979,-104)"
-     id="instruments" />
-  <g
-     transform="translate(-348.99979,-124)"
-     id="actions"
-     style="display:inline">
-    <path
-       d="m 350.99979,129 2.48438,0 2.96875,-3 0.54687,0.0156 0,11 -0.4753,8.3e-4 -3.04032,-3.01643 -2.48438,0 0,-5 z"
-       
-       id="path5533"
-       style="color:#bebebe;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible" />
-    <path
-       d="m 26.9375,220.40625 a 1.2751275,1.2751275 0 0 0 -0.65625,2.1875 c 0.757556,0.75756 0.757556,1.92994 0,2.6875 a 1.281631,1.281631 0 1 0 1.8125,1.8125 c 1.732036,-1.73204 1.732036,-4.58046 0,-6.3125 a 1.2751275,1.2751275 0 0 0 -1.15625,-0.375 z"
-       
-       transform="matrix(0.784314,0,0,0.784314,336.94097,-44.137201)"
-       clip-path="url(#clipPath6279-7-9-1-0)"
-       id="path3718-5"
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#666666;fill-opacity:1;stroke:none;stroke-width:2.54999995;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
-    <path
-       d="m 27.125,221.09375 a 0.57960298,0.57960298 0 0 0 -0.34375,1 c 1.023324,1.02332 1.023324,2.66418 0,3.6875 a 0.57960298,0.57960298 0 1 0 0.8125,0.8125 c 1.466269,-1.46627 1.466269,-3.84623 0,-5.3125 a 0.57960298,0.57960298 0 0 0 -0.46875,-0.1875 z"
-       
-       transform="matrix(1.72549,0,0,1.72549,313.47039,-254.902)"
-       clip-path="url(#clipPath6265-3-4-1-7)"
-       id="path3726-1"
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1.15909004;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
-  </g>
+ 
+ 
+ 
+ 
+ xmlns="http://www.w3.org/2000/svg"
+ 
+ version="1.1"
+ width="16"
+ height="16"
+ >
+ <title
+ >MuseScore Icon Theme</title>
+ <metadata
+ >
+ <rdf:RDF>
+ <cc:Work
+ rdf:about="">
+ <dc:format>image/svg+xml</dc:format>
+ <dc:type
+ rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+ <dc:title>MuseScore Icon Theme</dc:title>
+ </cc:Work>
+ </rdf:RDF>
+ </metadata>
+ <defs
+ >
+ <linearGradient
+ 
+ gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)">
+ <stop
+ 
+ style="stop-;stop-opacity:1"
+ offset="0" />
+ </linearGradient>
+ <linearGradient
+ 
+ gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)">
+ <stop
+ 
+ style="stop-;stop-opacity:1"
+ offset="0" />
+ </linearGradient>
+ <linearGradient
+ 
+ gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)">
+ <stop
+ 
+ style="stop-;stop-opacity:1"
+ offset="0" />
+ </linearGradient>
+ <linearGradient
+ 
+ gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,263.493,-969.46532)">
+ <stop
+ 
+ style="stop-;stop-opacity:1"
+ offset="0" />
+ </linearGradient>
+ <linearGradient
+ 
+ gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)">
+ <stop
+ 
+ style="stop-;stop-opacity:1"
+ offset="0" />
+ </linearGradient>
+ <linearGradient
+ 
+ gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)">
+ <stop
+ 
+ style="stop-;stop-opacity:1"
+ offset="0" />
+ </linearGradient>
+ <clipPath
+ >
+ <rect
+ width="3.8250003"
+ height="6.3750005"
+ x="26.85"
+ y="220.75"
+ 
+ style="fill:#bebebe;fill-rule:nonzero;stroke-width:2" />
+ </clipPath>
+ <clipPath
+ >
+ <rect
+ width="2.8977277"
+ height="5.21591"
+ x="26.96591"
+ y="221.32954"
+ 
+ style="fill:#bebebe;fill-rule:nonzero;stroke-width:2" />
+ </clipPath>
+ <linearGradient
+ 
+ gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,263.493,-969.46532)">
+ <stop
+ 
+ style="stop-;stop-opacity:1"
+ offset="0" />
+ </linearGradient>
+ <linearGradient
+ 
+ gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,263.493,-969.46532)">
+ <stop
+ 
+ style="stop-;stop-opacity:1"
+ offset="0" />
+ </linearGradient>
+ </defs>
+ <g
+ transform="translate(-313.99979,-104)"
+ />
+ <g
+ transform="translate(-348.99979,-124)"
+ 
+ style="">
+ <path
+ d="m 350.99979,129 2.48438,0 2.96875,-3 0.54687,0.0156 0,11 -0.4753,8.3e-4 -3.04032,-3.01643 -2.48438,0 0,-5 z"
+ 
+ 
+ style="fill:#666666;fill-rule:nonzero;stroke-width:1" />
+ <path
+ d="m 26.9375,220.40625 a 1.2751275,1.2751275 0 0 0 -0.65625,2.1875 c 0.757556,0.75756 0.757556,1.92994 0,2.6875 a 1.281631,1.281631 0 1 0 1.8125,1.8125 c 1.732036,-1.73204 1.732036,-4.58046 0,-6.3125 a 1.2751275,1.2751275 0 0 0 -1.15625,-0.375 z"
+ 
+ transform="matrix(0.784314,0,0,0.784314,336.94097,-44.137201)"
+ clip-path="url(#clipPath6279-7-9-1-0)"
+ 
+ style="fill:#666666;stroke-width:2.54999995" />
+ <path
+ d="m 27.125,221.09375 a 0.57960298,0.57960298 0 0 0 -0.34375,1 c 1.023324,1.02332 1.023324,2.66418 0,3.6875 a 0.57960298,0.57960298 0 1 0 0.8125,0.8125 c 1.466269,-1.46627 1.466269,-3.84623 0,-5.3125 a 0.57960298,0.57960298 0 0 0 -0.46875,-0.1875 z"
+ 
+ transform="matrix(1.72549,0,0,1.72549,313.47039,-254.902)"
+ clip-path="url(#clipPath6265-3-4-1-7)"
+ 
+ style="fill:#666666;stroke-width:1.15909004" />
+ </g>
 </svg>

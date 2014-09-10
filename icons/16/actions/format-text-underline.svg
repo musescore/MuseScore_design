@@ -1,49 +1,49 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   width="16"
-   height="16"
-   id="svg7384">
-  <title
-     id="title9167">MuseScore Icon Theme</title>
-  <metadata
-     id="metadata90">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>MuseScore Icon Theme</dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs7386" />
-  <g
-     transform="translate(-61.999814,-158.99999)"
-     id="instruments" />
-  <g
-     transform="translate(-96.999814,-178.99999)"
-     id="actions"
-     style="display:inline">
-    <path
-       d="m 101,181 0,2 6,0 c 0.42816,0 1,0.61414 1,1 l 0,1 -5,0 c -0.91927,0 -1.7356,0.38396 -2.25,0.96875 -0.5144,0.58479 -0.756392,1.31063 -0.75,2.03125 0.006,0.72062 0.26893,1.45271 0.78125,2.03125 C 101.29357,190.60979 102.09172,191 103,191 l 6,0 1,0 0,-1 0,-6 c 0,-1.63434 -1.3198,-3 -3,-3 l -6,0 z m 2,6 5,0 0,2 -5,0 c -0.39787,0 -0.56691,-0.10979 -0.71875,-0.28125 C 102.12941,188.54729 102.00248,188.27938 102,188 c -0.002,-0.27938 0.10467,-0.55354 0.25,-0.71875 C 102.39533,187.11604 102.57764,187 103,187 z"
-       
-       id="path11643-3-2-9"
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#666666;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
-    <path
-       d="m 99,192 0,2 12,0 0,-2 -12,0 z"
-       
-       id="path5100-8"
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#666666;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
-  </g>
+ 
+ 
+ 
+ 
+ xmlns="http://www.w3.org/2000/svg"
+ 
+ version="1.1"
+ width="16"
+ height="16"
+ >
+ <title
+ >MuseScore Icon Theme</title>
+ <metadata
+ >
+ <rdf:RDF>
+ <cc:Work
+ rdf:about="">
+ <dc:format>image/svg+xml</dc:format>
+ <dc:type
+ rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+ <dc:title>MuseScore Icon Theme</dc:title>
+ </cc:Work>
+ </rdf:RDF>
+ </metadata>
+ <defs
+ />
+ <g
+ transform="translate(-61.999814,-158.99999)"
+ />
+ <g
+ transform="translate(-96.999814,-178.99999)"
+ 
+ style="">
+ <path
+ d="m 101,181 0,2 6,0 c 0.42816,0 1,0.61414 1,1 l 0,1 -5,0 c -0.91927,0 -1.7356,0.38396 -2.25,0.96875 -0.5144,0.58479 -0.756392,1.31063 -0.75,2.03125 0.006,0.72062 0.26893,1.45271 0.78125,2.03125 C 101.29357,190.60979 102.09172,191 103,191 l 6,0 1,0 0,-1 0,-6 c 0,-1.63434 -1.3198,-3 -3,-3 l -6,0 z m 2,6 5,0 0,2 -5,0 c -0.39787,0 -0.56691,-0.10979 -0.71875,-0.28125 C 102.12941,188.54729 102.00248,188.27938 102,188 c -0.002,-0.27938 0.10467,-0.55354 0.25,-0.71875 C 102.39533,187.11604 102.57764,187 103,187 z"
+ 
+ 
+ style="fill:#666666;stroke-width:2" />
+ <path
+ d="m 99,192 0,2 12,0 0,-2 -12,0 z"
+ 
+ 
+ style="fill:#666666;stroke-width:2" />
+ </g>
 </svg>

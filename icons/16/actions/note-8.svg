@@ -1,119 +1,119 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   width="16"
-   height="16"
-   id="svg7384">
-  <title
-     id="title9167">MuseScore Icon Theme</title>
-  <metadata
-     id="metadata90">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>MuseScore Icon Theme</dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs7386">
-    <linearGradient
-       id="linearGradient19282"
-       gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)">
-      <stop
-         id="stop19284"
-         style="stop-color:#666666;stop-opacity:1"
-         offset="0" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient12335"
-       gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)">
-      <stop
-         id="stop12337"
-         style="stop-color:#666666;stop-opacity:1"
-         offset="0" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient12339"
-       gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)">
-      <stop
-         id="stop12341"
-         style="stop-color:#666666;stop-opacity:1"
-         offset="0" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient19282-9"
-       gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,263.493,-969.46532)">
-      <stop
-         id="stop19284-8"
-         style="stop-color:#666666;stop-opacity:1"
-         offset="0" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient21935"
-       gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)">
-      <stop
-         id="stop21937"
-         style="stop-color:#666666;stop-opacity:1"
-         offset="0" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient21939"
-       gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)">
-      <stop
-         id="stop21941"
-         style="stop-color:#666666;stop-opacity:1"
-         offset="0" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient19282-9-9"
-       gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,263.493,-969.46532)">
-      <stop
-         id="stop19284-8-1"
-         style="stop-color:#666666;stop-opacity:1"
-         offset="0" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient8782"
-       gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,263.493,-969.46532)">
-      <stop
-         id="stop8784"
-         style="stop-color:#666666;stop-opacity:1"
-         offset="0" />
-    </linearGradient>
-  </defs>
-  <g
-     transform="translate(-201.99979,-215)"
-     id="instruments" />
-  <g
-     transform="translate(-236.99979,-235)"
-     id="actions"
-     style="display:inline">
-    <path
-       d="m 244.00576,245.97581 c -0.97331,0 -1.88428,0.35634 -2.73294,1.06898 -0.84867,0.71265 -1.273,1.47875 -1.273,2.29829 0,0.49886 0.18398,0.89972 0.55193,1.2026 0.36795,0.30287 0.84866,0.45431 1.44214,0.45431 0.9733,0 1.88426,-0.35632 2.73293,-1.06897 0.84867,-0.71265 1.273,-1.47875 1.273,-2.29829 0,-0.49886 -0.18397,-0.89972 -0.55193,-1.20259 -0.36795,-0.30288 -0.84867,-0.45433 -1.44213,-0.45433"
-       
-       id="path3633"
-       style="font-size:83.33329773px;font-style:normal;font-weight:400;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:MScore" />
-    <path
-       d="m 245.99981,235.00745 0,4.33591 c 0.45209,0.47277 0.84613,0.93579 1.14842,1.28905 0.33245,0.38844 0.69794,1.01903 1.03125,1.66406 0.32627,0.63141 0.49216,1.27002 0.49219,1.78123 -3e-5,1.03266 -0.22914,2.17636 -0.70313,3.28124 -0.10979,0.31947 -0.29862,0.58924 -0.47167,0.87304 0,0 0.25267,-0.0879 0.28417,-0.0996 0.47941,-0.17856 0.81981,-0.32384 1.05468,-0.5625 0.25034,-0.25434 0.41135,-0.60039 0.5625,-1.10156 0.21265,-0.79251 0.32813,-1.5569 0.32813,-2.3203 0,-0.64558 -0.14416,-1.32903 -0.39844,-1.99217 -0.25139,-0.6556 -0.54911,-1.25086 -0.91406,-1.82811 l -1.05468,-1.68749 c -0.3422,-0.54781 -0.67134,-1.11726 -0.91406,-1.7578 -0.18108,-0.64941 -0.26353,-0.63678 -0.4453,-1.875 z"
-       
-       id="path6298-8-4"
-       style="font-size:83.33329773px;font-style:normal;font-weight:400;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;font-family:MScore" />
-    <path
-       d="m 244.00065,235.00745 1.99918,0 0,12.83131 -1.99918,0 z"
-       
-       id="use4354-4-31"
-       style="color:#000000;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.50800002;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new" />
-  </g>
+ 
+ 
+ 
+ 
+ xmlns="http://www.w3.org/2000/svg"
+ 
+ version="1.1"
+ width="16"
+ height="16"
+ >
+ <title
+ >MuseScore Icon Theme</title>
+ <metadata
+ >
+ <rdf:RDF>
+ <cc:Work
+ rdf:about="">
+ <dc:format>image/svg+xml</dc:format>
+ <dc:type
+ rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+ <dc:title>MuseScore Icon Theme</dc:title>
+ </cc:Work>
+ </rdf:RDF>
+ </metadata>
+ <defs
+ >
+ <linearGradient
+ 
+ gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)">
+ <stop
+ 
+ style="stop-;stop-opacity:1"
+ offset="0" />
+ </linearGradient>
+ <linearGradient
+ 
+ gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)">
+ <stop
+ 
+ style="stop-;stop-opacity:1"
+ offset="0" />
+ </linearGradient>
+ <linearGradient
+ 
+ gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)">
+ <stop
+ 
+ style="stop-;stop-opacity:1"
+ offset="0" />
+ </linearGradient>
+ <linearGradient
+ 
+ gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,263.493,-969.46532)">
+ <stop
+ 
+ style="stop-;stop-opacity:1"
+ offset="0" />
+ </linearGradient>
+ <linearGradient
+ 
+ gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)">
+ <stop
+ 
+ style="stop-;stop-opacity:1"
+ offset="0" />
+ </linearGradient>
+ <linearGradient
+ 
+ gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,239.54008,-1703.6896)">
+ <stop
+ 
+ style="stop-;stop-opacity:1"
+ offset="0" />
+ </linearGradient>
+ <linearGradient
+ 
+ gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,263.493,-969.46532)">
+ <stop
+ 
+ style="stop-;stop-opacity:1"
+ offset="0" />
+ </linearGradient>
+ <linearGradient
+ 
+ gradientTransform="matrix(-2.7365795,0.40810354,-0.18908311,-1.4468561,263.493,-969.46532)">
+ <stop
+ 
+ style="stop-;stop-opacity:1"
+ offset="0" />
+ </linearGradient>
+ </defs>
+ <g
+ transform="translate(-201.99979,-215)"
+ />
+ <g
+ transform="translate(-236.99979,-235)"
+ 
+ style="">
+ <path
+ d="m 244.00576,245.97581 c -0.97331,0 -1.88428,0.35634 -2.73294,1.06898 -0.84867,0.71265 -1.273,1.47875 -1.273,2.29829 0,0.49886 0.18398,0.89972 0.55193,1.2026 0.36795,0.30287 0.84866,0.45431 1.44214,0.45431 0.9733,0 1.88426,-0.35632 2.73293,-1.06897 0.84867,-0.71265 1.273,-1.47875 1.273,-2.29829 0,-0.49886 -0.18397,-0.89972 -0.55193,-1.20259 -0.36795,-0.30288 -0.84867,-0.45433 -1.44213,-0.45433"
+ 
+ 
+ style="fill:#666666;fill-rule:nonzero" />
+ <path
+ d="m 245.99981,235.00745 0,4.33591 c 0.45209,0.47277 0.84613,0.93579 1.14842,1.28905 0.33245,0.38844 0.69794,1.01903 1.03125,1.66406 0.32627,0.63141 0.49216,1.27002 0.49219,1.78123 -3e-5,1.03266 -0.22914,2.17636 -0.70313,3.28124 -0.10979,0.31947 -0.29862,0.58924 -0.47167,0.87304 0,0 0.25267,-0.0879 0.28417,-0.0996 0.47941,-0.17856 0.81981,-0.32384 1.05468,-0.5625 0.25034,-0.25434 0.41135,-0.60039 0.5625,-1.10156 0.21265,-0.79251 0.32813,-1.5569 0.32813,-2.3203 0,-0.64558 -0.14416,-1.32903 -0.39844,-1.99217 -0.25139,-0.6556 -0.54911,-1.25086 -0.91406,-1.82811 l -1.05468,-1.68749 c -0.3422,-0.54781 -0.67134,-1.11726 -0.91406,-1.7578 -0.18108,-0.64941 -0.26353,-0.63678 -0.4453,-1.875 z"
+ 
+ 
+ style="fill:#666666;fill-rule:nonzero" />
+ <path
+ d="m 244.00065,235.00745 1.99918,0 0,12.83131 -1.99918,0 z"
+ 
+ 
+ style="fill:#666666;fill-rule:nonzero;stroke-width:1.50800002;enable-background:new" />
+ </g>
 </svg>

@@ -1,59 +1,59 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   version="1.1"
-   width="16"
-   height="16"
-   id="svg7384">
-  <title
-     id="title9167">MuseScore Icon Theme</title>
-  <metadata
-     id="metadata90">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>MuseScore Icon Theme</dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs7386" />
-  <g
-     transform="translate(-117.99981,-158.99999)"
-     id="instruments" />
-  <g
-     transform="translate(-152.99981,-178.99999)"
-     id="actions"
-     style="display:inline">
-    <rect
-       width="7.9996052"
-       height="2.0002136"
-       x="156.00002"
-       y="181.99977"
-       id="rect3825-9-8-7-9-1"
-       style="color:#bebebe;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible" />
-    <rect
-       width="9.9996014"
-       height="2.0002136"
-       x="156.00002"
-       y="185.99977"
-       id="rect3825-9-8-7-8-4-7"
-       style="color:#bebebe;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible" />
-    <rect
-       width="3.9996033"
-       height="2.0002136"
-       x="156.00002"
-       y="189.99977"
-       id="rect3825-9-8-7-8-9-9-8"
-       style="color:#bebebe;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible" />
-  </g>
+ 
+ 
+ 
+ 
+ xmlns="http://www.w3.org/2000/svg"
+ version="1.1"
+ width="16"
+ height="16"
+ >
+ <title
+ >MuseScore Icon Theme</title>
+ <metadata
+ >
+ <rdf:RDF>
+ <cc:Work
+ rdf:about="">
+ <dc:format>image/svg+xml</dc:format>
+ <dc:type
+ rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+ <dc:title>MuseScore Icon Theme</dc:title>
+ </cc:Work>
+ </rdf:RDF>
+ </metadata>
+ <defs
+ />
+ <g
+ transform="translate(-117.99981,-158.99999)"
+ />
+ <g
+ transform="translate(-152.99981,-178.99999)"
+ 
+ style="">
+ <rect
+ width="7.9996052"
+ height="2.0002136"
+ x="156.00002"
+ y="181.99977"
+ 
+ style="fill:#666666;stroke-width:1" />
+ <rect
+ width="9.9996014"
+ height="2.0002136"
+ x="156.00002"
+ y="185.99977"
+ 
+ style="fill:#666666;stroke-width:1" />
+ <rect
+ width="3.9996033"
+ height="2.0002136"
+ x="156.00002"
+ y="189.99977"
+ 
+ style="fill:#666666;stroke-width:1" />
+ </g>
 </svg>

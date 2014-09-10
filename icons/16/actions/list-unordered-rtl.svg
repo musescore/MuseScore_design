@@ -1,65 +1,65 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   width="16"
-   height="16"
-   id="svg7384">
-  <title
-     id="title9167">MuseScore Icon Theme</title>
-  <metadata
-     id="metadata90">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>MuseScore Icon Theme</dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs7386" />
-  <g
-     transform="translate(-453.99978,-159)"
-     id="instruments" />
-  <g
-     transform="translate(-488.99978,-179)"
-     id="actions"
-     style="display:inline">
-    <rect
-       width="4"
-       height="2.0002136"
-       x="491.99979"
-       y="188.99973"
-       id="rect6983"
-       style="color:#bebebe;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible" />
-    <rect
-       width="6"
-       height="2.0002136"
-       x="489.99979"
-       y="182.99979"
-       id="rect6985"
-       style="color:#bebebe;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible" />
-    <path
-       d="m 406.76317,163.959 a 1.5468,1.2816342 0 1 1 -3.0936,0 1.5468,1.2816342 0 1 1 3.0936,0 z"
-       
-       transform="matrix(-0.96974644,0,0,1.1703837,893.45669,-7.89504)"
-       id="path4811"
-       style="fill:#666666;fill-opacity:1;stroke:none" />
-    <path
-       d="m 406.76317,163.959 a 1.5468,1.2816342 0 1 1 -3.0936,0 1.5468,1.2816342 0 1 1 3.0936,0 z"
-       
-       transform="matrix(-0.96974644,0,0,1.1703837,893.45669,-1.89495)"
-       id="path4813"
-       style="fill:#666666;fill-opacity:1;stroke:none" />
-  </g>
+ 
+ 
+ 
+ 
+ xmlns="http://www.w3.org/2000/svg"
+ 
+ version="1.1"
+ width="16"
+ height="16"
+ >
+ <title
+ >MuseScore Icon Theme</title>
+ <metadata
+ >
+ <rdf:RDF>
+ <cc:Work
+ rdf:about="">
+ <dc:format>image/svg+xml</dc:format>
+ <dc:type
+ rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+ <dc:title>MuseScore Icon Theme</dc:title>
+ </cc:Work>
+ </rdf:RDF>
+ </metadata>
+ <defs
+ />
+ <g
+ transform="translate(-453.99978,-159)"
+ />
+ <g
+ transform="translate(-488.99978,-179)"
+ 
+ style="">
+ <rect
+ width="4"
+ height="2.0002136"
+ x="491.99979"
+ y="188.99973"
+ 
+ style="fill:#666666;stroke-width:1" />
+ <rect
+ width="6"
+ height="2.0002136"
+ x="489.99979"
+ y="182.99979"
+ 
+ style="fill:#666666;stroke-width:1" />
+ <path
+ d="m 406.76317,163.959 a 1.5468,1.2816342 0 1 1 -3.0936,0 1.5468,1.2816342 0 1 1 3.0936,0 z"
+ 
+ transform="matrix(-0.96974644,0,0,1.1703837,893.45669,-7.89504)"
+ 
+ style="fill:#666666" />
+ <path
+ d="m 406.76317,163.959 a 1.5468,1.2816342 0 1 1 -3.0936,0 1.5468,1.2816342 0 1 1 3.0936,0 z"
+ 
+ transform="matrix(-0.96974644,0,0,1.1703837,893.45669,-1.89495)"
+ 
+ style="fill:#666666" />
+ </g>
 </svg>
