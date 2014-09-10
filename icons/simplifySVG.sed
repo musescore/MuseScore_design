@@ -44,3 +44,5 @@ s/standalone='no'//g
 s/>[ ]*</></g
 s/rx='0'//g
 s/rx="0"//g
+s/ry='0'//g
+s/ry="0"//g
