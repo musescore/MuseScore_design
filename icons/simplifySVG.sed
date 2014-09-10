@@ -2,7 +2,7 @@
 s/-inkscape-font-specification:[a-zA-Z0-9]*[ ]*//g
 s/baseline-shift:[a-z]*[ ]*//g
 s/block-progression:[a-z]*[ ]*//g
-s/color:#[0-9a-z]*[ ]*//g
+s/color:[#0-9a-z]*[ ]*//g
 s/direction:[a-z]*[ ]*//g
 s/font-family:[a-zA-Z0-9]*[ ]*//g
 s/font-size:[0-9\.a-z]*[ ]*//g
