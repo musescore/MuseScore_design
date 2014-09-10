@@ -42,3 +42,9 @@ s/rx='0'//g
 s/rx="0"//g
 s/ry='0'//g
 s/ry="0"//g
+
+#squeeze
+s/ */ /g
+s/;*/;/g
+s/;'/'/g
+s/;"/"/g
