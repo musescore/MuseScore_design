@@ -39,6 +39,7 @@ s/id=[\"'][^ ]*[\"'][ ]*//g
 s/xmlns:[^ ]*//g
 s/standalone='no'//g
 s/<title[^<]*<\/title>//g
+s/<defs[^<]*>//g
 
 #finishing cleanup
 s/style=''//g
