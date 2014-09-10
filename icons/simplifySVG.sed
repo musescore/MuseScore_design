@@ -5,8 +5,6 @@ s/block-progression:[a-z]*[ ]*//g
 s/color:#[a-z0-9]*[ ]*//g
 s/direction:[a-z]*[ ]*//g
 s/font-family:[a-zA-Z0-9]*[ ]*//g
-s/font-family:[a-zA-Z0-9]*[ ]*\"/\"/g
-s/font-family:[a-zA-Z0-9]*[ ]*\'/\'/g
 s/font-size:[0-9\.a-z]*[ ]*//g
 s/font-stretch:[a-z]*[ ]*//g
 s/font-style:[a-z]*[ ]*//g
