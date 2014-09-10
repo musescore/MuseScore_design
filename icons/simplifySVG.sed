@@ -43,6 +43,8 @@ s/<defs.*<\/defs>//g
 s/<?xml version='1.0'[^>]*>/<?xml version='1.0'?>/g
 
 #finishing cleanup
+s/;[a-z0-9];//g
+s/'[a-z0-9];/'/g
 s/style=''//g
 s/  */ /g
 s/;;*/;/g
