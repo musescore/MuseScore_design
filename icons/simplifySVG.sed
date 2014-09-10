@@ -42,3 +42,5 @@ s/id=[\"'][^ ]*[\"'][ ]*//g
 s/xmlns:[^ ]*//g
 s/standalone='no'//g
 s/>[ ]*</></g
+s/rx='0'//g
+s/rx="0"//g
