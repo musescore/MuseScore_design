@@ -42,9 +42,9 @@ s/rx='0'//g
 s/rx="0"//g
 s/ry='0'//g
 s/ry="0"//g
-s/style=''//g
 
-#squeeze
+#finishing cleanup
+s/style=''//g
 s/  */ /g
 s/;;*/;/g
 s/;'/'/g
