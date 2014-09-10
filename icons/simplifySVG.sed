@@ -33,7 +33,7 @@ s/fill-opacity:1;//g
 s/overflow:[a-z]*[ ]*[; ]//g
 s/marker:none;//g
 s/visibility:visible;//g
-s/enable-background:accumulate//g
+s/enable-background:accumulate;?//g
 s/<!--.*-->//g
 s/<?xml version='1.0'[^>]>/<?xml version='1.0'?>/g
 s/<title id='title9167'>.*<\/title>//g
