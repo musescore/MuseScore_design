@@ -41,3 +41,4 @@ s/<defs[^>]*>//g
 s/id=[\"'][^ ]*[\"'][ ]*//g
 s/xmlns:[^ ]*//g
 s/standalone='no'//g
+s/>[ ]*</></g
