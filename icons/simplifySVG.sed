@@ -40,6 +40,8 @@ s/xmlns:[^ ]*//g
 s/standalone='no'//g
 s/<title id='title9167'>.*<\/title>//g
 
+s/<\?xml version='1.0'[^>]>/<\?xml version='1.0'\?>/g
+
 #finishing cleanup
 s/style=''//g
 s/  */ /g
