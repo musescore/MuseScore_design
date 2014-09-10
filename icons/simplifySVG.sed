@@ -17,7 +17,7 @@ s/text-anchor:[a-z]*[ ]*//g
 s/text-decoration:[a-z]*[ ]*//g
 s/text-indent:[0-9a-z]*[ ]*//g
 s/text-transform:[a-z]*[ ]*//g
-s/word-spacing:[a-z]*[ ]*//g
+s/word-spacing:[0-9a-z]*[ ]*//g
 s/writing-mode:[a-z\-]*[ ]*//g
 
 #misc
