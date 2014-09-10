@@ -6,11 +6,11 @@ s/color:#[a-z0-9]*[ ]*//g
 s/direction:[a-z]*[ ]*//g
 s/font-family:[a-zA-Z0-9]*[ ]*//g
 s/font-size:[0-9\.a-z]*[ ]*//g
-s/font-stretch:[a-z]*[ ]*//g
+s/font-stretch:[0-9a-z]*[ ]*//g
 s/font-style:[a-z]*[ ]*//g
 s/font-variant:[a-z]*[ ]*//g
 s/font-weight:[0-9a-z]*[ ]*//g
-s/letter-spacing:[a-z]*[ ]*//g
+s/letter-spacing:[0-9a-z]*[ ]*//g
 s/line-height:[0-9a-z%]*[ ]*//g
 s/text-align:[a-z]*[ ]*//g
 s/text-anchor:[a-z]*[ ]*//g
