@@ -44,8 +44,8 @@ s/ry="0"//g
 
 #finishing cleanup
 s/style=''//g
-s/>[ ]*</></g
 s/  */ /g
+s/>[ ]*</></g
 s/;;*/;/g
 s/;'/'/g
 s/;"/"/g
