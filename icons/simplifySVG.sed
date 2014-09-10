@@ -39,7 +39,7 @@ s/id=[\"'][^ ]*[\"'][ ]*//g
 s/xmlns:[^ ]*//g
 s/standalone='no'//g
 s/<title[^<]*<\/title>//g
-s/<defs[^<]*>//g
+s/<defs[^<]*<\/defs>//g
 s/<?xml version='1.0'[^>]*>/<?xml version='1.0'?>/g
 
 #finishing cleanup
