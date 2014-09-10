@@ -30,6 +30,11 @@ s/overflow:[a-z]*[ ]*//g
 s/marker:none//g
 s/visibility:visible//g
 s/enable-background:accumulate//g
+s/<!--.*-->//g
+s/rx='0'//g
+s/rx="0"//g
+s/ry='0'//g
+s/ry="0"//g
 
 #finishing cleanup
 s/style=''//g
