@@ -38,16 +38,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="959"
+     inkscape:window-width="1920"
      inkscape:window-height="1014"
      id="namedview88"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="58.166531"
-     inkscape:cy="266.38033"
-     inkscape:window-x="960"
+     inkscape:cx="466.48096"
+     inkscape:cy="159.11605"
+     inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="actions"
      showborder="false"
      inkscape:snap-nodes="true"
@@ -1701,27 +1701,23 @@
          id="path10408"
          d="m 587.33591,392.66666 -1.1e-4,1.7778 5.33326,-2.66669 1.1e-4,-1.77778 z"
          style="fill:#303338;fill-opacity:1;stroke:none;display:inline" />
-      <use
-         height="16"
-         width="16"
-         transform="translate(-4.2912348e-6,-4.4444333)"
-         id="use3526"
-         xlink:href="#path10408"
-         y="0"
-         x="0" />
       <path
          sodipodi:nodetypes="ccccc"
          id="path19771-6-6"
          d="m 588.2247,385.55558 0,10.66667 0.88889,0 0,-10.66667 z"
          style="fill:#303338;fill-opacity:1;stroke:none;display:inline" />
-      <use
-         height="16"
-         width="16"
-         transform="translate(2.66667,-1.7777888)"
-         id="use9438"
-         xlink:href="#path19771-6-6"
-         y="0"
-         x="0" />
+      <path
+         style="fill:#303338;fill-opacity:1;stroke:none;display:inline"
+         d="m 587.33591,388.22223 -1.1e-4,1.7778 5.33326,-2.66669 1.1e-4,-1.77778 z"
+         id="path3642"
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#303338;fill-opacity:1;stroke:none;display:inline"
+         d="m 590.89137,383.77779 0,10.66667 0.88889,0 0,-10.66667 z"
+         id="path3644"
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0" />
     </g>
     <g
        style="display:inline"
