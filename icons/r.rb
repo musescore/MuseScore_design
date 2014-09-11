@@ -53,10 +53,11 @@ else
         puts "Rendering from icons in #{folder}/#{SRC}"
 	# Go through every layer.
 	svg.root.each_element("/svg/g[@inkscape:groupmode='layer']") do |context| 
+		context_name = context.attributes.get_attribute("id").value  
+		puts "Going through layer '" + context_name + "'"
 		context.each_element("g") do |icon|
-			#puts "DEBUG #{icon.attributes.get_attribute('id')}"
-			dir = "#{folder}"
-			#puts "To folder: #{dir}"
+			dir = "#{folder}/#{context_name}" # no longer using actions folder
+#			dir = "#{folder}"
 			icon_name = icon.attributes.get_attribute("id").value
 			chopSVG({	:name => icon_name,
 					:id => icon.attributes.get_attribute("id"),
