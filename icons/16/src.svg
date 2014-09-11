@@ -43,12 +43,12 @@
      id="namedview88"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="466.48096"
-     inkscape:cy="159.11605"
+     inkscape:cx="207.22817"
+     inkscape:cy="199.17521"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="actions"
+     inkscape:current-layer="raster-horizontal"
      showborder="false"
      inkscape:snap-nodes="true"
      inkscape:snap-bbox="true"
@@ -3604,25 +3604,25 @@
          id="g21314"
          style="opacity:0.25" />
       <path
-         transform="scale(1,-1)"
          style="fill:#303338;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
-         d="m 19.999962,-311 16,0 0,2 -16,0 z"
-         id="rect21322" />
+         d="m 19.999962,311 16,0 0,-1 -16,0 z"
+         id="rect21322"
+         inkscape:connector-curvature="0" />
       <path
-         transform="scale(1,-1)"
          style="fill:#303338;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
-         d="m 19.999962,-307 16,0 0,2 -16,0 z"
-         id="rect21832" />
+         d="m 19.999962,307 16,0 0,-1 -16,0 z"
+         id="rect21832"
+         inkscape:connector-curvature="0" />
       <path
-         transform="scale(1,-1)"
          style="fill:#303338;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
-         d="m 19.999962,-303 16,0 0,2 -16,0 z"
-         id="rect21834" />
+         d="m 19.999962,303 16,0 0,-1 -16,0 z"
+         id="rect21834"
+         inkscape:connector-curvature="0" />
       <path
-         transform="scale(1,-1)"
          style="fill:#303338;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
-         d="m 19.999962,-299 16,0 0,2 -16,0 z"
-         id="rect21836" />
+         d="m 19.999962,299 16,0 0,-1 -16,0 z"
+         id="rect21836"
+         inkscape:connector-curvature="0" />
     </g>
     <g
        id="raster-horizontal"
@@ -3640,25 +3640,25 @@
          style="opacity:0.25"
          id="g21842" />
       <path
-         transform="scale(1,-1)"
          style="fill:#303338;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
-         d="m 19.999962,-311 16,0 0,2 -16,0 z"
-         id="rect21844" />
+         d="m 19.999962,310 16,0 0,-1 -16,0 z"
+         id="rect21844"
+         inkscape:connector-curvature="0" />
       <path
-         transform="scale(1,-1)"
          style="fill:#303338;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
-         d="m 19.999962,-307 16,0 0,2 -16,0 z"
-         id="rect21846" />
+         d="m 19.999962,306 16,0 0,-1 -16,0 z"
+         id="rect21846"
+         inkscape:connector-curvature="0" />
       <path
-         transform="scale(1,-1)"
          style="fill:#303338;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
-         d="m 19.999962,-303 16,0 0,2 -16,0 z"
-         id="rect21848" />
+         d="m 19.999962,302 16,0 0,-1 -16,0 z"
+         id="rect21848"
+         inkscape:connector-curvature="0" />
       <path
-         transform="scale(1,-1)"
          style="fill:#303338;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
-         d="m 19.999962,-299 16,0 0,2 -16,0 z"
-         id="rect21850" />
+         d="m 19.999962,298 16,0 0,-1 -16,0 z"
+         id="rect21850"
+         inkscape:connector-curvature="0" />
     </g>
     <g
        id="edit"
