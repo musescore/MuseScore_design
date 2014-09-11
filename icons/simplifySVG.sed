@@ -29,7 +29,7 @@ s/fill-opacity:1//g
 s/overflow:[a-z]*[ ]*//g
 s/marker:none//g
 s/visibility:visible//g
-s/enable-background:accumulate//g
+s/enable-background:[a-z]*//g
 s/<!--.*-->//g
 s/rx='0'//g
 s/rx="0"//g
