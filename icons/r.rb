@@ -57,7 +57,7 @@ else
 		puts "Going through layer '" + context_name + "'"
 		context.each_element("g") do |icon|
 			#puts "DEBUG #{icon.attributes.get_attribute('id')}"
-#			dir = "#{folder}/#{context_name}"
+#			dir = "#{folder}/#{context_name}" # no longer using actions folder
 			dir = "#{folder}"
 			#puts "To folder: #{dir}"
 			icon_name = icon.attributes.get_attribute("id").value
