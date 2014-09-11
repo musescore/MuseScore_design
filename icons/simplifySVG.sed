@@ -45,6 +45,9 @@ s/<defs *\/>//g
 
 #may cause problems?
 s/fill-rule:nonzero//g
+s/15.99[0-9]*/16/g
+s/23.99[0-9]*/24/g
+s/47.99[0-9]*/48/g
 
 #finishing cleanup
 s/;[a-z0-9];//g
