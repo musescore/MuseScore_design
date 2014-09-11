@@ -41,6 +41,7 @@ s/standalone='no'//g
 s/<title[^<]*<\/title>//g
 s/<defs.*<\/defs>//g
 s/<?xml version='1.0'[^>]*>/<?xml version='1.0'?>/g
+s/<defs *\/>//g
 
 #finishing cleanup
 s/;[a-z0-9];//g
