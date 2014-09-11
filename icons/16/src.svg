@@ -42,9 +42,9 @@
      inkscape:window-height="1014"
      id="namedview88"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="99.545868"
-     inkscape:cy="55.90978"
+     inkscape:zoom="11.313708"
+     inkscape:cx="94.506573"
+     inkscape:cy="58.72429"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -4050,6 +4050,16 @@
          d="m 38,275 0,1 c 0,0 0,0.5 0.5,1 l 2,2 -2,2 c -0.5,0.5 -0.5,1 -0.5,1 l 0,1 1,0 c 0.5,0 1,-0.5 1,-0.5 l 2,-2 2,2 c 0,0 0.5,0.5 1,0.5 l 1,0 0,-1 c 0,0 0,-0.5 -0.5,-1 l -2,-2 2,-2 c 0.5,-0.5 0.5,-1 0.5,-1 l 0,-1 -1,0 c -0.5,0 -1,0.5 -1,0.5 l -2,2 -2,-2 c 0,0 -0.5,-0.5 -1,-0.5 l -1,0 z"
          style="fill:#373b41;fill-opacity:1;stroke:none"
          inkscape:connector-curvature="0" />
+      <rect
+         style="color:#000000;fill:none;stroke:#a0a0a0;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+         id="rect4628"
+         width="15"
+         height="15"
+         x="20.499966"
+         y="-311.5"
+         rx="1.5"
+         ry="1.5"
+         transform="scale(1,-1)" />
     </g>
     <g
        id="window-float-hover"
@@ -4089,14 +4099,5 @@
          ry="1.5"
          transform="scale(1,-1)" />
     </g>
-    <rect
-       style="color:#000000;fill:none;stroke:#a0a0a0;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
-       id="rect4628"
-       width="15"
-       height="15"
-       x="125.49981"
-       y="291.5"
-       rx="1.5"
-       ry="1.5" />
   </g>
 </svg>
