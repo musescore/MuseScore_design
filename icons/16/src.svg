@@ -42,9 +42,9 @@
      inkscape:window-height="1014"
      id="namedview88"
      showgrid="false"
-     inkscape:zoom="11.313708"
-     inkscape:cx="94.506573"
-     inkscape:cy="58.72429"
+     inkscape:zoom="1"
+     inkscape:cx="63.44764"
+     inkscape:cy="38.511302"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -3635,14 +3635,26 @@
     </g>
     <g
        id="edit"
-       transform="matrix(1.4545455,0,0,1.4545455,-291.95178,-597.40122)"
+       transform="matrix(1.4545455,0,0,1.4545455,-290.95178,-598.40122)"
        inkscape:label="edit">
       <path
          style="fill:#373b41;fill-opacity:1;fill-rule:evenodd;stroke:none"
-         d="m 75.09375,327 c -0.677736,0.68734 -1.361837,1.36746 -2.0625,2.03125 1.083156,0.87351 2.098699,1.85145 2.96875,2.9375 L 78,330 c 0,-0.0317 0.0014,-0.062 0,-0.0937 0,-0.15017 -0.0396,-0.28893 -0.0625,-0.4375 -0.176449,-1.1446 -0.988028,-2.18357 -2.3125,-2.4063 C 75.4461,327.0174 75.275568,327 75.09375,327 z m -3.125,3.09375 L 62,340 l 0,3 3,0 9.90625,-9.9375 c -0.858196,-1.10346 -1.837631,-2.10619 -2.9375,-2.96875 z"
-         transform="matrix(0.68749998,0,0,0.68749998,224.77934,405.21333)"
+         d="m 275.28074,631.4012 c -0.40768,0.41346 -0.8192,0.82258 -1.24067,1.22187 0.65156,0.52545 1.26245,1.11372 1.78582,1.76703 l 1.20307,-1.18429 c 0,-0.0191 8.5e-4,-0.0373 0,-0.0564 0,-0.0903 -0.0238,-0.1738 -0.0376,-0.26317 -0.10614,-0.68852 -0.59434,-1.31351 -1.39106,-1.44749 -0.10762,-0.0271 -0.2102,-0.0376 -0.31957,-0.0376 z m -1.87981,1.86101 -5.99659,5.959 0,1.80461 1.80462,0 5.95899,-5.97779 c -0.51624,-0.66378 -1.1054,-1.26696 -1.76702,-1.78582 z"
          id="path18952"
-         sodipodi:nodetypes="cccccscccccccc" />
+         sodipodi:nodetypes="cccccscccccccc"
+         inkscape:connector-curvature="0" />
+      <rect
+         transform="matrix(0,1,1,0,0,0)"
+         y="266.71683"
+         x="630.7135"
+         height="11"
+         width="11"
+         id="rect21840-5"
+         style="color:#bebebe;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible" />
+      <g
+         transform="matrix(0,0.68749998,0.68749998,0,60.351932,617.65394)"
+         style="opacity:0.25;display:inline"
+         id="g21842-9" />
     </g>
     <g
        style="display:inline"
