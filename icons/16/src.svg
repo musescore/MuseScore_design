@@ -43,12 +43,12 @@
      id="namedview88"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="243.07218"
-     inkscape:cy="209.4881"
+     inkscape:cx="287.85754"
+     inkscape:cy="254.54937"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="format-text-superscript"
+     inkscape:current-layer="actions"
      showborder="false"
      inkscape:snap-nodes="true"
      inkscape:snap-bbox="true"
@@ -3523,34 +3523,6 @@
          transform="matrix(1,0,0,-1,-14.000035,582.99999)"
          id="path3776"
          inkscape:connector-curvature="0" />
-    </g>
-    <g
-       style="display:inline"
-       transform="matrix(1,0,0,-1,77.00006,602.99999)"
-       inkscape:label="window-float"
-       id="window-float">
-      <path
-         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans;opacity:0.4"
-         d="m 23,299 0,10 10,0 0,-10 z m 4,4 2,0 0,2 -2,0 z"
-         id="path4479"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccccccccc" />
-      <rect
-         style="color:#bebebe;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible"
-         id="rect8305"
-         width="16"
-         height="16"
-         x="19.99975"
-         y="296" />
-      <g
-         id="g8307"
-         style="opacity:0.25" />
-      <path
-         style="fill:#3b3f45;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         d="m 23.99975,308 0,-8 8,0 0,8 z m 2,-2 4,0 0,-4 -4,0 z"
-         id="path8309"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccccccccc" />
     </g>
     <g
        style="display:inline"
