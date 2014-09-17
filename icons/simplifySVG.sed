@@ -42,7 +42,7 @@ s/<title[^<]*<\/title>//g
 s/<defs.*<\/defs>//g
 s/<?xml version='1.0'[^>]*>/<?xml version='1.0'?>/g
 s/<defs *\/>//g
-s/<rect [^>]* height='16' [^>]*fill:none[^>]*>//g
+s/<rect[^>]*height='16'[^>]*fill:none[^>]*>//g
 
 #may cause problems?
 s/fill-rule:nonzero//g
