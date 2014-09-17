@@ -43,8 +43,8 @@
      id="namedview88"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="14.784288"
-     inkscape:cy="67.07138"
+     inkscape:cx="35.072749"
+     inkscape:cy="65.541492"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -3969,46 +3969,9 @@
          style="color:#bebebe;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible" />
     </g>
     <g
-       id="window-close-hover"
-       inkscape:label="window-close-hover"
-       transform="matrix(1,0,0,-1,48.999952,602.99999)"
-       style="display:inline">
-      <path
-         inkscape:connector-curvature="0"
-         id="path4588"
-         d="m 22.999965,308.99999 c 0.0077,-0.70479 -0.01553,-1.41121 0.01196,-2.11496 0.07806,-0.7434 0.500482,-1.3958 1.049295,-1.88379 0.33375,-0.33375 0.6675,-0.6675 1.00125,-1.00125 -0.505586,-0.5233 -1.050892,-1.01065 -1.524258,-1.56318 -0.421727,-0.55454 -0.582139,-1.25968 -0.538242,-1.94594 0,-0.49696 0,-0.99392 0,-1.49088 0.769347,0.011 1.54087,-0.0242 2.30859,0.0219 0.972275,0.14079 1.585647,0.9633 2.25016,1.59935 0.147083,0.14708 0.294167,0.29417 0.44125,0.44125 0.523157,-0.50409 1.007663,-1.05058 1.561654,-1.52092 0.478035,-0.40221 1.101441,-0.5881 1.721189,-0.54158 0.572385,0 1.144771,0 1.717157,0 -0.0077,0.70479 0.01552,1.41121 -0.01196,2.11496 -0.07806,0.7434 -0.500482,1.3958 -1.049295,1.88379 -0.33375,0.33375 -0.6675,0.6675 -1.00125,1.00125 0.505586,0.5233 1.050892,1.01065 1.524258,1.56318 0.421727,0.55454 0.582139,1.25968 0.538242,1.94594 0,0.49696 0,0.99392 0,1.49088 -0.769347,-0.0111 -1.54087,0.0242 -2.30859,-0.0219 -0.972275,-0.14079 -1.585647,-0.9633 -2.25016,-1.59935 -0.147083,-0.14708 -0.294167,-0.29417 -0.44125,-0.44125 -0.523157,0.50409 -1.007663,1.05058 -1.561654,1.52092 -0.478035,0.40221 -1.101441,0.5881 -1.721189,0.54158 -0.572385,0 -1.144771,0 -1.717157,0 z"
-         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.4;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
-      <rect
-         y="296"
-         x="19.99975"
-         height="16"
-         width="16"
-         id="rect4590"
-         style="color:#bebebe;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible" />
-      <g
-         style="opacity:0.25"
-         id="g4592" />
-      <path
-         id="path4594"
-         transform="matrix(1,0,0,-1,-14.000035,582.99999)"
-         d="m 38,275 0,1 c 0,0 0,0.5 0.5,1 l 2,2 -2,2 c -0.5,0.5 -0.5,1 -0.5,1 l 0,1 1,0 c 0.5,0 1,-0.5 1,-0.5 l 2,-2 2,2 c 0,0 0.5,0.5 1,0.5 l 1,0 0,-1 c 0,0 0,-0.5 -0.5,-1 l -2,-2 2,-2 c 0.5,-0.5 0.5,-1 0.5,-1 l 0,-1 -1,0 c -0.5,0 -1,0.5 -1,0.5 l -2,2 -2,-2 c 0,0 -0.5,-0.5 -1,-0.5 l -1,0 z"
-         style="fill:#3b3f45;fill-opacity:1;stroke:none"
-         inkscape:connector-curvature="0" />
-      <rect
-         style="color:#000000;fill:none;stroke:#a0a0a0;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
-         id="rect4628"
-         width="15"
-         height="15"
-         x="20.499966"
-         y="-311.5"
-         rx="1.5"
-         ry="1.5"
-         transform="scale(1,-1)" />
-    </g>
-    <g
        transform="matrix(1.0011372,0,0,1,-81.138924,-247.00001)"
-       inkscape:label="accessories-character-map"
-       id="g14600-4">
+       inkscape:label="insert_symbol"
+       id="insert_symbol">
       <rect
          style="fill:none;stroke:none"
          id="rect3620-8-8"
@@ -4044,8 +4007,8 @@
     <g
        style="display:inline"
        transform="matrix(1,0,0,-1,20.999956,602.99999)"
-       inkscape:label="window-close-hover"
-       id="g3634">
+       inkscape:label="window-close"
+       id="window-close">
       <rect
          style="color:#bebebe;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible"
          id="rect3638"
