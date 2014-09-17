@@ -43,12 +43,12 @@
      id="namedview88"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="107.48195"
-     inkscape:cy="44.881373"
+     inkscape:cx="14.784288"
+     inkscape:cy="67.07138"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="edit-reset"
+     inkscape:current-layer="actions"
      showborder="false"
      inkscape:snap-nodes="true"
      inkscape:snap-bbox="true"
@@ -3971,7 +3971,7 @@
     <g
        id="window-close-hover"
        inkscape:label="window-close-hover"
-       transform="matrix(1,0,0,-1,20.999956,602.99999)"
+       transform="matrix(1,0,0,-1,48.999952,602.99999)"
        style="display:inline">
       <path
          inkscape:connector-curvature="0"
@@ -4040,6 +4040,28 @@
          id="text11012"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccssccccccssccsss" />
+    </g>
+    <g
+       style="display:inline"
+       transform="matrix(1,0,0,-1,20.999956,602.99999)"
+       inkscape:label="window-close-hover"
+       id="g3634">
+      <rect
+         style="color:#bebebe;fill:none;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible"
+         id="rect3638"
+         width="16"
+         height="16"
+         x="19.99975"
+         y="296" />
+      <g
+         id="g3640"
+         style="opacity:0.25" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#3b3f45;fill-opacity:1;stroke:none"
+         d="m 38,275 0,1 c 0,0 0,0.5 0.5,1 l 2,2 -2,2 c -0.5,0.5 -0.5,1 -0.5,1 l 0,1 1,0 c 0.5,0 1,-0.5 1,-0.5 l 2,-2 2,2 c 0,0 0.5,0.5 1,0.5 l 1,0 0,-1 c 0,0 0,-0.5 -0.5,-1 l -2,-2 2,-2 c 0.5,-0.5 0.5,-1 0.5,-1 l 0,-1 -1,0 c -0.5,0 -1,0.5 -1,0.5 l -2,2 -2,-2 c 0,0 -0.5,-0.5 -1,-0.5 l -1,0 z"
+         transform="matrix(1,0,0,-1,-14.000035,582.99999)"
+         id="path3643" />
     </g>
   </g>
 </svg>
